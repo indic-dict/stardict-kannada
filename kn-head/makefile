@@ -2,7 +2,7 @@ STARDICT_TOOLS_DIR=~/stardict/tools/src/
 TABFILE=$(STARDICT_TOOLS_DIR)/tabfile
 
 ifndef dicts
-	dicts="*"
+	dicts=*
 endif
 
 all:
