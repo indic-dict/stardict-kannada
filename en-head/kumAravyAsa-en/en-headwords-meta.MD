@@ -14,5 +14,7 @@ Creation instructions.
 	- z to sh
 	- kSh to x
 	- jJ to GY
-	
+- Run make_tsv.sh.
+- Go to the parent directory, and run make all.
+
 
