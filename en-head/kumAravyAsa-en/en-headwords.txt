@@ -1,18 +1,18 @@
 anka
-anke
+ankE
 anka
 anka
 anka
-ankake
-ankaNe
+ankakE
+ankaNE
 ankarisalu
 ankisu
 ankura
 ankurisu
 ankurisu
-ankuza
-ankuza
-ankuzavaaLe
+ankusha
+ankusha
+ankushavaaLE
 anga
 angachitta
 angachChavi
@@ -23,8 +23,8 @@ angavaTTa
 angavaTTa
 angavaTTa
 angavaTTa
-angavaNe
-angavaNe
+angavaNE
+angavaNE
 angavalla
 angavisi
 angavisu
@@ -34,83 +34,83 @@ angahaara
 angaarakaaraka
 anguli
 angaisalu
-angaisidane
+angaisidanE
 angaisidaru
 angaisu
 angaisu
 angaisu
 angaisu
 angopaanga
-anghavaNe
-anghavaNe
-anghavaNe
+anghavaNE
+anghavaNE
+anghavaNE
 anghaisu
 anghaisu
 anghaisu
-anghaisaÀu
+anghaisaÀು
 anghri
-anghridvayake
+anghridvayakE
 anjana
 anjali
 anjali
 anjuLi
-aMDaja
-aMDale
-aMDale
-aMDalesu
-aMDugoMDudu
-anta
-antaHkaraNa
-antaHkaraNa
-antaHzrama
-antaHstaapaÀzikhi
-antakana nereyuuravaru
-antakapura
-antakasuunu
-antakaalaya
-antara
-antaranga
-antarangaru
-antaralagaDi
-antarisu
-antarisu
-antardaayi
-antardaahaka
-antarbaddha
-antarbhaava
-antarbhaava
-antarmana
-antarmukha
-antaryaami
-antavryathe
-antavryaakuLate
-antastaapa
-antastaapavanu
-antasmaøte
-antyadali
-antyavarNa
-andageDisade
-andageDisu
-andavaLiyade
-andhatimira
-andhanRpa
-ambanu
-ambara
-ambarasarasi
-ambinali
-ambinahoraLi
-ambu
-ambuja paaNi
-ambujabhava
-ambujaambakayugaLa
-ambhoja mukhi
-ambhodi
-ambhoruhaakSi
+aNDaja
+aNDalE
+aNDalE
+aNDalEsu
+aNDugONDudu
+aMta
+aMtaHkaraNa
+aMtaHkaraNa
+aMtaHshrama
+aMtaHstaapaÀshikhi
+aMtakana nErEyuuravaru
+aMtakapura
+aMtakasuunu
+aMtakaalaya
+aMtara
+aMtaranga
+aMtarangaru
+aMtaralagaDi
+aMtarisu
+aMtarisu
+aMtardaayi
+aMtardaahaka
+aMtarbaddha
+aMtarbhaava
+aMtarbhaava
+aMtarmana
+aMtarmukha
+aMtaryaami
+aMtavryathE
+aMtavryaakuLatE
+aMtastaapa
+aMtastaapavanu
+aMtasmaøtE
+aMtyadali
+aMtyavarNa
+aMdagEDisadE
+aMdagEDisu
+aMdavaLiyadE
+aMdhatimira
+aMdhanRpa
+aMbanu
+aMbara
+aMbarasarasi
+aMbinali
+aMbinahOraLi
+aMbu
+aMbuja paaNi
+aMbujabhava
+aMbujaaMbakayugaLa
+aMbhoja mukhi
+aMbhodi
+aMbhoruhaaxi
 akaTa
 akaala
 akuTila
 akuTilaru
-akRtyazata
+akRtyashata
 akkaja
 akkaja
 akkaja
@@ -123,21 +123,21 @@ akku
 akkuDisu
 akkuDisu
 akkuvude
-akkeya
+akkEya
 akrodhi
-akSa
-akSa dhuurtaru
-akSamaru
-akSamaale
-akSayazara niSanga
-akSiiNa
-akSiiNa
-akSiiNaduritaru
-akSohiNi
-akSohiNi
-akSohiNi: gadaaparvada 2 sandhiya 8neya
-akhaMDa
-akhaMDa
+axa
+axa dhuurtaru
+axamaru
+axamaalE
+axayashara niShanga
+axiiNa
+axiiNa
+axiiNaduritaru
+axohiNi
+axohiNi
+axohiNi: gadaaparvada 2 saMdhiya 8nEya
+akhaNDa
+akhaNDa
 akhinna
 akhiLa raajaavaLigaLa
 akhiLaamnaaya
@@ -151,14 +151,14 @@ agadhara
 agamya
 agaru
 agaru
-agalakke
+agalakkE
 agaLu
 agaadha
 agi
 agi
 agidu
 agidu
-agiye
+agiyE
 agiva
 agiva
 aguLu
@@ -167,25 +167,25 @@ aggaDalu
 aggaDalu
 aggada
 aggada
-aggaLike
-aggaLike
-aggaLike
+aggaLikE
+aggaLikE
+aggaLikE
 aggaLisu
-aggaLe
-aggaLeya
-aggaLeya
-aggaLeyatana
-aggaLeyaru
-aggaLeyaru
+aggaLE
+aggaLEya
+aggaLEya
+aggaLEyatana
+aggaLEyaru
+aggaLEyaru
 aggitu
 aggisu
 aggisu
 aggu
 agniya padatrayakaragi
-agnisaakSika
+agnisaaxika
 agnihotra
 agrajaanujaru
-agraje
+agrajE
 agraNi
 agrahaara
 aghatita
@@ -197,7 +197,7 @@ achyuta
 ajigiji
 ajitasaahasa
 ajeya
-ajJaata
+aGYaata
 aTamaTisi
 aTavi
 aTaviichararu
@@ -205,9 +205,9 @@ aTTahaasa
 aTTiaaDu
 aTTu
 aTTu
-aTTe
-aTTe
-aTTe
+aTTE
+aTTE
+aTTE
 aDa haayda
 aDakila
 aDaku
@@ -218,11 +218,11 @@ aDagu
 aDagu
 aDagu
 aDagudari
-aDageDahi
-aDageDahu
-aDageDuhu
+aDagEDahi
+aDagEDahu
+aDagEDuhu
 aDataradali
-aDataradoLikku
+aDataradOLikku
 aDadu
 aDaratii bala
 aDaru
@@ -244,19 +244,19 @@ aDaaya
 aDaayudha
 aDaayudha
 aDaayudha
-aDigaDige
+aDigaDigE
 aDupaaya
 aDupaaya
 aDupaaya
-aDegeDe
-aDegeDedanaadare
-aDDa hoylu
-aDDageDahuvenu
+aDEgEDE
+aDEgEDEdanaadarE
+aDDa hOylu
+aDDagEDahuvEnu
 aDDaNa
 aDDabidda
-aDDavarige
-aDDavarige
-aDDavarige
+aDDavarigE
+aDDavarigE
+aDDavarigE
 aDDavisalu
 aDDaisidanu
 aNaka
@@ -267,36 +267,36 @@ aNalu
 aNasilu
 aNasu
 aNasu
-aNiyoLu
+aNiyOLu
 aNisinali
 aNu
 aNu
 aNuga
 aNuva
-aNe
-aNe
-aNe
-aNedu
-aNedu
-aNedu
-aNer
-aNeva harige
+aNE
+aNE
+aNE
+aNEdu
+aNEdu
+aNEdu
+aNEr
+aNEva harigE
 aNoraNiiya
-atikRzaru
-atigahanavananiSTharaadaru
+atikRsharu
+atigahanavananiShTharaadaru
 atigaLitavaaytu avadhi
-atigaLe
+atigaLE
 atigaaDhadali
 atibala
 atibalaru
 atibaLaru
-atibhaaSegaLa
-atizaya
+atibhaaShEgaLa
+atishaya
 atula
 atuLa
 atuLa
 atyaaliiDha
-atyutkaøSTacharita
+atyutkaøShTacharita
 adaTa
 adaTa
 adaTa nidhaana
@@ -305,14 +305,14 @@ adaTu
 adaTu
 adaTu
 adara phala
-adaroLu
-adire
+adarOLu
+adirE
 adubhuta
-adRzyaanjana
-ade
+adRshyaanjana
+adE
 adehari
 addaru
-addide
+addidE
 addu
 addudu
 adri
@@ -322,9 +322,9 @@ advayanu
 advaara
 advaara
 advaita
-advaitakale
+advaitakalE
 adharada
-adhikarivaribbaroLage
+adhikarivaribbarOLagE
 adhikarisi
 adhidaiva
 adhivyaadhi
@@ -332,19 +332,19 @@ adhiina
 adhogati
 adhomukha
 adhruva
-adhvazrama
-adhvazrama
-ananta
-ananta
-anantaveda
-anantazayana
+adhvashrama
+adhvashrama
+anaMta
+anaMta
+anaMtaveda
+anantashayana
 anapatyataa
 anaghrya
 anartha
 analakeLi
 anavadhaana
 anavarata
-anazana
+anashana
 anaagata
 anaadi
 anaamika
@@ -356,29 +356,29 @@ anibara
 anibara
 anibaranu
 anibaranu
-anibarige
-anibarige
+anibarigE
+anibarigE
 anibaru
-animiSa
-animiSatana
-animiSaru
-animiSaavaLi
-animeSa
+animiSha
+animiShatana
+animiSharu
+animiShaavaLi
+animeSha
 anila
 anila tanuujanu
 anilaja
 anilajanaaLu
-anilajanu maraLe
+anilajanu maraLE
 anila java
 anilana
 anilana thaTTu
 anilasuta
 anilasuta
-anilasmaraNe
-aniSTate
+anilasmaraNE
+aniShTatE
 anu
 anukarisidanu
-anukaruSa
+anukaruSha
 anugata
 anugata
 anugati
@@ -394,37 +394,37 @@ anunaya
 anunaayaka
 anupama
 anupama
-anupamaambara
+anupamaaMbara
 anupamaana
 anupamita
-anubandha
+anubaMdha
 anumata
 anumata
 anulepana
 anulepana
 anuloma
-anuvajje
+anuvajjE
 anuvanu
-anuvarake
+anuvarakE
 anuvaradali
 anuvaagu
 anuvaagu
 anuvaaytu
 anuvu
-anuSThaanaavalambana
-anu¸ndhaana
-anusandhaana
-anusandhaana
-anusandhaana
-anusandhaana
+anuShThaanaavalaMbana
+anu¸Mdhaana
+anusaMdhaana
+anusaMdhaana
+anusaMdhaana
+anusaMdhaana
 anusaari
 anuuna
 anuuna
 anuuna
-annebara
+annEbara
 anyaayapatha
 anvaya tilaka
-anvayake
+anvayakE
 anvayaghaatakaru
 anvayaabdhi anvaya
 anvayisuva
@@ -436,11 +436,11 @@ apagata
 apagata
 apagata glaani
 apajayastrii viTa
-apatyaantara bhagini
-apadaze
-apadese
-apadese
-apadese
+apatyaaMtara bhagini
+apadashE
+apadEsE
+apadEsE
+apadEsE
 apadvaara
 apanoda
 apamRtyu
@@ -449,7 +449,7 @@ aparajalanidhi
 aparabhaaga
 aparabhaaga
 apararuupo
-aparaambudhi
+aparaaMbudhi
 apavarga
 apasada
 apasada
@@ -474,52 +474,52 @@ apratibalaru
 apratima
 apratimalla
 abalaajana
-abalaavRnda
-abale
+abalaavRMda
+abalE
 abaLaru
 abujabhava
 abujamitra
-abujaakSi
+abujaaxi
 abujaasana
 abudhi
 abjabhava
 abdiya kuruvadali
 abbara
-abbaraNe
-abbarise
+abbaraNE
+abbarisE
 abhanga
 abhanga
-abhanganahe
-abhangapeMDeya
+abhanganahE
+abhangapENDEya
 abhaya
 abhayakara
-abhayada seragu biisu
+abhayada sEragu biisu
 abhava
 abhava
 abhigaami
 abhichaara
 abhijaata
-abhijJa
-abhijJa
-abhiniveza
+abhiGYa
+abhiGYa
+abhinivesha
 abhipraaya
 abhibhaavakaru
-abhimantritaÀ
+abhimaMtritaÀ
 abhimata
 abhimata
 abhimata
 abhimata
 abhimata
-abhimanyuvina nandana
-abhimukhakke
+abhimanyuvina naMdana
+abhimukhakkE
 abhiyoga
 abhiruupa
-abhilaaSe
-abhivandita
+abhilaaShE
+abhivaMdita
 abhivarNisu
 abhivarNisu
-abhisandhi
-abhiiSTa
+abhisaMdhi
+abhiiShTa
 abhiiLa
 abhyaasa
 abhyaasa
@@ -527,15 +527,15 @@ abhyudaya
 abhra
 abhradakuDi
 abhramaana
-abhrazyaama
-amara zreNi
+abhrashyaama
+amara shreNi
 amaragaNa
 amaradhenu
 amarapati pada
 amarapura
 amaraachala
 amaraadri
-amaraadhiiza
+amaraadhiisha
 amaraari
 amaraari
 amaraavati
@@ -543,33 +543,33 @@ amaraavati
 amariyaru
 amariinikara
 amaru
-amarezvara
+amareshvara
 amala
 amalamuurtivilaasa
 amaLatara
-amaanuSa
-amaanuSa
+amaanuSha
+amaanuSha
 ammadu
 ammadu
-ammade
+ammadE
 ammu
 ammuvaru illa
-ammenu
-ammenu
+ammEnu
+ammEnu
 ayya
 ayya
-arakeya
+arakEya
 araNi
-aranele
-aranele
-aranele
-araneÉle
+aranElE
+aranElE
+aranElE
+aranEÉlE
 arayidu
-aralugoL
-aravarisade
-aravinda sakha
-aravindanaabha
-aravindavadane
+aralugOL
+aravarisadE
+araviMda sakha
+araviMdanaabha
+araviMdavadanE
 arasa keLu
 arasanu
 arasi
@@ -580,23 +580,23 @@ arasu
 arasu
 arasugurigaLu
 arasutana
-arasumotta
-arase
-araLamaLe
+arasumOtta
+arasE
+araLamaLE
 araLu
 araajaka
 ari
-arike
-arike
-arike
+arikE
+arikE
+arikE
 arita
 arita
 arida
 arida
 aridanu
-aridareyu
-aridizaapaTa
-aridizaapaTa
+aridarEyu
+aridishaapaTa
+aridishaapaTa
 aridu
 aridu
 aridu
@@ -614,39 +614,39 @@ ariva
 arivarisu
 arividaara
 arividaaraNa bhiima
-arivinoLaakevaaLaru
-arivenu
+arivinOLaakEvaaLaru
+arivEnu
 aruNajala
 aruNamaya
 aruNavaari
-aruNaaM¨u
-aruhidapenu
-are
-are
-arekeDu
-aregelasi
-aredu
-aredu
-aredudu
-aredereye
-arenegahi
-arenele
-arenele
-arenele
-arenele
-arebaLida
-aremuridu
-areyaTTi
-areyaTTi
-areyaTTidanu
-areyaTTu
-areyaTTu
-areyaTTu
-areyaTTu
-areyaTTu
-areyaaL
-arevonalu
-arevoylu
+aruNaaMು
+aruhidapEnu
+arE
+arE
+arEkeDu
+arEgElasi
+arEdu
+arEdu
+arEdudu
+arEdErEyE
+arEnEgahi
+arEnElE
+arEnElE
+arEnElE
+arEnElE
+arEbaLida
+arEmuridu
+arEyaTTi
+arEyaTTi
+arEyaTTidanu
+arEyaTTu
+arEyaTTu
+arEyaTTu
+arEyaTTu
+arEyaTTu
+arEyaaL
+arEvOnalu
+arEvoylu
 arochakavu
 aghrya
 arjunanuja
@@ -657,16 +657,16 @@ artha
 artha
 arthi
 arthi
-ardhachandrada saraLu
-ardhachandravyuuha
+ardhachaMdrada saraLu
+ardhachaMdravyuuha
 arbhaka
 alanghya
-alampu
+alaMpu
 alagu
 alagu
 alagu
 alagu idu
-alagu hogara
+alagu hOgara
 alaghu
 alaghu
 alaghu
@@ -674,14 +674,14 @@ alaghu bhujabala
 alaghu bhujabala
 alaru
 alasada
-alasade
-alasade
+alasadE
+alasadE
 alasi
 alasi
 alasi
-alasike
+alasikE
 alasidaru
-alasidaru binnaNake
+alasidaru binnaNakE
 alasu
 aluku
 alugu
@@ -695,7 +695,7 @@ avagaDisi
 avagaDisi
 avagaDisi
 avagaDisi
-avagaDisi hokkandavanu
+avagaDisi hOkkaMdavanu
 avagaDisu
 avagaDisu
 avagaDisu
@@ -705,15 +705,15 @@ avagaDisu
 avagaDisu
 avagaDisu
 avagaDisu
-avagaDise
-avagaDeyatana
-avagaDeya
+avagaDisE
+avagaDEyatana
+avagaDEya
 avagaahisu
 avaguNa
 avaguNa
 avaghaDisi
-avachidantire
-avadharisabahude
+avachidaMtirE
+avadharisabahudE
 avadhaana
 avadhaana
 avadhaana
@@ -741,19 +741,19 @@ avaniidivija
 avaniipaala
 avaniipaalaka
 avaniipaalaru
-avaniimaMDala
+avaniimaNDala
 avaniivaasa
-avaniiza
-avaniiza
+avaniisha
+avaniisha
 avanu
 avabhRta
-avaroLage
-avalambana
+avarOLagE
+avalaMbana
 avalokana
-avazakuna zata
+avashakuna shata
 avasara
-avasaradaane
-avasaradaane
+avasaradaanE
+avasaradaanE
 avasaana
 avasaana
 avasaana
@@ -774,13 +774,13 @@ avyaahata
 avvaLipa
 avvaLisi
 avvaLisu
-azana
-azani
-azruprasara
-azlaaghya
-azvachaya
-azvamedha phala
-aSTaadazaakSohiNiya naariyaru
+ashana
+ashani
+ashruprasara
+ashlaaghya
+ashvachaya
+ashvamedha phala
+aShTaadashaaxohiNiya naariyaru
 asadaLa
 asabaDi
 asabaDi
@@ -803,45 +803,45 @@ asuraaraati
 asuraari
 asuraari
 asuraari
-asuvinge
+asuvingE
 askhalita
 astagiri
 astaachala
 astaachalaadri
-asaÉtuuiikapuNya
+asaÉ್tuuೀkapuNya
 astokapuNyaru
 astraugha
 asthi
 aha
 ahankaara
 ahaH
-ahaDe
+ahaDE
 ahanu
 ahaminadaTaru
 ahava muri
-ahavadharmakuzalaru
+ahavadharmakushalaru
 ahavavyasana
 ahikula
 ahita
 ahita
 ahitatana
 ahitana
-ahitane
+ahitanE
 ahitabala
 ahitabala
 ahitabhaTaaLi
 ahitaru
 ahitavighaati
 ahitavipina
-ahitasene
+ahitasenE
 ahitaarNava
 ahipati
 ahipati
 ahiri
-ahenu
-ahevu
-aLate
-aLate
+ahEnu
+ahEvu
+aLatE
+aLatE
 aLabaLa
 aLaliga
 aLaliga
@@ -851,38 +851,38 @@ aLalisu
 aLalisu
 aLalu
 aLalu
-aLaludore
+aLaludOrE
 aLavaTTa
-aLavaDike
-aLavaDikeyalla
+aLavaDikE
+aLavaDikEyalla
 aLavaDisi
 aLavaDisu
 aLavaDu
-aLavaDe
-aLavaDe
+aLavaDE
+aLavaDE
 aLavalla
 aLavaLava
 aLavaLi
 aLavi
 aLavi
-aLavige
-aLavigeDe
-aLavigoTTanu
-aLavigoTTudu
-aLavigoTTudu
-aLavigoDu
-aLavigoDu
-aLavigoDu
-aLavigoDu
-aLavidappade
-aLavinaLate
+aLavigE
+aLavigEDE
+aLavigOTTanu
+aLavigOTTudu
+aLavigOTTudu
+aLavigODu
+aLavigODu
+aLavigODu
+aLavigODu
+aLavidappadE
+aLavinaLatE
 aLaviyali
 aLaviyali miguvaata
 aLavu
 aLavu
 aLavu
 aLavu
-aLave
+aLavE
 aLi
 aLi
 aLi
@@ -899,7 +899,7 @@ aLimana
 aLiyale
 aLiyaaTa
 aLiva
-aLivaDe
+aLivaDE
 aLukadiru
 aLuki
 aLukitu
@@ -920,73 +920,73 @@ aLLiri
 aLLiri
 aLLiridavu
 aLLiriva
-aLLe
-aLLegobbu
+aLLE
+aLLEgObbu
 aa hadana
-aankeÉ
+aankEÉ
 aangika
-aanta
-aantaru
-aantu
-aantu
-aantukoMDaru
-aamparu
+aaMta
+aaMtaru
+aaMtu
+aaMtu
+aaMtukONDaru
+aaMparu
 aakarNapuura
 aakarNaayata
-aakarNaayataambaka
+aakarNaayataaMbaka
 aakalpita
 aakasmika
-aake
-aake
-aakeyali
-aakevaaLatana
-aakevaaLaru
-aakhaMDala
-aakhaMDalaatmaja
-aakhaMDaLaatmaja
+aakE
+aakE
+aakEyali
+aakEvaaLatana
+aakEvaaLaru
+aakhaNDala
+aakhaNDalaatmaja
+aakhaNDaLaatmaja
 aagaara
 aaguLisi
 aaguLisu
-aachandrataaraka
-aachandraayata
-aachandraayata
-aachandraarka
+aachaMdrataaraka
+aachaMdraayata
+aachaMdraayata
+aachaMdraarka
 aachamana
 aachaara
 aachaariya
-aachaariyana nandana
+aachaariyana naMdana
 aachaarya
 aachaarya
-aacheyalade
+aachEyaladE
 aaTa chuuNi
 aaTavika
 aaTavika
 aaTopa
 aaTopa
 aaDu
-aaDhyate
+aaDhyatE
 aatagaLu
-aataDe
-aatana khaMDeyada monege
-aatananu gelidanu
-aatanarthavakoMDu
+aataDE
+aatana khaNDEyada mOnEgE
+aatananu gElidanu
+aatanarthavakONDu
 aatukeL
-aatuko
-aatukoMDide
+aatukO
+aatukONDidE
 aaturyaru
 aatmaka
-aataÀmarachita
+aataÀ್marachita
 aatmastaavakaru
-aadaraNe
-aadaraNe
+aadaraNE
+aadaraNE
 aadarisi
 aadarisi
 aadarisu
-aadaLikeÉ
+aadaLikEÉ
 aadi
 aadi
 aadiyali
-aadyaM puruSa
+aadyaM puruSha
 aadhi
 aadhi
 aadhidaivika karma
@@ -994,7 +994,7 @@ aadhibhautika
 aan irutiralu
 aanata
 aanata
-aananendu prabhe
+aananeMdu prabhE
 aanalu
 aanisu
 aaniika
@@ -1003,27 +1003,27 @@ aanu
 aanuvanu
 aanuviri
 aanuvudu
-aane kuduregaLa pakkagaLannu rakSisuva saadhana jottage
-aanepare
-aaneyajuulu
-aanevaridu
-aanevarivaridu
+aanE kudurEgaLa pakkagaLannu raxisuva saadhana jOttagE
+aanEparE
+aanEyajuulu
+aanEvaridu
+aanEvarivaridu
 aapattigaru
 aapattu
 aapanna
 aapanna
 aapanna
-aapare
-aape
+aaparE
+aapE
 aapai
 aapyaayana
 aabhijaatya
 aamaLa veda vidhaanadali
-aamiSa
-aamiikSe
-aamuSmika
+aamiSha
+aamiixE
+aamuShmika
 aamnaaya
-aamnaayajihve
+aamnaayajihvE
 aamnaayanikara
 aaya
 aaya
@@ -1039,16 +1039,16 @@ aayata
 aayata
 aayatada
 aayatavanu
-aayataakSa
-aayatike
-aayatikeyali
+aayataaxa
+aayatikE
+aayatikEyali
 aayasa
 aayasada
 aayidu
 aayu
 aayudha
-aayuSadalipi
-aayuSmika
+aayuShadalipi
+aayuShmika
 aar
 aara
 aaraDi
@@ -1057,7 +1057,7 @@ aaraDi
 aaraDigai
 aarayidu
 aaraydu
-aarave
+aaravE
 aaraati
 aari
 aari
@@ -1069,24 +1069,24 @@ aaridudu
 aarisi
 aaru
 aaru
-aaru idiraadoDe irivudu
-aarutire
-aarubhaTe
-aarubhaTeyali
+aaru idiraadODE irivudu
+aarutirE
+aarubhaTE
+aarubhaTEyali
 aaruva
 aaruvanu
 aaruvarNa
-aarenele
+aarEnElE
 aaraidu
 aaraiyu
-aaraive
-aaraivenu
-aaraivevu
-aarogaNe
-aarogaNe
+aaraivE
+aaraivEnu
+aaraivEvu
+aarogaNE
+aarogaNE
 aarohakaru
 aarjisu
-aartate
+aartatE
 aartapaalaka
 aardu
 aarbhaTada
@@ -1095,27 +1095,27 @@ aalavaTTa
 aalavaTTi
 aali
 aali
-aali avaniya bareye
+aali avaniya barEyE
 aaligaLa solisitu
 aalidanu
 aaliya
-aaliyali kiDisuuse
+aaliyali kiDisuusE
 aalokana
 aav
 aavarjisu
 aavarjisu
 aavavara
-aavige
+aavigE
 aavirbhavisu
 aavirbhavisu
 aavirbhaava
 aavirbhaava
 aavirbhuuta
-aavuge
-aavudu antara
-aaveza
-aavaisale
-aazaadanti
+aavugE
+aavudu aMtara
+aavesha
+aavaisalE
+aashaadaMti
 aasara
 aasaara
 aasura
@@ -1124,7 +1124,7 @@ aasura
 aasura
 aasurada
 aasuradali
-aasuraakrandana
+aasuraakraMdana
 aasthaana
 aahava
 aahava
@@ -1132,19 +1132,19 @@ aahava
 aahavada vistara
 aahavabhiikara
 aahavaranga
-aahavaantassaraNe
+aahavaaMtassaraNE
 aahitaagni
-aahe
+aahE
 aahoraatri
 aahvaya
 aaLanaayakavaaDi
 aaLavisu
 aaLaapa
 aaLikaara
-aaLigoMDandavanu
-aaLigoL
-aaLigoL
-aaLigoL
+aaLigONDaMdavanu
+aaLigOL
+aaLigOL
+aaLigOL
 aaLimanaru
 aaLimuLuguta
 aaLu
@@ -1152,51 +1152,51 @@ aaLu
 aaLu
 aaLugaLa deva
 aaLugaLu kiiru
-aaLugoLLu
+aaLugOLLu
 aaLuta
 aaLutana
 aaLupu
-aaLuvare
+aaLuvarE
 aaLuveri
-aaLe
+aaLE
 ingaliika
 ingaLa
 ingita
 ingita
 ingita
-ingitajJa
-indiraapati
-indu zekhara
-indukula
-indudhara
-indumukhi
-indumukhi
-induu pala
-induupala
-indemage
-indra kumaara nandana
-indra diGmukha
-indradize
-indraprastha
-indraari
-indriyaavaLi
-indhana
-imbilla
-imbugeTTadu riiti
-imbugoMDudu
+ingitaGYa
+iMdiraapati
+iMdu shekhara
+iMdukula
+iMdudhara
+iMdumukhi
+iMdumukhi
+iMduu pala
+iMduupala
+iMdEmagE
+iMdra kumaara naMdana
+iMdra diGmukha
+iMdradishE
+iMdraprastha
+iMdraari
+iMdriyaavaLi
+iMdhana
+iMbilla
+iMbugETTadu riiti
+iMbugONDudu
 ikkaDi
 ikkaDi
 ikkaDi
-ikkaDigaLe
+ikkaDigaLE
 ikkaDigaara
 ikkidanu
 ikkidaralaa
 ikku
-ikke
-ikke
-ikkela
-ikkhaDikaLe
-ikSu
+ikkE
+ikkE
+ikkEla
+ikkhaDikaLE
+ixu
 iTTaNisi
 iTTaNisu
 iTTaNisu
@@ -1207,24 +1207,24 @@ iTTaLisu
 iTTaLisu
 iTTaLisu
 iTTaLisu
-iTTiDeyaage
+iTTiDEyaagE
 iDida
 iDidudu
-iDe
+iDE
 iNilu
-ittaMDa
-ittaMDa
-idiraantu
+ittaNDa
+ittaNDa
+idiraaMtu
 idhma
 inatanuja
-inanandana
-initakke
-innebara
-innevara
+inanaMdana
+initakkE
+innEbara
+innEvara
 innenu bhayavu
 ibbagiyaadavu
-ibbageya maaDu
-ibhagamane
+ibbagEya maaDu
+ibhagamanE
 ibhapura
 ibhapuri
 ibhapuri
@@ -1235,53 +1235,53 @@ immaDi
 immaDisidaivattu
 immaDisu
 immaDisu
-immonegoDadiru
+immOnEgODadiru
 iradale
 iravanu
 iravu
 iravu
 iravu
-iraavanta
+iraavaMta
 iri
 iri < i¾Â = bichchu. kiggaTTu
 irigaara
-irigelasa
+irigElasa
 iridu
 iridu
 iridu
-irivaDe
+irivaDE
 irivudu
 iruku
 iruku
 irubu
 irubu
 irubu
-iruLa kaDe
+iruLa kaDE
 iruLa nuukuvudu
 ivadira
 ivanali
 ivaraLiva
 ivaraara havaNalla
-iSTaapuurta
-ihadoLu
+iShTaapuurta
+ihadOLu
 ihapara
 ihapara
-ihaparake
+ihaparakE
 ihudu nirvaaha
-iLikegaaN
-iLe hiLiye
-iLekoyllu
-iLeya
-iLeyavallabha
+iLikEgaaN
+iLE hiLiyE
+iLEkOyllu
+iLEya
+iLEyavallabha
 ii gajabajava
 ii gaLu
 ii torpaata
-ii bahenu
+ii bahEnu
 ii mahiipatisuunu
 ii mukhadali
-ii=heru iidudo
-iiMTuvare
-iike ninagahaLalla
+ii=hEru iidudo
+iiNTuvarE
+iikE ninagahaLalla
 iiTi.
 iiDaaDu
 iiDaaDu
@@ -1293,23 +1293,23 @@ iiDiri
 iiDirida
 iiDirida
 iiDiridavu
-iitana maaridenu ninage
+iitana maaridEnu ninagE
 iitanadhipati
 iitanali
 iiraDi
 iireLu lokagaLu
 iiraidu
-iizaana
+iishaana
 iisanu
 iisu
 iisu
 iisu
 unguTa
 unguraviDiya naDu
-unguravuDike
-uMTaagu duvvaaLisu
-uMDe
-ukkaDake
+unguravuDikE
+uNTaagu duvvaaLisu
+uNDE
+ukkaDakE
 ukhkhaara
 ugi
 ugi
@@ -1337,12 +1337,12 @@ uggaDaNi
 uggaDisu
 uggaDisu
 ugra aahava
-ugraambaka
+ugraaMbaka
 ughe
 uchita
 uchitavanu
 uchitaanuchitakeDigaLu
-uchchaMDa
+uchchaNDa
 uchchalita
 uchchaLa
 uchchaLipa
@@ -1350,7 +1350,7 @@ uchchaLisu
 uchchaLisu
 uchchaLisu
 uchchaLisu
-uchchaLise
+uchchaLisE
 uchChalita
 uchChaLita
 ujjiivisu
@@ -1359,8 +1359,8 @@ ujjiivisu
 ujvalita
 uDidu
 uDidu biddavu
-uDiyaliiyade
-uDaÀugaNa
+uDiyaliiyadE
+uDaÀುgaNa
 uDugidavu
 uDugisu
 uDunikara
@@ -1368,10 +1368,10 @@ uDuha
 uNalidharaNiyanu
 utkaTa
 utkara
-utkaruSe
+utkaruShE
 utkocha
 uttama
-uttamakuladalli huTTuvike. zakunaavaLi
+uttamakuladalli huTTuvikE. shakunaavaLi
 uttaraaya
 uttaraayi
 uttaraayi
@@ -1385,15 +1385,15 @@ uttarottaravaaytu
 uttarottaravaaytu
 utthaana
 utthaapana
-utpaatazata
+utpaatashata
 utraraNa
 utsava
-utsahageTTu
+utsahagETTu
 utsaaha DiLLa
 utseda
-udakada hechchugeyali
+udakada hEchchugEyali
 udakavaniivudu
-udakastambha
+udakastaMbha
 udagra
 udaya
 udayadaruNa
@@ -1403,13 +1403,13 @@ udara
 udaravahni
 udarodbhavada
 udghaatR
-uddaMDa
-uddaMDa
-uddaMDatana
-uddaMDatana
+uddaNDa
+uddaNDa
+uddaNDatana
+uddaNDatana
 uddaama
 uddaama
-uddaamate
+uddaamatE
 uddi
 uddu
 udduruTutana
@@ -1420,7 +1420,7 @@ udbhava
 udbhramita
 udyaana
 udyuktaru
-udyoga kaikoLu
+udyoga kaikOLu
 udreka
 udreki
 udrekigaLu
@@ -1449,10 +1449,10 @@ upalaalisu
 upavaNija
 upavana
 upavana
-upazamisu
-upazruti
-upazruti
-upasambaDiside
+upashamisu
+upashruti
+upashruti
+upasaMbaDisidE
 upasaMharaNa
 upasaMharisu
 upahati
@@ -1465,16 +1465,16 @@ upahaasa
 upahaasa
 upaanga
 upaadhya
-upaayaantara
+upaayaaMtara
 upaara
 upaarjisida
 upaarjisu
-upekSisu
-upekSe
+upexisu
+upexE
 uppara
 uppara
 uppara
-upparake
+upparakE
 upparada
 upparada gaaya
 upparisu
@@ -1490,9 +1490,9 @@ uppavaDisu
 uppaarati
 uppaarati
 uppaarati
-ubbaTe
-ubbaTe
-ubbaTe
+ubbaTE
+ubbaTE
+ubbaTE
 ubbaNa
 ubbaNa
 ubbaNa
@@ -1527,15 +1527,15 @@ ubbu
 ubbu
 ubbu
 ubbugavaLa
-ubbugobbunali
-ubbe
-ubbe
-ubbe
-ubbege
-ubbedda
-ubbedda
-ubbeddu
-ubbeddu
+ubbugObbunali
+ubbE
+ubbE
+ubbE
+ubbEgE
+ubbEdda
+ubbEdda
+ubbEddu
+ubbEddu
 ubbega
 ubberidanu
 ubberu
@@ -1562,34 +1562,34 @@ uravaNisu
 uravaNisu
 uravaNisu
 uravaNisu
-uravaNe
-uravaNe
-uravaNe
-uravaNe
-uravaNe
-uravaNe
-uravaNe
-uravaNeya
+uravaNE
+uravaNE
+uravaNE
+uravaNE
+uravaNE
+uravaNE
+uravaNE
+uravaNEya
 uri
-uriya vizikha
+uriya vishikha
 uruku
-urukugoL
-urukugoL
+urukugOL
+urukugOL
 urukRtaartharu
-urukezaaLi
+urukeshaaLi
 urugu
-urugu<u¾ugu
+urugu<u¾ುgu
 urutara
 uruparigraha
 urubi
 urubitu
 urubu
 urubu
-urube
-urube
-urube
-urube
-urubekaara
+urubE
+urubE
+urubE
+urubE
+urubEkaara
 uruva
 uruva
 uruva
@@ -1598,254 +1598,254 @@ uruhu
 uruhu
 uruhu
 uruLuka
-uruLegaDi
-ure
-ure
+uruLEgaDi
+urE
+urE
 urvi
 uli
 uli
 ulidu
-ulidelaa
-uliye
-uliye
+ulidElaa
+uliyE
+uliyE
 uluka
-ulukadantire
+ulukadaMtirE
 uluku
 uluku
 uluhu
 usuru maari
 uLigaDi
-uLigelasadolaga<u¿Â
+uLigElasadolaga<uÂ
 uLida varNatraya
-uLimiMDaru
+uLimiNDaru
 uLiyalli
-uLilekkaa
+uLilEkkaa
 uLuhu
 uuDu
 uuDu
-uuNe
+uuNE
 uuru
 uuru
-uuraÀu
+uuraÀು
 uuruga
 uurugara
 uurujanitaru
 uurudvaya
-uurumaMDala
+uurumaNDala
 uurjita
 uudhrva dehika
 uudhrvadehika
-uuSme
-uuhekaararu
-uuherenahu
+uuShmE
+uuhEkaararu
+uuhErEnahu
 uuLigada
 RNasaaliga
-RSimata
-RSivachana
-ಎntuTo
-ಎntuTo ?
-ಎndinavanu
-ಎndu
-ಎmba teranaaytu
-ಎkkaTi
-ಎkkaTi
-ಎkkaTi
-ಎkkaTi
-ಎkkaTi
-ಎkkaTigare
-ಎkkaTigaredu
-ಎkkaTigaredu
-ಎkkatuLa
-ಎkkatuLa
-ಎkkatuLadali
-ಎkkala
-ಎkkaÀsara
-ಎggu
-ಎchcha
-ಎchcha
-ಎchcha
-ಎchchanu
-ಎchchanu
-ಎchcharisi
-ಎchcharu
-ಎchcharuvudu
-ಎchchaaDu
-ಎchchaaLutana
-ಎchchaaLutana
-ಎchcheDe
-ಎDagalasu
-ಎDayaaTa
-ಎDavu
-ಎDahu
-ಎDe
-ಎDe
-ಎDe muridavaru
-ಎDegaDe
-ಎDegeDe
-ಎDegoDade
-ಎDegoridanu
-ಎDederahilla
-ಎDemaMTapa
-ಎDemuri
-ಎDeyuDugade
-ಎDeyoDDu
-ಎDevari
-ಎNisi
-ಎNisu
-ಎNe
-ಎNe
-ಎNe
-ಎNe
-ಎttaNa
-ಎttaNindave
-ಎttikaLede
-ಎdeya niividanu
-ಎdeya baluhuvuLLavanu
-ಎdeyaare
-ಎdevattige
-ಎddudu
-ಎnage
-ಎnage nuukadu
-ಎnnavandiga
-ಎnnavaru
-ಎnnavol
-ಎmage
-ಎydidaru
-ಎyde
-ಎraka
-ಎrakeÀ
-ಎrake
-ಎrake
-ಎrakegaLu baliyalu
-ಎragadu
-ಎragidavu
-ಎragu
-ಎragu
-ಎragu
-ಎragu
-ಎragu
-ಎraDeMTariyanu
-ಎraDele aaytu
-ಎrala
-ಎralu
-ಎravalu
-ಎraviga
-ಎravigaru
-ಎravigare
-ಎravu
-ಎravu
-ಎravu
-ಎre
-ಎredavolu
-ಎreya
-ಎlavu
-ಎlavo
-ಎlavo baahira
-ಎlu
-ಎlu
-ಎlemiDukade
-ಎlevane
-ಎllavetake
-ಎvage
-ಎve
-ಎveyikkade
-ಎsagu
-ಎsagu
-ಎsalu
-ಎsalu
-ಎsaLu
-ಎsaLugangaLa
-ಎsaLugangaLu
-ಎsu
-ಎsu
-ಎsu
-ಎsuge
-ಎsuge
-ಎsugegaara
-ಎsedudu
-ಎseva
-ಎsevanu
-ಎhage
-ಎLagandi
-ಎLaguDi
-ಎLadaLiru
-ಎLanage
-ಎLaluva
-ಎLasikomba
-ಎLaside
-ಎLasu
-ಎLevare
+RShimata
+RShivachana
+EMtuTO
+EMtuTo ?
+EMdinavanu
+EMdu
+EMba tEranaaytu
+EkkaTi
+EkkaTi
+EkkaTi
+EkkaTi
+EkkaTi
+EkkaTigarE
+EkkaTigarEdu
+EkkaTigarEdu
+EkkatuLa
+EkkatuLa
+EkkatuLadali
+Ekkala
+EkkaÀsara
+Eggu
+Echcha
+Echcha
+Echcha
+Echchanu
+Echchanu
+Echcharisi
+Echcharu
+Echcharuvudu
+EchchaaDu
+EchchaaLutana
+EchchaaLutana
+EchchEDE
+EDagalasu
+EDayaaTa
+EDavu
+EDahu
+EDE
+EDE
+EDE muridavaru
+EDEgaDE
+EDEgEDE
+EDEgODadE
+EDEgoridanu
+EDEdErahilla
+EDEmaNTapa
+EDEmuri
+EDEyuDugadE
+EDEyODDu
+EDEvari
+ENisi
+ENisu
+ENE
+ENE
+ENE
+ENE
+EttaNa
+EttaNiMdavE
+EttikaLEdE
+EdEya niividanu
+EdEya baluhuvuLLavanu
+EdEyaarE
+EdEvattigE
+Eddudu
+EnagE
+EnagE nuukadu
+EnnavaMdiga
+Ennavaru
+Ennavol
+EmagE
+Eydidaru
+EydE
+Eraka
+ErakEÀ
+ErakE
+ErakE
+ErakEgaLu baliyalu
+Eragadu
+Eragidavu
+Eragu
+Eragu
+Eragu
+Eragu
+Eragu
+EraDENTariyanu
+EraDElE aaytu
+Erala
+Eralu
+Eravalu
+Eraviga
+Eravigaru
+Eravigare
+Eravu
+Eravu
+Eravu
+ErE
+ErEdavOlu
+ErEya
+Elavu
+ElavO
+ElavO baahira
+Elu
+Elu
+ElEmiDukadE
+ElEvanE
+EllavetakE
+EvagE
+EvE
+EvEyikkadE
+Esagu
+Esagu
+Esalu
+Esalu
+EsaLu
+EsaLugangaLa
+EsaLugangaLu
+Esu
+Esu
+Esu
+EsugE
+EsugE
+EsugEgaara
+EsEdudu
+EsEva
+EsEvanu
+EhagE
+ELagaMdi
+ELaguDi
+ELadaLiru
+ELanagE
+ELaluva
+ELasikOMba
+ELasidE
+ELasu
+ELEvarE
 ekachakra
 ekatva
-ekadaMDi
-ekadezada janapati
+ekadaNDi
+ekadeshada janapati
 ekaangi
-ekaanta
-ekaanta bhavana
-ekaambara
-ekaadazaakSohiNi
-ekaamiSa
-ekaamiSasthiti
+ekaaMta
+ekaaMta bhavana
+ekaaMbara
+ekaadashaaxohiNi
+ekaamiSha
+ekaamiShasthiti
 ekaavaLi
 ekodararu
 eguvaru
 eguvaru
-eguve
-eguve
-eguvenu
+eguvE
+eguvE
+eguvEnu
 eDisi
 eDisu
 eDisu
 eDisu
 eNu
-etake nuDisidapeÉ
+etakE nuDisidapEÉ
 etaravadiru
-ene
-era tinguritindu
-erabaayinda
+enE
+era tinguritiMdu
+erabaayiMda
 eraaTa
 eridavu
 erisi
 erisi nuDi
 eru
 erumaddu
-evaNNisuvenu
+evaNNisuvEnu
 esaravanu
 esaru
 esu
-eLige
-eLige
+eLigE
+eLigE
 eLipa
 eLila
 eLisu
 eLisu
 eLisu
-eLu kaaLagake
+eLu kaaLagakE
 aisaavira
 aikyasthiti
 aigaavuda
-aitanda
+aitaMda
 aitappa
 aitappa
 aitaru
-aitahenu
+aitahEnu
 aidadu
 aidadu
 aidade
-aidane
-aidaane
-aidaane
+aidanE
+aidaanE
+aidaanE
 aidida
 aididanu
 aididaru
 aidibarali
 aidisu
 aidu
-aiduzara
-aide
-aidetana
-aidetana
-aidetana
+aidushara
+aidE
+aidEtana
+aidEtana
+aidEtana
 ailu pailada jaraDugaLu
 aivaDi
 aisaravanu
@@ -1856,273 +1856,273 @@ aisu
 aihika
 aihika
 aihika
-ಒkkatana
-ಒkkatana
-ಒkkalikku
-ಒkkalikku
-ಒkkalikku
-ಒkkalikku
-ಒkkavu
-ಒkku
-ಒkku
-ಒkku
-ಒkkudu
-ಒkkudu
-ಒkkoDe
-ಒgaDisu
-ಒgaDu
-ಒgu
-ಒgu
-ಒgumige
-ಒgumige
-ಒgumige
-ಒgumigeya
-ಒguva
-ಒguva
-ಒguva
-ಒguvavolu
-ಒgedaru kittu
-ಒgganu
-ಒggaaytu
-ಒggaaytu
-ಒggaaytu
-ಒggina
-ಒggina
-ಒggu
-ಒggu ಒDe
-ಒggoDeda
-ಒggoDedu
-ಒggoDedu
-ಒchchata
-ಒchchata
-ಒchchatagoTTanu
-ಒTTila
-ಒTTilu
-ಒTTilu
-ಒTTisi
-ಒTTisi
-ಒTTu
-ಒTTaisi
-ಒTTaisi
-ಒTTaisi
-ಒTTaisu
-ಒDambaDisi
-ಒDanaaDi
-ಒDanaaDitanada
-ಒDane
-ಒDane
-ಒDabaDisi
-ಒDabaDisu
-ಒDabaDisu
-ಒDabaDisu
-ಒDabaDu
-ಒDabechchu
-ಒDarichu
-ಒDarchidenu
-ಒDalu
-ಒDalu
-ಒDaluviDi
-ಒDaloLu
-ಒDavuTTidavana
-ಒDaverasu
-ಒDahuTTidanu
-ಒDe
-ಒDe
-ಒDe muridu
-ಒDe muruchu
-ಒDegalisi
-ಒDegeNeyaru
-ಒDetuLi
-ಒDetuLi
-ಒDemeTTu
-ಒDeyechcha
-ಒDehaayidanu
-ಒDehaayisu
-ಒDehaaydu
-ಒDehaaysi
-ಒDDaNe
-ಒDDavaNe
-ಒDDavisitu
-ಒDDidaru
-ಒDDu
-ಒDDu
-ಒDDugallu
-ಒDDuvare
-ಒDDolaga
-ಒttambarisi
-ಒttarisi
-ಒttalikku
-ಒttaÀlikku
-ಒtti
-ಒttinalli
-ಒttu
-ಒttu
-ಒtte
-ಒttotte
-ಒttotte
-ಒdagidaru
-ಒdari
-ಒdaritu
-ಒdaridavu
-ಒdaridavai
-ಒdarisi
-ಒdarisi
-ಒdarisu
-ಒdarisu
-ಒdaru
-ಒdaru
-ಒdaru
-ಒdaruva
-ಒdavisu
-ಒdavu
-ಒdedu
-ಒdeduko
-ಒppaM baDedu
-ಒppambaDedu
-ಒppageDisu
-ಒppaviDu
-ಒppu
-ಒppu
-ಒppu
-ಒppu
-ಒppugoDu
-ಒbbara nantara ಒbbaru) kolaguru
-ಒbbuLi
-ಒbbuLi
-ಒbbuLike
-ಒbbuLige
-ಒyyane
-ಒyyane
-ಒyyaara
-ಒyyaara
-ಒyyaarisitu
-ಒragu
-ಒraDisu
-ಒrate
-ಒrate
-ಒrali
-ಒrali
-ಒralide
-ಒralu
-ಒralu
-ಒralu
-ಒralu
-ಒralu
-ಒrale
-ಒrale
-ಒravilla
-ಒraveLva
-ಒrasi
-ಒrasidanu
-ಒrasidanu
-ಒrasu
-ಒrasu
-ಒrasu
-ಒrasu
-ಒrasorasu
-ಒrasorasu
-ಒrasorasu
-ಒraLi
-ಒraLidaLu
-ಒre
-ಒre
-ಒre
-ಒre
-ಒre
-ಒreva
-ಒreveLe
-ಒresu
-ಒresu
-ಒlavinalli
-ಒlavu
-ಒlahu
-ಒli
-ಒlu
-ಒleda
-ಒledu
-ಒledu
-ಒledu
-ಒledu
-ಒledu
-ಒleva
-ಒleva suragi
-ಒlevudu
-ಒlladar aharu
-ಒlle
-ಒsage
-ಒsage
-ಒsage
-ಒsage
-ಒsage
-ಒsage
-ಒsaru
-ಒsedaru
-ಒLa kuruvada
-ಒLagu
-ಒLagumaaDu
-ಒLaDiLLa
-ಒLatoTa
-ಒLadegahina
-ಒLapaika
-ಒLabagidu
-ಒLaru
-ಒLaru
-ಒLaru
-ಒLare
-ಒLasuLi
-ಒLasuuregaru
-ಒLLe
-ಒLLega
+Okkatana
+Okkatana
+Okkalikku
+Okkalikku
+Okkalikku
+Okkalikku
+Okkavu
+Okku
+Okku
+Okku
+Okkudu
+Okkudu
+OkkODE
+OgaDisu
+OgaDu
+Ogu
+Ogu
+OgumigE
+OgumigE
+OgumigE
+OgumigEya
+Oguva
+Oguva
+Oguva
+OguvavOlu
+OgEdaru kittu
+Ogganu
+Oggaaytu
+Oggaaytu
+Oggaaytu
+Oggina
+Oggina
+Oggu
+Oggu ODE
+OggODEda
+OggODEdu
+OggODEdu
+Ochchata
+Ochchata
+OchchatagOTTanu
+OTTila
+OTTilu
+OTTilu
+OTTisi
+OTTisi
+OTTu
+OTTaisi
+OTTaisi
+OTTaisi
+OTTaisu
+ODaMbaDisi
+ODanaaDi
+ODanaaDitanada
+ODanE
+ODanE
+ODabaDisi
+ODabaDisu
+ODabaDisu
+ODabaDisu
+ODabaDu
+ODabEchchu
+ODarichu
+ODarchidEnu
+ODalu
+ODalu
+ODaluviDi
+ODalOLu
+ODavuTTidavana
+ODavErasu
+ODahuTTidanu
+ODE
+ODE
+ODE muridu
+ODE muruchu
+ODEgalisi
+ODEgENEyaru
+ODEtuLi
+ODEtuLi
+ODEmETTu
+ODEyEchcha
+ODEhaayidanu
+ODEhaayisu
+ODEhaaydu
+ODEhaaysi
+ODDaNE
+ODDavaNE
+ODDavisitu
+ODDidaru
+ODDu
+ODDu
+ODDugallu
+ODDuvarE
+ODDolaga
+OttaMbarisi
+Ottarisi
+Ottalikku
+OttaÀlikku
+Otti
+Ottinalli
+Ottu
+Ottu
+OttE
+OttOttE
+OttOttE
+Odagidaru
+Odari
+Odaritu
+Odaridavu
+Odaridavai
+Odarisi
+Odarisi
+Odarisu
+Odarisu
+Odaru
+Odaru
+Odaru
+Odaruva
+Odavisu
+Odavu
+OdEdu
+OdEduko
+OppaM baDEdu
+OppaMbaDEdu
+OppagEDisu
+OppaviDu
+Oppu
+Oppu
+Oppu
+Oppu
+OppugODu
+Obbara naMtara Obbaru) kolaguru
+ObbuLi
+ObbuLi
+ObbuLikE
+ObbuLigE
+OyyanE
+OyyanE
+Oyyaara
+Oyyaara
+Oyyaarisitu
+Oragu
+OraDisu
+OratE
+OratE
+Orali
+Orali
+OralidE
+Oralu
+Oralu
+Oralu
+Oralu
+Oralu
+OralE
+OralE
+Oravilla
+OraveLva
+Orasi
+Orasidanu
+Orasidanu
+Orasu
+Orasu
+Orasu
+Orasu
+OrasOrasu
+OrasOrasu
+OrasOrasu
+OraLi
+OraLidaLu
+OrE
+OrE
+OrE
+OrE
+OrE
+OrEva
+OrEveLE
+OrEsu
+OrEsu
+Olavinalli
+Olavu
+Olahu
+Oli
+Olu
+OlEda
+OlEdu
+OlEdu
+OlEdu
+OlEdu
+OlEdu
+OlEva
+OlEva suragi
+OlEvudu
+Olladar aharu
+OllE
+OsagE
+OsagE
+OsagE
+OsagE
+OsagE
+OsagE
+Osaru
+OsEdaru
+OLa kuruvada
+OLagu
+OLagumaaDu
+OLaDiLLa
+OLatoTa
+OLadEgahina
+OLapaika
+OLabagidu
+OLaru
+OLaru
+OLaru
+OLarE
+OLasuLi
+OLasuurEgaru
+OLLE
+OLLEga
 okarisu
 okarisu
 okarisu
 okarisu
-oje
+ojE
 oTa
 otaprota
 opaLu
 oraNa
 oraNisi
 oruguDisu
-ore
-ore hadaru
-orekaTaki
-oregeDeyadir
-orepore
-orepore
+orE
+orE hadaru
+orEkaTaki
+orEgEDEyadir
+orEporE
+orEporE
 orguDisu
 olaga
 olaga
-olagazaale
-olagazaale
+olagashaalE
+olagashaalE
 olagisi
 olagisu
 olagisu
 olaaDu
-olekaara
-oleyakaaratana
-oleyakaaratana
-oleyakaaratana
+olEkaara
+olEyakaaratana
+olEyakaaratana
+olEyakaaratana
 olaisu
 olaisu
-olaise
-ovade
+olaisE
+ovadE
 ovari
 ovari
 ovi
 ovu
 ovu
-osaraNegoDada
+osaraNEgODada
 osaridu
 osarisi
-osarisidare
+osarisidarE
 osarisu
 osarisu
 osarisu
-osarise
-osarise
+osarisE
+osarisE
 ohaDisu
-oharike
+oharikE
 oLi
 aunkida
 aukidaru
@@ -2138,85 +2138,85 @@ auDu
 auDu
 auDu
 audaarya
-audumbara
-audumbara
+auduMbara
+auduMbara
 aurdhvadaihika
 ÉkabaLa
 kanka
 kankaNa
 kankaNaahvayaru
 kankaaLa
-kangane
+kanganE
 kangaLanujaru
-kangeTTu
-kangeDu
+kangETTu
+kangEDu
 kanjanaaLa
 kanjaakara
-kaMTaka
-kaMTaka
-kaMTaka
-kaMTaka
-kaMTaka
-kaMTakaru
-kaMTaNisu
-kaMTaNisu
-kaMThaNisu
-kaMThaNisu
-kaMThaNise
-kaMDa
-kaMDitugoMDe
-kaMDuga
-kaMDuuti
-kantuka
-kantupita
-kanda
-kanda
-kanda
-kandadali
-kandadu
-kandi kasarikeyaagu
-kandu
-kandu
-kaÀndu kale
-kandu kasarike
-kanduka
-kandaÀukasarike
-kandukuLi
-kandumore
-kanderave
-kanderave
-kanderedu bhuupatigendanu
-kampa
-kampana
-kampiDalu
-kampiDu
-kampita
-kampita
-kampisi
-kambani
-kambani
-kambi
-kambi
-kambi
-kambu
-kambuga
-kambuge
-kambuge
-kambuge
+kaNTaka
+kaNTaka
+kaNTaka
+kaNTaka
+kaNTaka
+kaNTakaru
+kaNTaNisu
+kaNTaNisu
+kaNThaNisu
+kaNThaNisu
+kaNThaNisE
+kaNDa
+kaNDitugONDE
+kaNDuga
+kaNDuuti
+kaMtuka
+kaMtupita
+kaMda
+kaMda
+kaMda
+kaMdadali
+kaMdadu
+kaMdi kasarikEyaagu
+kaMdu
+kaMdu
+kaÀMdu kalE
+kaMdu kasarikE
+kaMduka
+kaMdaÀುkasarikE
+kaMdukuLi
+kaMdumorE
+kaMdEravE
+kaMdEravE
+kaMdErEdu bhuupatigEMdanu
+kaMpa
+kaMpana
+kaMpiDalu
+kaMpiDu
+kaMpita
+kaMpita
+kaMpisi
+kaMbani
+kaMbani
+kaMbi
+kaMbi
+kaMbi
+kaMbu
+kaMbuga
+kaMbugE
+kaMbugE
+kaMbugE
 kaMsaaraati
-kakkaDe
-kakkaDe
-kakkulite
-kakkulite
+kakkaDE
+kakkaDE
+kakkulitE
+kakkulitE
 kakkulisu
 kakkuLisu
-kakkeya
-kakSa
-kakSa
-kakSe
-kaggole
+kakkEya
+kaxa
+kaxa
+kaxE
+kaggOlE
 kacha
-kachchimaMDi
+kachchimaNDi
 kajjaLa
 kajjaaya
 kaTaka
@@ -2228,92 +2228,92 @@ kaTakaachaarya
 kaTavaaya
 kaTavaaya
 kaTavaayi
-kaTaakSa
-kaTaakSa
-kaTaakSa
-kaTaakSa
-kaTigaMTe
+kaTaaxa
+kaTaaxa
+kaTaaxa
+kaTaaxa
+kaTigaNTE
 kaTu
 kaTTaLalu
 kaTTaLavi
 kaTTaLaviyalli
-kaTTaLe
+kaTTaLE
 kaTTaasura
-kaTTige
+kaTTigE
 kaTTitu
 kaTTisi
 kaTTisu
 kaTTukkinalli
 kaTTukku
-kaTTekaantadali
-kaTToge
-kaTToDeyaru
+kaTTekaaMtadali
+kaTTOgE
+kaTTODEyaru
 kaThaari
 kaThaari
 kaThiNavaadudu (taraNa
 kaThoragati
 kaDaga
-kaDagidaDe
+kaDagidaDE
 kaDaduru
 kaDaduru
-kaDasige
-kaDahadambudhiyante
+kaDasigE
+kaDahadaMbudhiyaMtE
 kaDi
 kaDikaDiya
 kaDiku
 kaDikugaLu
-kaDikhaMDamaya
-kaDikhaMDamaaDu
+kaDikhaNDamaya
+kaDikhaNDamaaDu
 kaDitakaararu
-kaDitale
-kaDitale
+kaDitalE
+kaDitalE
 kaDiduharahu
-kaDivaDe
-kaDivaDe
+kaDivaDE
+kaDivaDE
 kaDu
 kaDu
 kaDu nidhaanavu
-kaDu bhaaSe
+kaDu bhaaShE
 kaDugi
-kaDugeDa keTTanu
+kaDugeDa kETTanu
 kaDutimira
 kaDubhara
 kaDumana
 kaDumana
-kaDumaLe
+kaDumaLE
 kaDumuurkhadali
 kaDuvisilu
-kaDuveLagu
+kaDuvELagu
 kaDuhina
-kaDaÀuhu
+kaDaÀುhu
 kaDuhu
 kaDuhu
 kaDuhu
 kaDuhu
 kaDuhugaLu
-kaDuhumige
+kaDuhumigE
 kaDuhuuTa
-kaDuhogaru
-kaDegandi
-kaDeya
-kaDeviiDu
-kaDeha
+kaDuhOgaru
+kaDEgaMdi
+kaDEya
+kaDEviiDu
+kaDEha
 kaDDatana
 kaN beTa
 kaNi
 kaNi
 kaNigaLu
-kaNuvaLe
-kaNegedari
-kaNeya
-kaNeya
+kaNuvaLE
+kaNEgEdari
+kaNEya
+kaNEya
 kaNNaali
-kaNNirigaare
+kaNNirigaarE
 kata
 kattalisu
 kathanakautuka
-katheyakaDe
-kadamba
+kathEyakaDE
+kadaMba
 kadaDu
 kadaDu
 kadaDu
@@ -2324,7 +2324,7 @@ kadaDu
 kadana
 kadana naaTaka vidyavalla
 kadanamukha
-kadanavyaaLaviSa nirdagdha
+kadanavyaaLaviSha nirdagdha
 kadanaarthi
 kadapa
 kadapu
@@ -2343,14 +2343,14 @@ kadubitu
 kadubu
 kaddaaDu
 kanaka giri
-kanakaghaMTe
+kanakaghaNTE
 kanakaachala
 kanali
 kanalidanu
 kanalu
 kanalu
 kaniiyasa
-kannegede
+kannEgEdE
 kanyaavaraNa
 kapaTa
 kapaTadyuutakeLi
@@ -2358,8 +2358,8 @@ kapaala
 kapittha
 kapota
 kappa
-kabandha
-kabandha
+kabaMdha
+kabaMdha
 kabari
 kabari
 kabari
@@ -2367,24 +2367,24 @@ kabaLisi
 kabbakki
 kabbila
 kabbuna kolu
-kabbonalu
-kamala (ambu
-kamaladaLaayataambaka
-kamaladaLaayataakaambaka
+kabbOnalu
+kamala (aMbu
+kamaladaLaayataaMbaka
+kamaladaLaayataakaaMbaka
 kamalabhava
 kamalabhavapura
-kamalalochane
-kamalaayataambaka
+kamalalochanE
+kamalaayataaMbaka
 kamaLa bhava
-kamaLaanane
+kamaLaananE
 kaydukaaratana
-kayyoDane marede
+kayyODanE marEdE
 karakara
-karakuvoDe
+karakuvODE
 karaga
-karagi suusida chandrabimbada kiraNa lahari
+karagi suusida chaMdrabiMbada kiraNa lahari
 karaDa
-karaDige
+karaDigE
 karaNa
 karaNa
 karaNa
@@ -2396,7 +2396,7 @@ karaNavRtti
 karaNavRtti
 karaNika
 karaNika
-karaNendriya
+karaNeMdriya
 karataLa
 karataLa
 karataLaamalaka
@@ -2404,25 +2404,25 @@ karataaLa
 karadardhavana
 karapallava
 karapuTa
-karavatige
+karavatigE
 karavaari
-karasampuTa
+karasaMpuTa
 karaha
 karaha
-karahatige
+karahatigE
 karaavaLi
 karaaLa
 karaaLa
 karaaLamati
 kari
-karikarigundu
+karikariguMdu
 kariku
 karikula
 karikuvari
 karighaTaavaLi
-karighaTe
-karizira
-kariSa
+karighaTE
+karishira
+kariSha
 karu
 karu
 karu
@@ -2433,9 +2433,9 @@ karubu
 karubu
 karumaaDa
 karuviDu
-karuSaka
-karesi bhuusurara
-karkaza
+karuShaka
+karEsi bhuusurara
+karkasha
 karNa kingahana
 karNa ChaDaaLa
 karNakoTara
@@ -2445,57 +2445,57 @@ karNataaLa
 karNadhaara
 karNaayataastraru
 karNaayataastraru
-karNike
-karNike
-karNike
-karNike
+karNikE
+karNikE
+karNikE
+karNikE
 kardama
 kardama
 kardama
 kardama
 tavalaayigaLa
-karboge
+karbOgE
 karmakalaapa
 karmada saraNi
 karmapaaka
 karmave kaLachuvudu
 karmave salahuvudu
-karmaantya
+karmaaMtya
 kalaku
 kalaku
-kalakuvenu
+kalakuvEnu
 kalavinka
 kalaha
-kalaha nidhaana vaarte
-kalahaavalokaananda parikara luLita..
+kalaha nidhaana vaartE
+kalahaavalokaanaMda parikara luLita..
 kalitana
 kalimala
 kalimala
 kalimaaDu
 kaliyeridaru
 kaludarigaLali
-kaluSa
-kaluSastimita
-kaluhe
-kale
+kaluSha
+kaluShastimita
+kaluhE
+kalE
 kalpa
 kalpataru
-kalpaanta
-kalpaantarudra
-kalpaantasaagara
+kalpaaMta
+kalpaaMtarudra
+kalpaaMtasaagara
 kalpaanala
-kalmaSaru
+kalmaSharu
 kalli
 kalli
 kalli
-kavaDike
+kavaDikE
 kavaDutana
-kavate
+kavatE
 kavaru
-kavalambu
-kavalambu
+kavalaMbu
+kavalaMbu
 kavalugolu
-kavalunaalageyilla tanagenda
+kavalunaalagEyilla tanagEMda
 kavaLa
 kavaLa
 kavaLa
@@ -2509,9 +2509,9 @@ kavidudu
 kaviva
 kaviva hiili
 kavisidanu
-kaSTa
-kaSTa
-kaSTa
+kaShTa
+kaShTa
+kaShTa
 kahaLaarava
 kaLa
 kaLa
@@ -2524,16 +2524,16 @@ kaLakaLa
 kaLakaLa
 kaLakaLa
 kaLakaLakaararu
-kaLakaLike
-kaLakaLike
+kaLakaLikE
+kaLakaLikE
 kaLachi
 kaLachu
 kaLatra
 kaLana
-kaLana gelidavu
+kaLana gElidavu
 kaLana chauka
-kaLana bhaaSege ninda
-kaLanakaNe
+kaLana bhaaShEgE niMda
+kaLanakaNE
 kaLabha
 kaLavaLa
 kaLavaLa
@@ -2543,9 +2543,9 @@ kaLavaLiga
 kaLavaLigaru
 kaLavaLipa
 kaLavinali
-kaLave
-kaLazodbhava
-kaLasagaMDudu
+kaLavE
+kaLashodbhava
+kaLasagaNDudu
 kaLahala
 kaLaapraviiNa
 kaLinga
@@ -2557,62 +2557,62 @@ kaLita
 kaLida
 kaLidanu
 kaLupida
-kaLe
+kaLE
 kurukulajaata
-kaLedahareyange
+kaLEdaharEyangE
 kaLLeru
 kaLLerukaara
 kaLLerukaara
 kaancha
 kaanchanaadri
 kaanchi
-kaantaakoTi
-kaantaajana
-kaantaavaLi
-kaantaavaLiya
-kaantaavisara
-kaanti
-kaanti
-kaambhojaavaLi
+kaaMtaakoTi
+kaaMtaajana
+kaaMtaavaLi
+kaaMtaavaLiya
+kaaMtaavisara
+kaaMti
+kaaMti
+kaaMbhojaavaLi
 kaaka
 kaakanu
 kaakabaLasu
-kaakahude
+kaakahudE
 kaaku
 kaaku
 kaaku
 kaaku
-kaage
+kaagE
 kaaNi
 kaaNi
-kaaNike dorakalariyadu
-kaaNikege
+kaaNikE dOrakalariyadu
+kaaNikEgE
 kaatapalasu
 kaatara
 kaatarigatana
 kaatarisadiru
 kaatarisi
-kaatarisi kaaNisikoMDu
+kaatarisi kaaNisikONDu
 kaadalu aridavanu
-kaaditanantavu
+kaaditanaMtavu
 kaaditu
 kaadidanu
-kaadukoLu
-kaadukoLLu
+kaadukOLu
+kaadukOLLu
 kaaduvudu
-kaaduvevu
+kaaduvEvu
 kaanana
 kaaniDu
 kaaniina
 kaapatha
 kaapatha
-kaapuruSa
-kaapuruSa
-kaapuruSa
+kaapuruSha
+kaapuruSha
+kaapuruSha
 kaabiri
 kaamana uuLiga
 kaamaruupi
-kaamaari hiDiva aggaLada zaraavaLi
+kaamaari hiDiva aggaLada sharaavaLi
 kaamita
 kaamita
 kaamini
@@ -2621,10 +2621,10 @@ kaamuka
 kaay
 kaaya
 kaayagaTTitu
-kaayalaapare
-kaayalaapare
-kaayava keDahi
-kaayavanu ಒdedu
+kaayalaaparE
+kaayalaaparE
+kaayava kEDahi
+kaayavanu OdEdu
 kaayidaru satyavanu
 kaaydu
 kaaydu
@@ -2634,8 +2634,8 @@ kaaraNavu illa
 kaaraNika
 kaaraNika
 kaaraNika
-kaaraNe
-kaaraNe
+kaaraNE
+kaaraNE
 kaaraagaara
 kaariruLu
 kaaru
@@ -2651,17 +2651,17 @@ kaarya
 kaaryagati
 kaaryaagaara
 kaala
-kaala toDaru
-kaala paaza
+kaala tODaru
+kaala paasha
 kaala bhujaga
 kaalaka
 kaalakarma
-kaalakSepa
-kaalakSepa
+kaalaxepa
+kaalaxepa
 kaalachakra
-kaaladaMDa
+kaaladaNDa
 kaalana bana
-kaalana maneyanaaLvipudu
+kaalana manEyanaaLvipudu
 kaalanakoNa
 kaalabhairava
 kaalabhairava
@@ -2676,17 +2676,17 @@ kaalaaLu
 kaalukaNNi
 kaalugaahu
 kaaluvega
-kaaldoLasu
-kaalvoLe
-kaalvoLe
+kaaldOLasu
+kaalvOLE
+kaalvOLE
 kaavaNa
 kaavaNa
-kaazmiirakara
+kaashmiirakara
 kaasara
 kaasaara
 kaasi
 kaaha
-kaahinamandi
+kaahinamaMdi
 kaahinali
 kaahinavadiru
 kaahinavaru
@@ -2698,38 +2698,38 @@ kaahura
 kaahura
 kaahura
 kaahura
-kaahurate
+kaahuratE
 kaahuraru
 kaahuraru
 kaaherida
 kaaheru
 kaaLakuuTa
-kaaLakuuTada guLige
+kaaLakuuTada guLigE
 kaaLagopa
 kaaLamegha
 kaaLaanalanu
 kaaLaaytu
-kaaLaazisu
+kaaLaashisu
 kaaLaasa
 kaaLaasa
 kaaLaasa
-kaaLike
+kaaLikE
 kaaLija
 kaaLija
 kaaLu
 kaaLu
 kaaLu
 kaaLu maaDu
-kaaLugeDadare
-kaaLugeDe
-kaaLugeDedaDe
-kaaLegava mase
+kaaLugEDadarE
+kaaLugEDE
+kaaLugEDEdaDE
+kaaLEgava masE
 kaaLoraga
 kaaLoraga
 kaaLoraga
 kaaLoraga
-kaaLgaDedaDe
-kaaLgeDe
+kaaLgaDEdaDE
+kaaLgEDE
 kinkara
 kinkiNi
 kingahana
@@ -2741,7 +2741,7 @@ kiggaNNu
 kiggaNNu
 kichchu
 kichchu
-kinnara yakSa
+kinnara yaxa
 kibbari
 kiraNopalaalita
 kiriyaLu
@@ -2750,66 +2750,66 @@ kiriiTi
 kiriiTi tanaya
 kirukuLa
 kirukuLa
-kirudoDe
-kirudoDe
-kilbiSa
-kilbiSa
-kilbiSa
-kivigeDe
-kivigoTTu keLidu
+kirudODE
+kirudODE
+kilbiSha
+kilbiSha
+kilbiSha
+kivigEDE
+kivigOTTu keLidu
 kiviveTa
-kiichakaraaya vaMzaaraNya
-kiichakendra
+kiichakaraaya vaMshaaraNya
+kiichakeMdra
 kiiru
 kiiru
 kiilaka
 kiilachchu
 kiilaNa
 kiilaNa
-kiilaNe
-kiilaNeya
+kiilaNE
+kiilaNEya
 kiilanikku
-kiilaare
+kiilaarE
 kiilisida
-kiilisidaDe
+kiilisidaDE
 kiilisidavu
 kiilisu
 kiilisu
 kiilu
 kiisidavu
 kiisu
-kiiLkambi
+kiiLkaMbi
 kunkuma
 kunja
 kunjaravraja
-kuMTaNi
-kuMTaNi
-kuMDalita
-kunta
-kunta
-kunta
-kuntaagra
-kuntiisutaru
-kunda
-kundisade
-kundu
-kundu
-kumbhasambhava
-kumbhasthala
-kumbhasthaLa
-kumbhi
-kumbhiipaaka
+kuNTaNi
+kuNTaNi
+kuNDalita
+kuMta
+kuMta
+kuMta
+kuMtaagra
+kuMtiisutaru
+kuMda
+kuMdisadE
+kuMdu
+kuMdu
+kuMbhasaMbhava
+kuMbhasthala
+kuMbhasthaLa
+kuMbhi
+kuMbhiipaaka
 kukil
 kukila
 kukkuTa
 kukkura
 kukkuLisu
 kuggu
-kuchayugake
+kuchayugakE
 kujanaru
 kuTaja
 kuTila
-kuTila bhaNite
+kuTila bhaNitE
 kuThaara
 kuThaara
 kuThaara
@@ -2818,36 +2818,36 @@ kuThaara
 kuThaara. nutisu
 kuThaaraka
 kuThaarabuddi
-kuDite
-kuDite
-kuDite
-kuDitegaNNu
+kuDitE
+kuDitE
+kuDitE
+kuDitEgaNNu
 kuDimeLa
-kuDimone
-kuDimone
-kuDukugoMDavu
+kuDimOnE
+kuDimOnE
+kuDukugONDavu
 kuDuhu
-kuNike
-kuNikeyoLihudu
-kuNiva toDaru
+kuNikE
+kuNikEyOLihudu
+kuNiva tODaru
 kutti
 kutti
 kuttidavu
 kuttu
 kuttu
 kuttu
-kuttudale
+kuttudalE
 kudidu
 kudukuLigaLu
 kudhara
-kunikila baMDi
+kunikila baNDi
 kunikilali
 kunni
 kunni
 kubuddhi
 kubja
-kumantra
-kumantri
+kumaMtra
+kumaMtri
 kumati
 kumati
 kumuda
@@ -2859,7 +2859,7 @@ kummarigaDi
 kuranga
 kuriguNi
 kuridari
-kuridariya kummariya kaDitake
+kuridariya kummariya kaDitakE
 kurukuladagriyanu
 kurukulavana davaanaLa
 kurukulaagraNi
@@ -2868,31 +2868,31 @@ kurukulaanvaya
 kuruDu
 kurutilaka
 kurudharaNiyali
-kurudhare
+kurudharE
 kurudhaaruNiya pati
 kurumahiipati
-kururaajavaMzaziromaNi
+kururaajavaMshashiromaNi
 kururaaya
 kuruva
 kuruhu
-kuruhugoMDare
+kuruhugONDarE
 kuruLa
 kuruLu
-kulakole
+kulakOlE
 kulagiri
 kulagiri
 kulagiri vajra
-kulagiriyanoDe miiTi
+kulagiriyanODE miiTi
 kulaChala
-kuliza
-kuzikaastra
-kuziilava
-kuzezaya
-kuSThi
+kulisha
+kushikaastra
+kushiilava
+kusheshaya
+kuShThi
 kusi
 kusubu
-kusumazara
-kusumazara
+kusumashara
+kusumashara
 kusumaayudha
 kusuri
 kusurigaLa
@@ -2905,21 +2905,21 @@ kuhaka
 kuhaki
 kuhaki
 kuhara
-kuLuveLagu
-kuLLitihe
-kuLLiriyenalu
+kuLuvELagu
+kuLLitihE
+kuLLiriyEnalu
 kuLLirdaru
 kuuTa
-kuuDe
+kuuDE
 kuubaru
-kuurankuza
-kuurambu
-kuurambugaLu
+kuurankusha
+kuuraMbu
+kuuraMbugaLu
 kuuralagu
 kuuralagu
 kuurasi
-kuurugaNe
-kuurume
+kuurugaNE
+kuurumE
 kuulavati
 kuuLi
 kuuLi
@@ -2928,7 +2928,7 @@ kuuLugeDu
 kuuLgudi
 kRchChra
 kRta parikarma
-kRta pariziSTa paala
+kRta parishiShTa paala
 kRtaka
 kRtakabhiima
 kRtakavaartaabhiitapurajana
@@ -2940,8 +2940,8 @@ kRtasamaya
 kRtasamaya
 kRtasamaya
 kRtaanjali
-kRtaanta
-kRtaanta
+kRtaaMta
+kRtaaMta
 kRtaartha
 kRtaartha
 kRtaartharu
@@ -2949,85 +2949,85 @@ kRti
 kRttivaasa
 kRtrima
 kRpaNatana
-kRpaNate
-kRpaNate
+kRpaNatE
+kRpaNatE
 kRpaNara
 kRpaaNa
 kRpaaNapaaNi
 kRpaaNu
 kRpaaLu
-kRpemaaDu
-kRSNamuni
-kRSNaagaru
-kengarigola
-kengarigola
-kengariya
-kengola
-kengolu
-kengolu
-kendaLa
-kendaLiru
-kendhuuLi
-kempinaaligaLu
-kempeseyitu
-kechchuvanu
-keTToDu
-keDahi
-keDahu
-keDisidaLu
-keDisu
-keDu
-keDedudu
-keDenuDi
-keDenuDidu
-keDeyoDedu
-keNaku
-keNaku
-ketta
-ketta
-ketta kada
-kettanu
-kettavu
-kettavu
-kettukoMDiru
-kettukoMDiru
-kettukoMDire
-kettukoMDu.... beku
-kettudu
-kettudu
-kettuvanu
-kedaridanu
-kedaru
-kedaru
-kedaru
-kedaru
-kennegede
-kemmiise
-kerahu
-keraLichi
-keraLichidoDe
-keraLichiyu
-keraLu
-kelakaDe
-kelake
-kelada
-kelana
-kelabaru
-kelabala
-kelabalada
-kelasiDidu
-kellayisi
-kelle
-kellaisi
-kendradoLiralu
+kRpEmaaDu
+kRShNamuni
+kRShNaagaru
+kEngarigola
+kEngarigola
+kEngariya
+kEngola
+kEngolu
+kEngolu
+kEMdaLa
+kEMdaLiru
+kEMdhuuLi
+kEMpinaaligaLu
+kEMpEsEyitu
+kEchchuvanu
+kETToDu
+kEDahi
+kEDahu
+kEDisidaLu
+kEDisu
+kEDu
+kEDEdudu
+kEDEnuDi
+kEDEnuDidu
+kEDEyODEdu
+kENaku
+kENaku
+kEtta
+kEtta
+kEtta kada
+kEttanu
+kEttavu
+kEttavu
+kEttukONDiru
+kEttukONDiru
+kEttukONDirE
+kEttukONDu.... beku
+kEttudu
+kEttudu
+kEttuvanu
+kEdaridanu
+kEdaru
+kEdaru
+kEdaru
+kEdaru
+kEnnEgEdE
+kEmmiisE
+kErahu
+kEraLichi
+kEraLichidODE
+kEraLichiyu
+kEraLu
+kElakaDE
+kElakE
+kElada
+kElana
+kElabaru
+kElabala
+kElabalada
+kElasiDidu
+kEllayisi
+kEllE
+kEllaisi
+keMdradOLiralu
 keDaaDi
 keDaaLi
 keDiga
-keDugaMDavu
+keDugaNDavu
 keNa
 keNa
 keNa
-keNavillade
+keNavilladE
 keNasara
 keNi
 keNi
@@ -3035,8 +3035,8 @@ keNi
 keNi
 keNikaara
 keNikaara
-keNigoMDanu
-keNigoMDudu
+keNigONDanu
+keNigONDudu
 ketaki
 keyuura
 kevaNa
@@ -3047,8 +3047,8 @@ kevaNipudu
 kevaNisi
 kevaNisu
 kevaNisu
-kezapaaza
-kezaakezi
+keshapaasha
+keshaakeshi
 kesara
 kesaraakRti
 kesuri
@@ -3060,38 +3060,38 @@ keLii
 kai
 kai tappu
 kai duDuku
-kaikaalu meTTina toTi
-kaiko
-kaikombane
-kaikoL
-kaikoLalubeku
-kaikoLisu
-kaikoLisu
-kaikoLisu
-kaikoLLaru
+kaikaalu mETTina toTi
+kaikO
+kaikOMbane
+kaikOL
+kaikOLalubeku
+kaikOLisu
+kaikOLisu
+kaikOLisu
+kaikOLLaru
 kaigaTTu
 kaigaTTu
-kaigaLa hoydu
+kaigaLa hOydu
 ÀkRtaanjali-hastavinyaasa maaDiruva
 kaigaavudai
-kaigundidaru
+kaiguMdidaru
 kaiguNa
 kaiguttu
 kaiguuDu
 kaigai
 kaigaidu
-kaigoTTu
-kaigoppe
+kaigOTTu
+kaigOppE
 kaichaLaka
-kaitappa maaDisenu
+kaitappa maaDisEnu
 kaitappu
 kaituuka
-kaitoLasu
-kaidaMDige
-kaidaMDe
+kaitOLasu
+kaidaNDigE
+kaidaNDE
 kaidaTTi
-kaidire
-kaidiivige
+kaidirE
+kaidiivigE
 kaidu
 kaidu
 kaidu
@@ -3102,50 +3102,50 @@ kaidugaLa bisuTu
 kaidugaaratana
 kaidugaararu
 kaiduDuku
-kaidegeye
-kaidoTTilu
-kaidoLasaaytu
-kaidoLasu
-kaidoLasu
+kaidEgEyE
+kaidOTTilu
+kaidOLasaaytu
+kaidOLasu
+kaidOLasu
 kaidoru
 kaidoru
 kaidoru
-kaine
-kaipareguTTu
-kaibandige
+kainE
+kaiparEguTTu
+kaibaMdigE
 kaibiisu
 kaimana
 kaimanada kaDuhu
-kaimare
-kaimare
-kaimare
-kaimaredaru
-kaimaredu
+kaimarE
+kaimarE
+kaimarE
+kaimarEdaru
+kaimarEdu
 kaimasaka
 kaimaaTa
 kaimaaDi
 kaimaaDi
-kaimaaDi kaDivaDeye
+kaimaaDi kaDivaDEyE
 kaimaaDidaru
 kaimigu
 kaimigu
-kaimiralariyade
+kaimiralariyadE
 kaimiiri
-kaimudde
-kaime
-kaime
-kaime
-kaime
+kaimuddE
+kaimE
+kaimE
+kaimE
+kaimE
 kaimeLavisu
 kaimeLavisu
 kaiy
 kaiyaLava
-kaiyaare
+kaiyaarE
 kaiyikkidanu
 kaiyikku
-kaiyeDe
-kaiyoDane
-kaiyoDane
+kaiyEDE
+kaiyODanE
+kaiyODanE
 kaiyyikku
 kairava
 kairava
@@ -3176,56 +3176,56 @@ kaiviDi
 kaiviisi
 kaisaardudu
 kaisuragi
-kaisuuregaarara
-kaisuuregoTTaru
-kaisuuregoL
-kaisere
-kaiserehoytu
-konka
-konkidane
-konku
-koMDa
-koMDa
-koMDa
-koMDi
-koMDu konaru
-koMDukonaru
-koMDeya
-koMDeya
-koMDeyatana
-koMDeyaru
-konta
-kondukuugu
-kombu
-kombu
-koTaara
-koTTuga
-koDati
-koDahi
-koDahu
-koDenege
-koDenegeye
-konarisu
-konarva
-koppa
-kopparisi
-kobbinaaLu
-kobbu
-koraLa sere
-koraLu halavaada asura
-koredu ಎttuvaru
-kolegottuvaDeda
-kollaNige
-kollaNige
-kollaari
-kollaarigaLu
-kolluvavaru. mare
-koLaguLa
-koLaguLake
-koLarvakki
-koLalukki
-koLu koDe
-koLLi
+kaisuurEgaarara
+kaisuurEgOTTaru
+kaisuurEgOL
+kaisErE
+kaisErEhoytu
+kOnka
+kOnkidanE
+kOnku
+kONDa
+kONDa
+kONDa
+kONDi
+kONDu kOnaru
+kONDukOnaru
+kONDEya
+kONDEya
+kONDEyatana
+kONDEyaru
+kOMta
+kOMdukuugu
+kOMbu
+kOMbu
+kOTaara
+kOTTuga
+kODati
+kODahi
+kODahu
+kODEnEgE
+kODEnEgEyE
+kOnarisu
+kOnarva
+kOppa
+kOpparisi
+kObbinaaLu
+kObbu
+kOraLa sErE
+kOraLu halavaada asura
+kOrEdu Ettuvaru
+kOlEgOttuvaDEda
+kOllaNigE
+kOllaNigE
+kOllaari
+kOllaarigaLu
+kOlluvavaru. marE
+kOLaguLa
+kOLaguLakE
+kOLarvakki
+kOLalukki
+kOLu kODE
+kOLLi
 koka
 koTara
 koTaavaLi
@@ -3234,15 +3234,15 @@ koDakayyali
 koDakaiyavaru
 koDakaiyavaru
 koDaDiyaagi
-koDidane
+koDidanE
 koDu
 koDu
 koDu
 koDu
 koda
-kodaMDaagama
+kodaNDaagama
 kodanu
-kopastambhavanu maaDidaru
+kopastaMbhavanu maaDidaru
 kopasphuraNa
 komala
 komalaru
@@ -3250,19 +3250,19 @@ komalaangi
 koraDi
 korayisu
 kola tohu
-kola suuTiya sarivaLe
-kola hodegaLa baMDi
+kola suuTiya sarivaLE
+kola hOdEgaLa baNDi
 kolaguru
 kolamaga
-kolamone
+kolamOnE
 kolahati
-kolahode
-kolahode
+kolahOdE
+kolahOdE
 kolaaTa
 kovida
 kovida
 kovidaru
-koza
+kosha
 kohi
 koLa
 koLahiDi
@@ -3271,7 +3271,7 @@ koLaahaLisidaru
 koLi
 koLuvodanu
 koLgudi
-kautuka karedanu
+kautuka karEdanu
 kautukigaLu
 kaumodaki
 kaurava anujananu
@@ -3279,72 +3279,72 @@ kauriDu
 kauriDuva
 kauru
 kauru
-kauzala
-kauzika
+kaushala
+kaushika
 kaustubha
 kaustubha
 kauLika
 kauLika
 kauLikada
-krakacha mattu kumbhiipaaka
+krakacha mattu kuMbhiipaaka
 kratupati
-kratuvidu asuraaraatige
+kratuvidu asuraaraatigE
 kratuhara
 kramitaru
 kramuka
 krimi
-krodhazikhi
-kroza
-kSaNadinda saadhisi
-kSatradharma
-kSatradharmatyaaga
-kSatrarazmi
-kSaalana
-kSiti
-kSitipa
-kSitiya horekaararu
-kSiiNa
-kSoNi dhara
-kSoNipati
-kSobha
-kSobhe
-khaMDa
-khaMDa
-khaMDa
-khaMDaparazu
-khaMDaraNe
-khaMDige
-khaMDita
-khaMDiyodadu
-khaMDisida
-khaMDisu
-khaMDeya
-khaMDeyaru
+krodhashikhi
+krosha
+xaNadiMda saadhisi
+xatradharma
+xatradharmatyaaga
+xatrarashmi
+xaalana
+xiti
+xitipa
+xitiya hOrEkaararu
+xiiNa
+xoNi dhara
+xoNipati
+xobha
+xobhE
+khaNDa
+khaNDa
+khaNDa
+khaNDaparashu
+khaNDaraNE
+khaNDigE
+khaNDita
+khaNDiyodadu
+khaNDisida
+khaNDisu
+khaNDEya
+khaNDEyaru
 khaga
 khaganikara
 khagapati
-khagaviSTe
+khagaviShTE
 khagaaLi
 khachara
 khachari
 khachariijana
 khachariijana
 khachita
-khaDeya
-khaDeya
-khaDeya
+khaDEya
+khaDEya
+khaDEya
 khaDga
 khaDgapuutani
 khaDgi
-khaDDaNige
+khaDDaNigE
 khaDDatana
 khaDDaru
 khaDDi
-khaDDigaruvenninda
-khaDDigoL
+khaDDigaruvEnniMda
+khaDDigOL
 khati
-khatigoMDanu
-khatigoL
+khatigONDanu
+khatigOL
 khatiyali
 khadira
 khadyota
@@ -3352,8 +3352,8 @@ khayakhoDi
 khayakhoDi
 khayakhoDi
 khayakhoDi
-khareyada
-khareyaru
+kharEyada
+kharEyaru
 kharpara
 kharpara
 kharpuura kaTaaha
@@ -3364,7 +3364,7 @@ khaLa
 khaLa
 khaLa
 khaLapati
-khaLaziromaNi
+khaLashiromaNi
 khaLaagraNi
 khaLgaayudharu
 kaasara
@@ -3376,7 +3376,7 @@ khaati
 khaatiya
 khaatiyali
 khinna
-khinne
+khinnE
 khura
 khura
 khura
@@ -3385,12 +3385,12 @@ khuragaDi
 khurapuTa
 khurapuTa
 khurasaaNa
-khuraanta
+khuraaMta
 khulla
 khullatana
 khullaru
 khullaru
-khullavidye
+khullavidyE
 khullla
 khuuLaru
 khechara
@@ -3404,39 +3404,39 @@ khelanaa
 kheLa meLa
 kheLameLa
 kheLameLa
-khoDigaLe
-khopparisi
-khopparisu
-khopparisu
-khopparisu
-khopparisu
+khODigaLE
+khOpparisi
+khOpparisu
+khOpparisu
+khOpparisu
+khOpparisu
 khoDi
 khoDi
 khoDi
 khoDi
-gangaadeza
-gaMTalagaaLa
-gaMTalabaLe
-gaMTalu
-gaMTikkidanu
-gaMTikku
-gaMDa
-gaMDa zaila
-gaMDagarva
-gaMDanaagu
-gaMDiga
-gaMDugali
-gaMDugundu
-gaMDugeDadiri
-gaMDaÀugedaru
-gaMDutana
-gaMDuuSa
-gandhamaadana saanuvanu
+gangaadesha
+gaNTalagaaLa
+gaNTalabaLE
+gaNTalu
+gaNTikkidanu
+gaNTikku
+gaNDa
+gaNDa shaila
+gaNDagarva
+gaNDanaagu
+gaNDiga
+gaNDugali
+gaNDuguMdu
+gaNDugEDadiri
+gaNDaÀುgEdaru
+gaNDutana
+gaNDuuSha
+gaMdhamaadana saanuvanu
 gaganechararu
 gaganodara
-gaja abbaraNe
+gaja abbaraNE
 gajagalisu
-gajaghaTe
+gajaghaTE
 gajanivaha
 gajapura
 gajabaja
@@ -3451,44 +3451,44 @@ gajaridavu
 gajaru
 gajaruva
 gajaruva
-gajaskandhaavalamba
+gajaskaMdhaavalaMba
 gaDa
-gaDaNake
+gaDaNakE
 gaDaNisidanu
 gaDaNisu
-gaDaNe
+gaDaNE
 gaDabaDisi
 gaDabaDisu
-gaDaavaNe
-gaDaavaNe
-gaDaavaNe
-gaNane
-gaNane
-gaNanege
-gaNaneyillada
-gaNike
-gaNike
-gaNikeyaru
-gaNikeyaru
+gaDaavaNE
+gaDaavaNE
+gaDaavaNE
+gaNanE
+gaNanE
+gaNanEgE
+gaNanEyillada
+gaNikE
+gaNikE
+gaNikEyaru
+gaNikEyaru
 gaNisu
 gaNisu
-gaNe
-gata paritoSanu
-gataambaka
-gataakSa
-gataakSa
-gataakSamahiizaÀ
+gaNE
+gata paritoShanu
+gataaMbaka
+gataaxa
+gataaxa
+gataaxamahiishaÀ
 gataagata
 gataasugaLu
 gati
 gati
 gati
-gatige
+gatigE
 gadagadisu
 gadaaghaTTana
-gadaasambheda
+gadaasaMbheda
 gadgada
-gadduge
+gaddugE
 ganna
 gannakataka
 gannakaara
@@ -3503,19 +3503,19 @@ gabbavikkitu
 gabhiira
 gamana
 gayaaLa
-garavoTTage
+garavOTTagE
 garigaTTidiri
-garinaalage
-garuDatuMDa
+garinaalagE
+garuDatuNDa
 garuDamata
-garuDazara
+garuDashara
 garuDi
 garuDi
 garuDi
 garuDi
 garuDiya guru
 garuDiya jaaNa
-garuDiya sadana sarvajJanannu.... (droNanannu) garuDi
+garuDiya sadana sarvaGYanannu.... (droNanannu) garuDi
 garuDiyaachaarya
 garuva
 garuva
@@ -3535,11 +3535,11 @@ garuvaayi
 garuvaayi
 garuvaayi
 garuvaayi
-garuvaayigeDisu
+garuvaayigEDisu
 garuvaayiye
-garuvike
-garuve
-garuveya
+garuvikE
+garuvE
+garuvEya
 garjisitu
 garbhavikku
 garbhita
@@ -3548,57 +3548,57 @@ garbhodaka
 garva
 garva
 gavalu
-gavasaNike
-gavasaNige
-gavasaNige
+gavasaNikE
+gavasaNigE
+gavasaNigE
 gavasaNisu
 gasaNi
-gasaNisoL
+gasaNisOL
 gahana
 gahana
 gahana
 gahana
 gahanagati
-gahanave
+gahanavE
 gahvara
 gaLa
 gaLagarjana
-gaLagarjane
+gaLagarjanE
 gaLagaaLa
 gaLadagagLaÀna
 gaLanaaLii vinissaøta
-gaLavattige
+gaLavattigE
 gaLaha
 gaLahatana
 gaLahattavanu
 gaLahadiru
 gaLahuvanu
-gaLahe
+gaLahE
 gaLita
 gaangeya
-gaaMDiva
-gaaDike
-gaaDike
+gaaNDiva
+gaaDikE
+gaaDikE
 gaaDisu
 gaaDha
 gaaDha
 gaaDhada
 gaaDhadali
 gaaDhaprataapa
-gaaDhaabhilaaSaru
+gaaDhaabhilaaSharu
 gaaDhisu
 gaaDhisu
 gaaDhisu
 gaaNa
-gaabari bhaaraNe
-gaayagoMDa baadaNagoreda
+gaabari bhaaraNE
+gaayagONDa baadaNagOrEda
 gaaraagaaru
 gaaraagu
 gaaru
 gaaru hastra
-gaarugeDe
-gaarugeDe
-gaarugeDe
+gaarugEDE
+gaarugEDE
+gaarugEDE
 gaaruDa
 gaaruDa
 gaaruDisu
@@ -3623,17 +3623,17 @@ gaahisitu
 gaahisu
 gaahu
 gaahu
-gaahukoLLada
+gaahukOLLada
 gaahugataka
 gaaheru
 gaaLu
 gaaLugajarina
-giMDi
+giNDi
 girivraja
 girisaanu
 giijaga
 giirvaaNi
-guMDige
+guNDigE
 gujaru
 gujugujisu
 gujuguju
@@ -3675,28 +3675,28 @@ guLa
 guLa
 guLa
 guLi
-guLi tevaraniikSisuta
-guLi tevaru
+guLi tEvaraniixisuta
+guLi tEvaru
 guuDaara
 guuDu
-guuDugoMDudu
-guuDugoL
+guuDugONDudu
+guuDugOL
 guuDhatara
 guuDhada
-guuLetege
-guuLeya
-guuLeya
-gelidanu
-gellakeDe
-gellegaDe
+guuLEtEgE
+guuLEya
+guuLEya
+gElidanu
+gEllakEDE
+gEllEgaDE
 geku
 geNi
-goTTiyaaTa
-goNe
-gore
-golage
-gole
-goLasu
+gOTTiyaaTa
+gONE
+gOrE
+gOlagE
+gOlE
+gOLasu
 gokula
 gokula
 gochara
@@ -3713,20 +3713,20 @@ goNumaari
 gotra
 gotraja
 gotraja
-gotrabaandhavaru
+gotrabaaMdhavaru
 gotravadha
 godhana
 gonaaLi
 gonaaLi
 gonaaLi
-gopaalanembana
+gopaalanEMbana
 gopitaatmaka
 gomukha
 gomuutrakada chitra
 gori
 gova
 govaLaru nirlajjaru
-govaLigaTTige
+govaLigaTTigE
 govraja
 govraja
 gohaya sthaLanivaasitaru
@@ -3734,25 +3734,25 @@ gauju
 gautama
 gauragiva
 gauru
-gaurugahaLe
-gaurugahaLe
+gaurugahaLE
+gaurugahaLE
 gauLa
 gauLava
-graamaNige
+graamaNigE
 graava
-ghaMTaarava
-ghaTayantra
+ghaNTaarava
+ghaTayaMtra
 ghaTavaasaka
-ghaTasambhava
+ghaTasaMbhava
 ghaTisu
-ghaTe
+ghaTE
 ghaTTaavaLi
 ghaTTivaaLti
 ghaTTisu
 ghana
 ghana
 ghana kapardi
-ghanatRSNaakulate
+ghanatRShNaakulatE
 ghananissaaLa
 ghanaparitaapa
 ghanameghaaLi
@@ -3762,25 +3762,25 @@ gharaTTa
 gharaTTa
 gharmajala
 ghallaNi
-ghallaNe
-ghallaNe
-ghallaNe
-ghallaNe
-ghallaNe
-ghallaNe
-ghallaNe
-ghallaNe
-ghallaNe
+ghallaNE
+ghallaNE
+ghallaNE
+ghallaNE
+ghallaNE
+ghallaNE
+ghallaNE
+ghallaNE
+ghallaNE
 ghasaNi
 ghaLi
-ghaLige vaTTalu
-ghaLigevaTTala
-ghaLilane
-ghaLilane
-ghaLilane
+ghaLigE vaTTalu
+ghaLigEvaTTala
+ghaLilanE
+ghaLilanE
+ghaLilanE
 ghaaTa
 ghaaDada
-ghaaDike
+ghaaDikE
 ghaaDisitu
 ghaaDisu
 ghaaDisuva
@@ -3790,41 +3790,41 @@ ghaataka
 ghaatakatana
 ghaatakaru
 ghaataaLi
-ghaataaLe
+ghaataaLE
 ghaatisitu
 ghaayaghaati
 ghaayaghaati
 ghaaraaghaari
 ghaasiyaadaru
-ghaasiyaadenu
+ghaasiyaadEnu
 ghusRNa
 ghRtayoni
 ghoTakavraata
-ghoSaNe
-ghoLa ghoSa
+ghoShaNE
+ghoLa ghoSha
 ghoLaa ghoLi
 ghoLisu
 chanchupuTa
-chaMDa
-chaMDa
-chaMDa
-chaMDakara
-chaMDabhujabala
-chaMDasamiira
-chaMDi
-chaMDi
-chaMDi
-chaMDitana
-chaMDiyaadavu
-chaMDisade
-chandrike
-chandrike
-chandrotpala
-chandropala
-champaya
-champeya
-chambaka
-chambaka
+chaNDa
+chaNDa
+chaNDa
+chaNDakara
+chaNDabhujabala
+chaNDasamiira
+chaNDi
+chaNDi
+chaNDi
+chaNDitana
+chaNDiyaadavu
+chaNDisadE
+chaMdrikE
+chaMdrikE
+chaMdrotpala
+chaMdropala
+chaMpaya
+chaMpEya
+chaMbaka
+chaMbaka
 chakita chaapa
 chakitachaapa
 chakkavakki
@@ -3839,33 +3839,33 @@ chaTTa
 chaDaaLisu
 chaDaaLisu
 chaDaaLisu
-chaDaaLise
-chaDDaNe
+chaDaaLisE
+chaDDaNE
 chaDhaaLa
 chatura
-chaturanga padahatige
+chaturanga padahatigE
 chaturangabala
 chaturaananaru
 chaturaarNava
-chaturaazrama
+chaturaashrama
 chaturaasya janaka
 chaturopaaya
 chaturthi
-chaturdaza vidye
-chaturdazabhuvana
+chaturdasha vidyE
+chaturdashabhuvana
 chaturvidha
-chatuSTaya
+chatuShTaya
 chadura
-chadure
+chadurE
 chapala
 chapala
 chapalaaniika
-chapale
-chapaLate
-chapaLe
+chapalE
+chapaLatE
+chapaLE
 chapeTa
-chapparaNe
-chapparaNe
+chapparaNE
+chapparaNE
 chapparisu
 chamara
 chamara
@@ -3876,41 +3876,41 @@ chamuvistaara
 chamuupati
 chamuupati
 chamuuru
-chammaTige
-chammaavugegaLu
+chammaTigE
+chammaavugEgaLu
 chayada
 chara
 chara
-charaNa amburuha
+charaNa aMburuha
 charaNayuga
 charaNaayudha
 charama
 charaachara
 charita
 charita
-charitajJaatavaasa
+charitaGYaatavaasa
 charitaartha bhaava
 charisu
 charisu
 charu
 charuvu
 chalagati
-chalaziLiimukha
-chalitalochane
+chalashiLiimukha
+chalitalochanE
 chalisu
 challaNa
 challabaDi
 challitu
-chavukige
+chavukigE
 chaLa
 chaLaka
 chaLanayana
 chaLaya
 chaLaya
-chaLeya
-chaLeya
-chaLeyadu
-chaaMDaalaravadhi
+chaLEya
+chaLEya
+chaLEyadu
+chaaNDaalaravadhi
 chaagu
 chaachu
 chaachu
@@ -3919,7 +3919,7 @@ chaaturvarNa
 chaapa
 chaapadhara
 chaapadhuurjaTi
-chaaparahasyavidye
+chaaparahasyavidyE
 chaapala
 chaapala
 chaapavamiDidu
@@ -3936,26 +3936,26 @@ chaari
 chaaru
 chaaru
 chaaru
-chaavaTeya
-chaavaTeyaru
-chaavaTeyaru
+chaavaTEya
+chaavaTEyaru
+chaavaTEyaru
 chaavaDi
-chaavaDi mane
+chaavaDi manE
 chaahi
 chaahi
 chaahi
 chaaLana
 chaaLisitu
 chaaLisu
-chaaLe
-chaaLeya
-chaaLeyara
+chaaLE
+chaaLEya
+chaaLEyara
 chaaLaisu
-chintaambudhi
-chintaakula
-chintaamaNi
-chintaamaNi
-chintaarajani
+chiMtaaMbudhi
+chiMtaakula
+chiMtaamaNi
+chiMtaamaNi
+chiMtaarajani
 chigi
 chigidu
 chiguLiduLi
@@ -3964,14 +3964,14 @@ chiTTumuriyaaTa
 chiNNa
 chitta niivu
 chitta vibheda
-chittada nele
-chittadoLaaLidare
+chittada nElE
+chittadOLaaLidarE
 chittavibhrama
 chittavisu
 chittavisu
 chittavisuvudu
 chittavRtti
-chittavyathe
+chittavyathE
 chittaskhalitaru
 chittaisu
 chittaisu
@@ -3984,21 +3984,21 @@ chitraavaLividhaanada
 chinakaDi
 chinakaDi
 chinakaDidu
-chinakaDivaDeda
+chinakaDivaDEda
 chinakaraDi maaDu
 chinumaya
 chinmaya
 chinmaya
-chimmaMDe
+chimmaNDE
 chimmuriya bigisu
-chirantana
+chiraMtana
 chiraayu
 chihna
 chiitkaøti
 chiilaNa
 chiilaaya
-chumbaka
-chumbisu
+chuMbaka
+chuMbisu
 chukki
 chukki
 chukki
@@ -4022,32 +4022,32 @@ chuurisu
 chuurNa
 chuuLi
 chuuLi
-chuuLike
-chuuLike
-chuuLike
+chuuLikE
+chuuLikE
+chuuLikE
 chuuLigalaha
-chembuuta
-cheluvu
-cheluvu
-chella baDidu
-chellabaDi
-chellitu
-chelliduvu
-chellegangaLu
-chellegangaLu
+chEMbuuta
+chEluvu
+chEluvu
+chElla baDidu
+chEllabaDi
+chEllitu
+chElliduvu
+chEllEgangaLu
+chEllEgangaLu
 chetaHkRpaNa
 chetarisi
 chetarisi
 cheramaya
-cheSTaka
-cheSTe
+cheShTaka
+cheShTE
 chaitanya
 chaitanyagati
 chaidya
-chokkeya
-chokkeya
-chochchalava
-cholleya
+chOkkEya
+chOkkEya
+chOchchalava
+chOllEya
 chodhara
 choha
 choha
@@ -4055,14 +4055,14 @@ chohada
 chauka
 chauki
 chauki
-chaukige
-chaudhaare
+chaukigE
+chaudhaarE
 chaupaTa malla
-chaupaTadoLu
+chaupaTadOLu
 chaupaTamalla
 chaupaTamalla
 chaupaTamalla
-chauraaziiti
+chauraashiiti
 chauri
 chauri
 chauri
@@ -4090,28 +4090,28 @@ Chala
 Chaladankanu
 Chaladankaraavutaru
 Chidrisu
-janke
+jankE
 jangama
 jangamajiiva
 janguLisi
 janghaaLa
 janghaaLatana
-janghe
-janghe
+janghE
+janghE
 janjaDa
-jantrada jiiva putrigaLu
-jambiiraphala
-jambukaugha
-jambuu
-jambuuphala
-jambha
-jambha
+jaMtrada jiiva putrigaLu
+jaMbiiraphala
+jaMbukaugha
+jaMbuu
+jaMbuuphala
+jaMbha
+jaMbha
 jakkavakki
 jakkulisu
 jakkulisu
 jaga+ogha+aniika
 jagajaTTi
-jagajhampa
+jagajhaMpa
 jagadavasaana
 jaguLida
 jaguLida
@@ -4124,7 +4124,7 @@ jajjhaara
 jajjhaara
 jajjhaaratana
 jajjhaaratana
-jaTe
+jaTE
 jaThara paraayaNaru
 jaThagjaÀ
 jaTharataaDana
@@ -4143,8 +4143,8 @@ jaDidavu
 jaDidu
 jaDidudu
 jaDidudu
-jaDiye
-jaDiye
+jaDiyE
+jaDiyE
 jaDiva
 jaDiva
 jaDiva
@@ -4160,12 +4160,12 @@ jabbuliya
 jaya vistaraNa
 jayakaamini
 jayajiivi
-jayaprachaMDaru
+jayaprachaNDaru
 jayavadhu
 jayavaasa
 jayasiri
 jayaadhvaravidhi
-jayaavalambana
+jayaavalaMbana
 jaraDa
 jaraDu
 jaraDu
@@ -4176,51 +4176,51 @@ jaridavadrigaLu
 jaridu
 jaridudu
 jaridudu (saridudu)
-jaridudo ? hinde sariyito? taLita sandaNi
+jaridudO ? hiMdE sariyito? taLita saMdaNi
 jariva
-jarivoDe
+jarivODE
 jarugu
 jarugu
 jaruhu
-jare
-jare
-jare
-jareda
-jaredanu
-jaredu
+jarE
+jarE
+jarE
+jarEda
+jarEdanu
+jarEdu
 jarjhara
 jarjhara
 jalachara
 jalaja
-jalaja vizikha
+jalaja vishikha
 jaladaana
 jaladharapaTa
 jaladhi
-jalaraazi
-jalaruha + akSa
-jalaruhaakSa
+jalaraashi
+jalaruha + axa
+jalaruhaaxa
 java
 java
-javagundu
-javageDisu
-javageDe
+javaguMdu
+javagEDisu
+javagEDE
 javanapuri
-javanike
-javanike
-javanike
+javanikE
+javanikE
+javanikE
 javaLi
 javaLi
-javaLidege
+javaLidEgE
 javaLivaatu
 javaaji
 javaayilatana
 javaayla
-javivale
+javivalE
 javvana
 javvana
 jasa
 jasa
-jahnusute
+jahnusutE
 jaLLuga
 jaaga
 jaagaraNa
@@ -4228,12 +4228,12 @@ jaagu
 jaagu
 jaajinagiri
 jaajinagiri
-jaaDana heMDati siiri kaaNade sattaLu ಎmbagaadeye ideyalla ! (jaaDa
+jaaDana hENDati siiri kaaNadE sattaLu EMbagaadEye idEyalla ! (jaaDa
 jaaDi
-jaaDige
+jaaDigE
 jaaDisu taDi
 jaaDya
-jaaDyarekhe
+jaaDyarekhE
 jaaN
 jaaNapaNa
 jaaNaaylatana
@@ -4242,12 +4242,12 @@ jaaNu
 jaaNu
 jaata
 jaataruupa
-jaatazrama
+jaatashrama
 jaati
 jaati
-jaatigeDu
+jaatigEDu
 jaatisankara
-jaatyandha
+jaatyaMdha
 jaanapadajana
 jaanisu
 jaanu
@@ -4260,17 +4260,17 @@ jaaru
 jaaru
 jaaru
 jaaruvaru
-jaare
+jaarE
 jaala
 jaavaLa
 jaavaLaru
-jaavaLave
+jaavaLavE
 jaahnavi
 jaahnavi
 jaahnavi
-jaaLaandraaLigaLanu
-jaaLige
-jaaLigevoraje
+jaaLaaMdraaLigaLanu
+jaaLigE
+jaaLigEvOrajE
 jaaLisu
 jaaLisu
 jaaLisu
@@ -4284,19 +4284,19 @@ jigi
 jita
 jitavirodha
 jitasangraama
-jitaakSa
+jitaaxa
 jinugu
 jinugu
 jinugu
 jinugu
 jinuguvaatu
-jii yenal
-jiikoLave
+jii yEnal
+jiikOLavE
 jiimuuta
 jiiya
 jiiya binnaha
-jiirkoLavi
-jiiva bhrameya baahira
+jiirkOLavi
+jiiva bhramEya baahira
 jiivadali jaaridaru
 jiivabhaava
 jiivaviLaasa
@@ -4321,19 +4321,19 @@ jurita
 juuTa
 jeya
 jevaDisu
-jevaNige
-jevoDe
-jevoDedu
-jevoDeya
-joMDu
-joMDu
-joMDu
-joMDe
-joMDeddu
-jompu
-jottinaahava
-jottisu
-jommu
+jevaNigE
+jevODE
+jevODEdu
+jevODEya
+jONDu
+jONDu
+jONDu
+jONDE
+jONDEddu
+jOMpu
+jOttinaahava
+jOttisu
+jOmmu
 joDanu
 joDina sarapaLi
 joDisitu
@@ -4343,11 +4343,11 @@ joDu
 joDu
 joDu
 joDumaaDu
-joDeyali
+joDEyali
 joda
 joda
 jodara
-jodavidye
+jodavidyE
 jodaaLi
 jodha
 jodha
@@ -4360,23 +4360,23 @@ joru
 joru
 joru
 jolisu
-joleya
+jolEya
 jovaLisu
 joha
-joLada paaLige
+joLada paaLigE
 joLavaaLi
 joLavisu
 joLi
-joLidege
-jJaata
+joLidEgE
+GYaata
 jvarita
 jhankisi
 jhankisu
-jhanke
-jhageya
-jhageya
-jhageya lahari
-jhaDite
+jhankE
+jhagEya
+jhagEya
+jhagEya lahari
+jhaDitE
 jhaDiva
 jhallari
 jhallari
@@ -4386,15 +4386,15 @@ jhallari
 jhallari
 jhalli
 jhalli
-jhaSa
+jhaSha
 jhaLa
 jhaLa
 jhaLa
 jhaLa
 jhaLakada
-jhaLada hoylu
+jhaLada hOylu
 jhaLapa
-jhaLapise
+jhaLapisE
 jhaaDi
 jhaaDi
 jhaaDi
@@ -4407,64 +4407,64 @@ jhaaDisu
 jhaaDisuva
 jhuuDisi
 jhuuDisi
-jhevaNigegoLÉ
-jhompisu
-jhompisu
-jhompisu
-jhombisali
-jhomma
-jhomminali
-jhommu
-jhompisi
-jhompisidanu
-jhompisu
-jhompisu
-jhompisu
-jhompisu
-jhompisu
-jhompu
-jhompu
-jhomiDe
-TakkarigaLe
-TikkarigaLe
+jhevaNigEgOLÉ
+jhOMpisu
+jhOMpisu
+jhOMpisu
+jhOMbisali
+jhOmma
+jhOmminali
+jhOmmu
+jhoMpisi
+jhoMpisidanu
+jhoMpisu
+jhoMpisu
+jhoMpisu
+jhoMpisu
+jhoMpisu
+jhoMpu
+jhoMpu
+jhomiDE
+TakkarigaLE
+TikkarigaLE
 TiTTibha
 TiTTibha
 TippaNa
 TippaNa
-TeMTaNisu
-TeMoNiÉsu
-TiÉkkarigaLe
-Tekke
-Tekkeya
-Tekkeya haraLu
-ToNe
-Toppige
+TENTaNisu
+TEMoNiÉsu
+TiÉkkarigaLE
+TEkkE
+TEkkEya
+TEkkEya haraLu
+TONE
+TOppigE
 Thakkina
 Thakku
 Thakku
 Thappara
-ThavaNe
-ThaaNaveDahida
-ThaaNaantara
+ThavaNE
+ThaaNavEDahida
+ThaaNaaMtara
 Thaaya
 Thaavu
 Thaavu
 Thaavu
 ThaavuDi
 Thiivi
-Thekkeya
+ThEkkEya
 ThauLikaara
 ThauLikaara
-Dambara
-Dambara
-Dambharu
-Dage hoydu
-Dageya Daavara
+DaMbara
+DaMbara
+DaMbharu
+DagE hOydu
+DagEya Daavara
 Davarisu
 Davarisu
 DaaNa
 Daamara
-DaavaNeviDidu
+DaavaNEviDidu
 Daavara
 Daavara
 Daavara
@@ -4481,47 +4481,47 @@ Daavarisu
 DaaLavaridu
 DingaÀriga
 Dingariga
-Dimba
+DiMba
 DiLLa
 DiLLisa
-DenkaNi
-DeMDaNisi
-DeMDaNisi
-DeMDaNisu
-DeMDaNisu
-DeMDaNisu
-DeMDhaNisu
-DonkaNi
-DonkaNi
-Domba
-Dombigara
-Dombina
-Dombina
-Dombu
-Dombu
-Dombu
-Dombu
-Dokkara koDe muriva
-DokkaraNe
-Dokkarisu
-DoLLaasa
-DoLLu
-DoLLugara
-Doyige
+DEnkaNi
+DENDaNisi
+DENDaNisi
+DENDaNisu
+DENDaNisu
+DENDaNisu
+DENDhaNisu
+DOnkaNi
+DOnkaNi
+DOMba
+DOMbigara
+DOMbina
+DOMbina
+DOMbu
+DOMbu
+DOMbu
+DOMbu
+DOkkara kODE muriva
+DOkkaraNE
+DOkkarisu
+DOLLaasa
+DOLLu
+DOLLugara
+DoyigE
 Dori
 Doru
 Doru
 Doru
 Doruvogu
-DauDe
-DauDe
-Dhage
-Dhage
-Dhage
-Dhage
-Dhage
-Dhage ubbarisitu
-Dhageya Daavara
+DauDE
+DauDE
+DhagE
+DhagE
+DhagE
+DhagE
+DhagE
+DhagE ubbarisitu
+DhagEya Daavara
 DhavaLaru
 Dhaavara
 DhaaLa
@@ -4531,24 +4531,24 @@ DhaaLa
 DhaaLaru
 DhaaLisuva
 tangadira
-taMDula
-tampelaru
-tambaTa
-tambelaru
+taNDula
+taMpElaru
+taMbaTa
+taMbElaru
 takkaru
 takkavisu
 takkaisi
 takkaisi
 takkaisu
-takSaka
+taxaka
 tagaDuri
 tagaDo
 tagaru
 tagahu
 tagahu
-taguLvante
+taguLvaMtE
 taguu
-tage
+tagE
 taggitu
 taggidaru
 taggu
@@ -4558,35 +4558,35 @@ taTapaTavaagi
 taTavaaydu
 taTaaka
 taTTiya
-taTTivale
-taTTeya
+taTTivalE
+taTTEya
 taDavarisu
 taDi
 taDi
 taDi
 taDi
-taDige
+taDigE
 taDiviDidu
-taDe
-taDegaDiva
-taDegaDisi
-taDeyadiru
-taDeyi
+taDE
+taDEgaDiva
+taDEgaDisi
+taDEyadiru
+taDEyi
 tat sahodara
-tatukSaNa
+tatuxaNa
 tattanuja
 tattarataridu
-tattare
-tattavaNe
-tattavaNe
-tattavaNe
+tattarE
+tattavaNE
+tattavaNE
+tattavaNE
 tattaLa
 tatpuurvaka
-tatpretarige
-tatsantaanapaarampare
+tatpretarigE
+tatsaMtaanapaaraMparE
 tatsamaya
-tatsiimege
-tadangarakta viSanga raudraalingitanu
+tatsiimEgE
+tadangarakta viShanga raudraalingitanu
 tadiiya
 tadiiya
 tadvana
@@ -4595,37 +4595,37 @@ tani
 tani
 tani
 tani
-tani ಎre
+tani ErE
 tanigaruLu
 tanigiDi
-tanigeDe
-tanigeDeda
-tanigoDahi
-tanibagiye
+tanigEDE
+tanigEDEda
+tanigODahi
+tanibagiyE
 tanimada
 tanimuLugito
 taniyuri
 tanirakta
-tanivaLe
-taniveLagu
-taniharuSa
+tanivaLE
+tanivELagu
+taniharuSha
 tanihaLukanu
-tanihogaru
-tanihoraLi
+tanihOgaru
+tanihOraLi
 tanu puLaka
 tanuja
-tanujana baLige
-tanuje
+tanujana baLigE
+tanujE
 tanutra
 tanutra
-tanuvenu teruvenu
-tannaane
-tapaniiyarekhe
+tanuvEnu tEruvEnu
+tannaanE
+tapaniiyarekhE
 tapodhanaru
 tapta
 tappaDi
 tappiduda
-tappuvenu
+tappuvEnu
 tabbu
 tama
 tamadagaavaLi
@@ -4634,12 +4634,12 @@ tammananu
 taranga
 taranga
 taraNi kiraNada dhaaLi
-taraNibimba
+taraNibiMba
 taraNimaargaNa
 taraNiyanvaya
 taravarisu
 taravaLa
-taravaLike
+taravaLikE
 taraviDi
 tarahara
 tarahara
@@ -4653,13 +4653,13 @@ taraharisu
 taraLa
 taraLa
 taraLa
-taraLe
+taraLE
 tari
 tari
-tarichugeDe
-tarichugeDe
+tarichugEDE
+tarichugEDE
 taridu
-taridoTTi
+taridOTTi
 taru
 taruNiyaru
 tarubalu
@@ -4674,42 +4674,42 @@ tarubu
 taruvali
 taruvali
 taruvali
-tale baLichi
-talekaavudu
-talegaaydu
-talegimba
-taleguttaleke
-talegutti
-taleguttu
-taleguttu
-taleguttu
-taleguttu
-talege tandanu
-taledoru
-talebaLachi
-talebaLachi
-talebaLachu
-talemaMDe
-talemaTTu
-talemaTTu
-talemareya
-talemaari
-talemaarigaLu
-taleya komba
-taleyakoMDanu
-taleyettidudu
-taleyottu
-taleyoDu
-taleyoDu
-talevarige
-talevarige
-talevarige
-taleviDi
-taleverasi
+talE baLichi
+talEkaavudu
+talEgaaydu
+talEgiMba
+talEguttalekE
+talEgutti
+talEguttu
+talEguttu
+talEguttu
+talEguttu
+talEgE taMdanu
+talEdoru
+talEbaLachi
+talEbaLachi
+talEbaLachu
+talEmaNDE
+talEmaTTu
+talEmaTTu
+talEmarEya
+talEmaari
+talEmaarigaLu
+talEya kOMba
+talEyakONDanu
+talEyEttidudu
+talEyOttu
+talEyoDu
+talEyoDu
+talEvarigE
+talEvarigE
+talEvarigE
+talEviDi
+talEvErasi
 tallaNa
 tallaNisi
 tavaka
-tavakadinda
+tavakadiMda
 tavakiga
 tavakigaru
 tavakisi
@@ -4721,13 +4721,13 @@ tavalaayi
 tavalaayi
 tavisidanu
 tavisu
-tavisuvare
+tavisuvarE
 taskara
-tahenu
-taLa melu nimiSake melu taLa
+tahEnu
+taLa melu nimiShakE melu taLa
 taLakamaTha
-taLatantra
-taLatantra
+taLataMtra
+taLataMtra
 taLapa
 taLapa
 taLapaTa
@@ -4738,15 +4738,15 @@ taLapaTa maaDu
 taLapada
 taLamaLalu
 taLavaragaahi
-taLaveLagu
-taLaveLagu
+taLavELagu
+taLavELagu
 taLahatta
 taLi
 taLi
 taLi
-taLige
-taLige
-taLige
+taLigE
+taLigE
+taLigE
 taLita
 taLita
 taLita
@@ -4766,14 +4766,14 @@ taLitudu
 taLitudu
 taLidavu
 taLirahaasu
-taLirele
+taLirElE
 taLukikki
 taLuku
 taLuku
 taLuku
-taLuvade
-taLuvillade
-taLe
+taLuvadE
+taLuvilladE
+taLE
 taLodari
 taLLanka
 taLLankadali
@@ -4792,7 +4792,7 @@ taaguvudu
 taaTanka
 taaTitu
 taaTisidaru
-taaNaantara
+taaNaaMtara
 taamarasa
 taamarasa
 taamarasadaLa
@@ -4800,13 +4800,13 @@ taamasa
 taamasa
 taamasa
 taamasa
-taamasike
-taamasike
+taamasikE
+taamasikE
 taayigaLu
-taayige makkaLaagade
+taayigE makkaLaagadE
 taayimaLalu
 taaymaLala
-taarake
+taarakE
 taaraanivaha
 taaraavaLi
 taaru
@@ -4816,24 +4816,24 @@ taaru
 taaru
 taarutaTTu
 taaruthaTTu
-taareudire
+taarEudirE
 taarkikaru
 taavakara
-taavareya sakha
-taaLa haLavige
+taavarEya sakha
+taaLa haLavigE
 taaLadhvaja
 taaLapatra
-taaLavRnta
-taaLahaLavige
-taaLige
-taaLige
-taaLige
-taaLige
-taaLigegaDi
-taaLigeya tallaNa
+taaLavRMta
+taaLahaLavigE
+taaLigE
+taaLigE
+taaLigE
+taaLigE
+taaLigEgaDi
+taaLigEya tallaNa
 taaLu
 taaLu baagila kuttarali
-tinthiNi
+tiMthiNi
 tigaDalu
 tigura tiddu
 tiguru
@@ -4841,13 +4841,13 @@ tiguru
 tiguru erida
 tiguLa raavutaru
 tiddi
-tiddikoDu
+tiddikODu
 tiddidaru
 tiddu
 tiddu
 timira
-timirada horaLi
-timiraaMzukeyaru
+timirada hOraLi
+timiraaMshukEyaru
 tiri
 tiri
 tirikallu
@@ -4861,11 +4861,11 @@ tirukuLi
 tirugi
 tirugidaru
 tirugutta iTTaNisi
-tiruguva nagake
-tirupinali aNedu
+tiruguva nagakE
+tirupinali aNEdu
 tirupu
-tiruvaay‍goLisu
-tiruvige
+tiruvaaygOLisu
+tiruvigE
 tiruvu
 tiruvu
 tiruhi
@@ -4892,9 +4892,9 @@ tiiDu
 tiida
 tiidudu
 tiidudu
-tiinige
+tiinigE
 tiiritidu
-tiiritaÀu
+tiiritaÀು
 tiirisi
 tiiruvavanalla
 tiirtha
@@ -4903,12 +4903,12 @@ tiivi
 tunga
 tungavikrama
 tungavikramanu
-tuMDa
-tuMDa
-tumbalu
-tumbu
-tumbura
-tumburu
+tuNDa
+tuNDa
+tuMbalu
+tuMbu
+tuMbura
+tuMburu
 tuTTisu
 tuTTisu
 tuDukalu
@@ -4923,7 +4923,7 @@ tuDuku
 tutisu
 tutisu
 tudikara
-tudigoLisu
+tudigOLisu
 tubbinavadiru
 tubbu
 tubbu
@@ -4938,35 +4938,35 @@ turugaahi
 turugida
 turugu
 turugu
-turugeve
-turugomba
-turuche
-tuSaara
-tuSaara
-tuSaara
-tuSaara
-tuSTa
-tuSTa
-tuSTiyaniitiyiM
+turugEvE
+turugOMba
+turuchE
+tuShaara
+tuShaara
+tuShaara
+tuShaara
+tuShTa
+tuShTa
+tuShTiyaniitiyiM
 tuhina
-tuukaDike
+tuukaDikE
 tuukada
 tuugu
 tuupiri
 tuupiri
 tuupiridu
-tuurambu
+tuuraMbu
 tuurisida panchaka
 tuuryatraya
 tuuL
 tuuL
 tuuL
 tuuL
-tuuLabare
+tuuLabarE
 tuuLi
 tuuLida
 tuuLida
-tuuLidaDe
+tuuLidaDE
 tuuLidanu
 tuuLidaru
 tuuLidavu
@@ -4977,90 +4977,90 @@ tuuLu
 tuuLu
 tuuLuva
 tuuLuva
-tuuLuvare
-tuuLuvare
-tuuLuvare
+tuuLuvarE
+tuuLuvarE
+tuuLuvarE
 tRNabaaNa
 tRNavana
-tRSNe
-tenkaNa
-tenkaNa kaDala vaLayada
-tenkadese
-tekkavari
-tekke
-tekke
-tekke
-tekke golu
-tekkegaTTitu
-tekkegeDe
-tekkevarige
-tegasu
-tegahina toLa
-tegedaru
-tegedavu
-tegedudu
-tegedudu
-tegedoTake
-tegedoDitu
-tegesu
-tegesu
-tegehina
-tetta kaaLagake
-tettanava sarvasvavanu
-tettiga
-tettiga
-tettiga
-tettiga
-tettiga
-tettiga
-tettiga
-tettigara
-tettigaru
-tettidavu
-tettisidanu
-tettisidenu
-tettisu
-tettisu
-tettisu
-tettisu
-tettisu
-tettisu
-tettiha
-tettiisa
-tettiisukoTi
-tettuda
-tettudu
-tettudu (tattudu)
-tene
-tebbu
-terapu
-terahaaytu
-terahu
-terahu
-terahu
-terahu
-terahuguDada
-terahugoDu
-terahugoDu
-teraLike
-teraLike
-teraLikeya maaDidanu
-teraLichu
-teraLichu
-teraLuvane
-terisu
-teru
-terederasu
-terevere
-tellaTi
-tevarisu
-tevaru
-tevaru
-tevaru
-tevaru
-tevaruva
-teLuvasiru
-teLuvasura
+tRShNE
+tEnkaNa
+tEnkaNa kaDala vaLayada
+tEnkadEsE
+tEkkavari
+tEkkE
+tEkkE
+tEkkE
+tEkkE golu
+tEkkEgaTTitu
+tEkkEgEDE
+tEkkEvarigE
+tEgasu
+tEgahina toLa
+tEgEdaru
+tEgEdavu
+tEgEdudu
+tEgEdudu
+tEgEdoTakE
+tEgEdoDitu
+tEgEsu
+tEgEsu
+tEgEhina
+tEtta kaaLagakE
+tEttanava sarvasvavanu
+tEttiga
+tEttiga
+tEttiga
+tEttiga
+tEttiga
+tEttiga
+tEttiga
+tEttigara
+tEttigaru
+tEttidavu
+tEttisidanu
+tEttisidEnu
+tEttisu
+tEttisu
+tEttisu
+tEttisu
+tEttisu
+tEttisu
+tEttiha
+tEttiisa
+tEttiisukoTi
+tEttuda
+tEttudu
+tEttudu (tattudu)
+tEnE
+tEbbu
+tErapu
+tErahaaytu
+tErahu
+tErahu
+tErahu
+tErahu
+tErahuguDada
+tErahugODu
+tErahugODu
+tEraLikE
+tEraLikE
+tEraLikEya maaDidanu
+tEraLichu
+tEraLichu
+tEraLuvanE
+tErisu
+tEru
+tErEdErasu
+tErEvErE
+tEllaTi
+tEvarisu
+tEvaru
+tEvaru
+tEvaru
+tEvaru
+tEvaruva
+tELuvasiru
+tELuvasura
 tenkaaDu
 tekaaDu
 teki
@@ -5072,55 +5072,55 @@ teraysu
 terugaLu
 teraisu
 tailalepanada
-toMDinolekaaratana
-toMDugeDu
-toTTane
-toTTaLike
-toDakaayitu
-toDaki
-toDaku
-toDaku
-toDaku
-toDaku
-toDagi
-toDagu
-toDachi
-toDachi
-toDachu
-toDachu
-toDachu
-toDachu
-toDabe
-toDabe
-toDabe
-toDara
-toDarankaNi
-toDaru
-toDaru
-toDaru
-toDaru
-toDarugaTTuva
-toDahu
-toDige
-toDe
-toDevenu
-toDehada
-tottaLa tuLi
-tottaLaduLi
-tottiru
-todal
-tone
-toraLe
-tolagugu
-toLagi
-toLagibeLaguva
-toLatoLaguva
-toLali
-toLali
-toLalidu
-toLalu
-toLaluva
-toLasu
+tONDinolEkaaratana
+tONDugeDu
+tOTTanE
+tOTTaLikE
+tODakaayitu
+tODaki
+tODaku
+tODaku
+tODaku
+tODaku
+tODagi
+tODagu
+tODachi
+tODachi
+tODachu
+tODachu
+tODachu
+tODachu
+tODabE
+tODabE
+tODabE
+tODara
+tODarankaNi
+tODaru
+tODaru
+tODaru
+tODaru
+tODarugaTTuva
+tODahu
+tODigE
+tODE
+tODEvEnu
+tODEhada
+tOttaLa tuLi
+tOttaLaduLi
+tOttiru
+tOdal
+tOnE
+tOraLE
+tOlagugu
+tOLagi
+tOLagibELaguva
+tOLatOLaguva
+tOLali
+tOLali
+tOLalidu
+tOLalu
+tOLaluva
+tOLasu
 toku
 toku
 tochu
@@ -5142,116 +5142,116 @@ tohu
 tohu
 tohu
 tohu
-toLatiiTe
-toLadante mattu toLadantaha apaara hasivannuLLavanu ಎndu artha) aapanita
-toLabandi
+toLatiiTE
+toLadaMtE mattu toLadaMtaha apaara hasivannuLLavanu EMdu artha) aapanita
+toLabaMdi
 toLuguttu
 trasara
 trikaTuka
 trigarta
-tridazaru
+tridasharu
 trailokya vijayigaLu
 tvaritadali
 tvaritadalli
-thaTTaNe
-thaTTaNe
-thaTTaNe
-thaTTaNe
-thaTTaNe
+thaTTaNE
+thaTTaNE
+thaTTaNE
+thaTTaNE
+thaTTaNE
 thaTTayisittu
-thaTTige keDedavu
+thaTTigE kEDEdavu
 thaTTina
 thaTTu
 thaTTugaLa samuuha
 thaTTugi
 thaTTugi
 thaTTugidu
-thaTTugeDahu
-thaTTugeDahu
-thaTTugeDe
-thaTTugeDe
-thaTTugeDedanu
-thaTToDedu
+thaTTugEDahu
+thaTTugEDahu
+thaTTugEDE
+thaTTugEDE
+thaTTugEDEdanu
+thaTTODEdu
 tharathara
-tharadadinda
+tharadadiMda
 thaLathaLisu
-daMDa dhaaranagelidu
-daMDadhara
-daMDanaada
-daMDavalage
-daMDahiina
-daMDi
-daMDi
-daMDi
-daMDi
-daMDigaara
-daMDige
-daMDige
-daMDiyachararu
-daMDisu
-daMDe
-daMDe
-daMDe
-daMDe
-daMDe
-daMDe
-daMDe
-dantadaMzita
-dantanipiiDitaadhara
-dantapankti
-danti
-dantighaTe
-dantighaTe
-dantivraata
-danduga
-dandugabaDu
-dampativakki
-daMzaka
-daMSTraantara
+daNDa dhaaranagElidu
+daNDadhara
+daNDanaada
+daNDavalagE
+daNDahiina
+daNDi
+daNDi
+daNDi
+daNDi
+daNDigaara
+daNDigE
+daNDigE
+daNDiyachararu
+daNDisu
+daNDE
+daNDE
+daNDE
+daNDE
+daNDE
+daNDE
+daNDE
+daMtadaMshita
+daMtanipiiDitaadhara
+daMtapankti
+daMti
+daMtighaTE
+daMtighaTE
+daMtivraata
+daMduga
+daMdugabaDu
+daMpativakki
+daMshaka
+daMShTraaMtara
 dakkaDa
 dakkaDatana
 dakkaDaru
-dakSiNa
-dakSiNakara
-dakSiNaakSi
+daxiNa
+daxiNakara
+daxiNaaxi
 daTTayisu
 daDi
 daDiga
 daDiya kaiyava
-daDivale
+daDivalE
 daÀDDi
 daDDi
-daNavaTTe
+daNavaTTE
 daNidu
 daNiba
 daNisu
 danujaraaya
 danujaripu
-danujaantaka
+danujaaMtaka
 danujaaLi (danuja+aLi)
-dayaambudhi
+dayaaMbudhi
 darachiiTi
 daradhura
 darahasita
 dari
 daridraranu
-daruzana
+darushana
 darpa
 darpa
 darpakaahita
 darpadanuvu
-darbhaankura zayana
+darbhaankura shayana
 darbhaastaraNa
-darbhe
+darbhE
 darvi
 darviikara
 dallaNa
 davadaaha
 davaagni
-dazaka
-dazanaamaavaLi
-dazanaavaLi
-dazazira
+dashaka
+dashanaamaavaLi
+dashanaavaLi
+dashashira
 dahana
 daLa
 daLa
@@ -5260,7 +5260,7 @@ daLa
 daLaduLa
 daLaduLakaara
 daLanaayakaru
-daLavannu naaza maaDuvavanu daavaanala
+daLavannu naasha maaDuvavanu daavaanala
 daLavaay
 daLavuLa
 daLavuLa
@@ -5273,8 +5273,8 @@ daLLisuta
 daLLuri
 daLLuri
 daLLuri
-daanti
-daakSiNya
+daaMti
+daaxiNya
 daaDima
 daataara
 daataara (dbha)
@@ -5297,7 +5297,7 @@ daayabhaaga
 daayabhaaga
 daayabhaaga
 daayabhaagigaLu
-daayaadi viSaya
+daayaadi viShaya
 daayiga
 daayiga
 daayiga
@@ -5308,49 +5308,49 @@ daava
 daavaNi
 daavaagni
 daasoha
-diMDu
-diMDugeDahu
-diMDugeDe
-diMDugeDedavu
-diMDugeDedaLu
-diMDudari
-diMDudari
-diMDuruLisidaru
+diNDu
+diNDugEDahu
+diNDugEDE
+diNDugEDEdavu
+diNDugEDEdaLu
+diNDudari
+diNDudari
+diNDuruLisidaru
 dikkari
 dikkari
 dikkari
 dikkari
-digangane
-digangane
-diganta
+diganganE
+diganganE
+digaMta
 digibha
 digibha
 digujaata
 digujaala
 diguvaLaya
 digbaliyikki
-dig‍vaLaya
+digvaLaya
 diTTa
-diTTe
+diTTE
 dinapa
-dinezavaara
+dineshavaara
 diva
-divadaasegaararu
+divadaasEgaararu
 divasa sthiti
 divijadaLa
 divijapatiyopaadi
-divijara gaNikeyaru
+divijara gaNikEyaru
 divijara raaya
 divijaraayana tanaya
-divijazrii
+divijashrii
 divijaanganaa kaamukara maaDi
 divya
 divya
-dizaamaatanga
-dizaavara
-dizaavaLi
-diikSaa krama
-diikSita
+dishaamaatanga
+dishaavara
+dishaavaLi
+diixaa krama
+diixita
 diina
 diipana chuurNa
 diipta
@@ -5372,7 +5372,7 @@ dugdhaabdi
 dummaana
 dummaana
 dummaana
-durantara
+duraMtara
 duraagraha
 duraagraha
 duraatmaka
@@ -5382,8 +5382,8 @@ duraahava
 durita
 durita bhaajanaraagi
 duritabhaajana
-durudumbi
-durudumbitana
+duruduMbi
+duruduMbitana
 duruduripa
 duruduripa
 duruduripa
@@ -5396,10 +5396,10 @@ durgaviidhi
 durjanaru
 durjaya
 durdhara
-durdharuSa
+durdharuSha
 durniitikaararu
-durbodhe
-durbhikSa
+durbodhE
+durbhixa
 durmatigaLu
 durmeLa
 durvidagdha
@@ -5424,11 +5424,11 @@ duvvaaLisu
 duvvaaLisu
 duvvaaLisu
 duvvaaLisu
-duzcheSTe
-duSkiirti
-duSkaøta
-duSkaøti
-duSpuurva
+dushcheShTE
+duShkiirti
+duShkaøta
+duShkaøti
+duShpuurva
 dustaraNa
 dussanga
 dussaha
@@ -5442,8 +5442,8 @@ duuru
 duuru
 duuru
 duurvaa
-duurve
-duuSaka
+duurvE
+duuShaka
 duusaka
 duusara
 duuhatti
@@ -5451,41 +5451,41 @@ duuhatti
 dRgu yugaLa
 dRguyugaLa
 dRguvihiina
-dRDhate
-dRSTa
-dRSTannaSTa
-dRSTivaaLa
-dekhkhaadekhkhi
-dekhkhaaLa
-dekhkhaaLa
-dekhkhaaLa
-dekhkhaaLa
-dekhkhaaLa
-dekhkhaaLa
-dekhkhaaLa
-dekhkhaaLisidudu
-dese
-dese
-desedesege
+dRDhatE
+dRShTa
+dRShTannaShTa
+dRShTivaaLa
+dEkhkhaadEkhkhi
+dEkhkhaaLa
+dEkhkhaaLa
+dEkhkhaaLa
+dEkhkhaaLa
+dEkhkhaaLa
+dEkhkhaaLa
+dEkhkhaaLa
+dEkhkhaaLisidudu
+dEsE
+dEsE
+dEsEdEsEgE
 deguvaru
-devakii nandananu
+devakii naMdananu
 devadatta
-devadundubhirava
+devaduMdubhirava
 devanaamada joDu
 devaprakara
 devaru
-devasantati
+devasaMtati
 devaaLi
-dezakaati
-dezavraata
-deziga
-deziga
-dezigaru
+deshakaati
+deshavraata
+deshiga
+deshiga
+deshigaru
 desi
 desigaru
 desigaru
 desiyalli
-dehaantara
+dehaaMtara
 dehi
 dehi
 daityara
@@ -5493,39 +5493,39 @@ daityara prasara
 daityaripu
 daityaari
 dainya
-dainyambaDavudu
+dainyaMbaDavudu
 dainyadali
-daiva hoDe
+daiva hODE
 daivakRta
 daivakRti
-daivajJaru
+daivaGYaru
 daivayoga
 daivavihiinaru
-daivaabhipaakake
+daivaabhipaakakE
 daivaabhiyoga
 daivaayata
-daivikazarahati
-doMDe
-doThaara
-doThaara
-doThaara
-doThaara
-doThaararu
-doThaarisi
-doThaarisi
-doThaarisu
-dodde
-dodde
-dodde
-dodde
-doddegara
-doddegaru
-dorakoLadu
-doreya
-doLLu
-doSa
-doSa
-doSarahita
+daivikasharahati
+dONDE
+dOThaara
+dOThaara
+dOThaara
+dOThaara
+dOThaararu
+dOThaarisi
+dOThaarisi
+dOThaarisu
+dOddE
+dOddE
+dOddE
+dOddE
+dOddEgara
+dOddEgaru
+dOrakOLadu
+dOrEya
+dOLLu
+doSha
+doSha
+doSharahita
 daurjanyavalli
 dyuuta
 dyuutakeLi
@@ -5534,9 +5534,9 @@ dravyaadigaLu
 draavaka
 draavaka
 drupadakumaari
-drupadanandana
+drupadanaMdana
 drupadanasuunu
-drupadaatmaje
+drupadaatmajE
 druma
 droNa
 droNa (kolu
@@ -5544,15 +5544,15 @@ droNi
 dvaarapaalaka
 dviguNa
 dvijapati
-dviSate
+dviShatE
 dvaita
 dvaita
 dvaipaayana
 dvaipaayana
 dhakkaDa
 dhagadhagisu
-dhage uMTu maaDu (mase
-dhaTTaNe
+dhagE uNTu maaDu (masE
+dhaTTaNE
 dhaTTu
 dhananjaya
 dhananjaya
@@ -5561,14 +5561,14 @@ dhanapati
 dhanurdharaagraNi
 dhanurveda
 dhanuva maataaDisu
-dhanuzruti
-dhanuSTankaara
+dhanushruti
+dhanuShTankaara
 dhanya
 dhanya
 dhanyaru
 dhaya
 dharaNi
-dharaNi aanalaapude
+dharaNi aanalaapudE
 dharaNipati
 dharaNipaala
 dharaNiipaalavarga
@@ -5580,42 +5580,42 @@ dharadhura
 dharadhura
 dharadhurada
 dharadhurada
-dharaangane
+dharaanganE
 dharitri
 dharitriipaala
 dharitriipaaLa
 dharisu
-dharmakSame
+dharmaxamE
 dharmagati
 dharmadruma
 dharmavikRti
 dharmavilaasa
 dharmavistara
 dharmasthaLa
-dharmaikarakSakaru
+dharmaikaraxakaru
 dhava¼chChchatra
 dhaatu
 dhaatu
 dhaatu
 dhaatu
-dhaatugundu
-dhaatugundu
+dhaatuguMdu
+dhaatuguMdu
 dhaaraasaara
 dhaariDuva
 dhaarisu
 dhaaruNiya devavraata
 dhaaruNiisura
-dhaare
-dhaare
-dhaareya
+dhaarE
+dhaarE
+dhaarEya
 dhaaLaadhuuLi
 dhaaLi
-dhaaLiyenalu
-dhimmane
+dhaaLiyEnalu
+dhimmanE
 dhiru
 dhiira
 dhiivara
-dhiivazi
+dhiivashi
 dhiivasi
 dhura
 dhura
@@ -5625,40 +5625,40 @@ dhura
 dhura torahattaru
 dhurachamatkaøti
 dhurada
-dhurada geluvu
+dhurada gEluvu
 dhurada jayasiri
 dhurapadha
 dhurabhara
-dhurabharake
-dhuravizaarada
+dhurabharakE
+dhuravishaarada
 dhuuta
 dhuuta
 dhuupisu
-dhuuma daruzana
+dhuuma darushana
 dhuumadhvajana
 dhuurjaTi
 dhuusara
-dhuuLi kuDidudu bemaranaa
-dhuuLigoTe
+dhuuLi kuDidudu bEmaranaa
+dhuuLigoTE
 dhuuLiipaTaladhuusara
 dhRti
-dhRtigeDedante
+dhRtigEDEdaMtE
 dhenu
 dhauta
 dhruva
 dhvaja
-dhvajada halage
+dhvajada halagE
 nanju
-nandana
-nandana
-nandana
-nandisu
-nambisuvudu
+naMdana
+naMdana
+naMdana
+naMdisu
+naMbisuvudu
 nakula
 nakhadiidhiti
 nakhanikara
 nakhaaLi
-nageya suridai
+nagEya suridai
 nachchi
 nachchida
 naTTaDavi
@@ -5669,32 +5669,32 @@ naDapaaDu
 naDavaLi
 naDu
 naDu daariyali
-naDunele
+naDunElE
 naDuvaayi
-naDe
-naDegoTe
-naDetandanolavinali
-naDeda pariyanu
-naDedu
-naDevaLi
+naDE
+naDEgoTE
+naDEtaMdanOlavinali
+naDEda pariyanu
+naDEdu
+naDEvaLi
 nada
-nadiyanandana
-nane
-nanekone
-nanekonevogu
-naneda
-nanedu
-nanedudu
-naneyambu
+nadiyanaMdana
+nanE
+nanEkOnE
+nanEkOnEvogu
+nanEda
+nanEdu
+nanEdudu
+nanEyaMbu
 napuMsaka
 namita
 nammali nirmisalu
-nammoLuverasi
+nammOLuvErasi
 naya
 naya
 naya
 naya
-nayanaambu
+nayanaaMbu
 nayanaagni
 nayanuDi
 nayanodaka
@@ -5711,31 +5711,31 @@ narana
 naranamaga
 naranikaaya
 naramRga
-naravina toDaku
+naravina tODaku
 narahuLugaLu
 narukida
-nare
-nareta
-navakhaMDaayamaana
+narE
+narEta
+navakhaNDaayamaana
 navamadhebha
 navarudhira
-navazaantakumbha
-navazaatakumbha
+navashaaMtakuMbha
+navashaatakuMbha
 navaayi
 navaayi
 navaayikaararu
 navaayiyali
 naviru
 naviina
-nave
-navedaru
-nazya
+navE
+navEdaru
+nashya
 nasi
 nasi
 nasida
 nasidavaru
 nasidu
-nasusoppaadudu
+nasusOppaadudu
 naLitoLgaLu
 naLidanu
 naLina vairi
@@ -5746,7 +5746,7 @@ naLinamukhi
 naLinamukhi
 naLinaabha
 naa saavira
-naandiimukha
+naaMdiimukha
 naakanilaya
 naakaniLaya
 naakaniLayaru
@@ -5757,7 +5757,7 @@ naagaayata
 naagaayuta
 naagaayutada bala
 naagaari
-naaTya vyaakaraNa paMDita
+naaTya vyaakaraNa paNDita
 naaDagaavaLi
 naaDagaavaLi
 naaDanaayi
@@ -5765,12 +5765,12 @@ naaDaaDi
 naaDi
 naadu
 naadu
-naaduvenu
+naaduvEnu
 naanaavidha
 naapita
 naabhidaghnadali
-naamada niruge
-naaya hesariTTu
+naamada nirugE
+naaya hEsariTTu
 naayaka mihirasuta
 naayakavanu
 naayakitti
@@ -5779,22 +5779,22 @@ naaraka
 naaraachisu
 naari
 naari
-naalageyuDuge
-naavegaLali
+naalagEyuDugE
+naavEgaLali
 naasaachCheda
 naasaapuTa
 naaLa
-naaLike
-naaLiyambu
+naaLikE
+naaLiyaMbu
 naaLivillu
-nindirikeyali
-nindisarale
+niMdirikEyali
+niMdisarale
 nikara
 nikaaya
 nikaaya
 nikaara
 nikaari < nikhaari
-nikSepa
+nixepa
 nikhiLa
 nikhiLa
 nigama
@@ -5808,7 +5808,7 @@ niguru
 niguru
 niguruva
 niggama
-niggavadoLu
+niggavadOLu
 niggu
 nichaya
 nichita
@@ -5817,29 +5817,29 @@ nichchaTa
 nichchaTa
 nichchaTada
 nichchaTaru
-nichChaNike
+nichChaNikE
 nijamaarga
 nijaratha
-nijava berasuva vigaDa
+nijava bErasuva vigaDa
 nijavanu
-nijaagraje
+nijaagrajE
 nijaapaghana
 nijjoDu
 niTilanayana
 niTilanetra
 niTTaasu
 niTTuvari
-niTTelu
-niTTesaLu
-niTTesuLu
-niTTorasu
+niTTElu
+niTTEsaLu
+niTTEsuLu
+niTTOrasu
 niTToTa
-niDukeza
+niDukesha
 niDutoLu
-niDunidre
-niDunidregaisi
+niDunidrE
+niDunidrEgaisi
 niDupachchaLa
-niDuvakkarike
+niDuvakkarikE
 niDuvariya
 niDusara
 nidaagha
@@ -5851,8 +5851,8 @@ nidraa vyasana
 nidraakuLaru
 nidraamada
 nidraamaana
-nidraamudritekSaNaru
-vaarijabhavaaMDa
+nidraamudritexaNaru
+vaarijabhavaaNDa
 nidhaana
 nidhaana
 nidhaana
@@ -5860,13 +5860,13 @@ nidhaana
 nidhaana
 nidhaana
 nidhaanisu
-nidhaanise
+nidhaanisE
 nidhidhyaasana
-ninage ahaL alla
-ninage baandhavaru
+ninagE ahaL alla
+ninagE baaMdhavaru
 ninna beranu kittu
-ninnavandigaru
-ninnavandigaru
+ninnavaMdigaru
+ninnavaMdigaru
 nippasara
 nippasara
 nippasara
@@ -5885,7 +5885,7 @@ nibhRta
 nimitta
 nimitta
 nimiru
-nimma somminavaru
+nimma sOmminavaru
 nimmaDi
 nimmaDi
 nimmaDi
@@ -5897,12 +5897,12 @@ niyuddha
 niyoga
 niyogi
 niranjanatatva
-nirantara
-nirantaraaya
-nirantaraayadali
-nirantaraayadali
-niratizaya
-niratizaya
+niraMtara
+niraMtaraaya
+niraMtaraayadali
+niraMtaraayadali
+niratishaya
+niratishaya
 nirarthaka
 nirarthakaru
 niraakula
@@ -5911,9 +5911,9 @@ niri
 niri karuLu
 nirigaruLu
 niriguruLu
-nirige
-nirige
-niridale
+nirigE
+nirigE
+niridalE
 niriniTilu
 niriyaNa
 niruta
@@ -5933,9 +5933,9 @@ nirgata
 nirgata
 nirguNa
 nirghaata
-nirghoSa
-nirghoSa
-nirghoSa
+nirghoSha
+nirghoSha
+nirghoSha
 nirjara
 nirjara
 nirjara < nirjhara
@@ -5955,10 +5955,10 @@ nirdaaya
 nirdaaya
 nirdaaya
 nirdaayadalli
-nirdoSa nirNaya
-nidrvandva
-nidrvandvaka
-nirdhanapuruSaru
+nirdoSha nirNaya
+nidrvaMdva
+nidrvaMdvaka
+nirdhanapuruSharu
 nirdhuughaatadharmasthiti
 nirdhuuta
 nirbhara
@@ -5967,8 +5967,8 @@ nirbhinna
 nirmathita
 nirmathita
 nirmada
-nirmamate
-nirmalaantaHkaraNa
+nirmamatE
+nirmalaaMtaHkaraNa
 nirmaLa
 nirmaLaru
 nirmaalya
@@ -5976,7 +5976,7 @@ nirmisu
 nirmisu
 nirmukta
 nirmoka
-nirvaMzavene
+nirvaMshavEnE
 nirvahisu
 nirvaaNa
 nirvaapaNaikasamartha
@@ -5986,7 +5986,7 @@ nirvRta
 nirveda
 nivryaaja
 nivryaapita
-nilaambara
+nilaaMbara
 nilu
 niluki
 niluku
@@ -5994,8 +5994,8 @@ niluku
 niluku
 niluku
 niluvu
-nivage
-nivage
+nivagE
+nivagE
 nivaDisu
 nivaha
 nivahakaararu
@@ -6004,39 +6004,39 @@ nivaata
 nivaaraNa
 nivaaLi
 nivedisu
-nizaaTa vyaakaraNa paaMDitya
-nizaaTana
-nizaata
-nizita
-nizita
-nizita
-nizitadhaare
-nizitaastra
-nizchaya
-nizchaya
-nizyanke
-nizzanka
-nizzeSa
-nizzeSa
-niSadhaachalavaniLidudu
-niSevitaru
-niSkalita
-niSkaLa
-niSkaLita
-niSkaama
-niSkaøti
-niSkaøti
-niSTratyuuha
-niSThiivanaavirbhuuta
-niSThura
-niSThura
-niSThura
-niSprakampana
-niSpratyuuha
-niSpratyuuha
-niSpratyuuha
-niSprapancha
-niSyuuta chaitanya
+nishaaTa vyaakaraNa paaNDitya
+nishaaTana
+nishaata
+nishita
+nishita
+nishita
+nishitadhaarE
+nishitaastra
+nishchaya
+nishchaya
+nishyankE
+nishshanka
+nishsheSha
+nishsheSha
+niShadhaachalavaniLidudu
+niShevitaru
+niShkalita
+niShkaLa
+niShkaLita
+niShkaama
+niShkaøti
+niShkaøti
+niShTratyuuha
+niShThiivanaavirbhuuta
+niShThura
+niShThura
+niShThura
+niShprakaMpana
+niShpratyuuha
+niShpratyuuha
+niShpratyuuha
+niShprapancha
+niShyuuta chaitanya
 niskhalita
 niskhalita
 nispaøha
@@ -6068,30 +6068,30 @@ nihaara
 niLayavedi
 niigaaDi
 niigi
-niigikaLe
+niigikaLE
 niigu
 niiDugaara
-niitijJa
+niitiGYa
 niitiviDida
 niitiskhalita
 niinaaLvi
-niinechcha
-niinobbatappisi
-niinolida vadhuge
+niinEchcha
+niinObbatappisi
+niinOlida vadhugE
 niira
 niiraDisu
 niiraDisu
 niiratana
 niiraagigaLu
-niirugaMTu
-niiroreva
-niirdegeye
+niirugaNTu
+niirOrEva
+niirdEgEyE
 niila
-niilakaMTha
+niilakaNTha
 niilagiri
 niilagiri
 niilalohita
-niilaambara
+niilaaMbara
 niilaaLaki
 niilaaLaki
 beha
@@ -6105,18 +6105,18 @@ nuggu
 nuggu
 nuggu
 nuggu nusi
-nuggunuggaagade ?
+nuggunuggaagadE ?
 nuggunusi
-nuDige
-nuDige ಎDe kuDade
+nuDigE
+nuDigE EDE kuDadE
 nuDigeDuga
 nuDidavadhi
-nuDiyalamme
+nuDiyalammE
 nuta
 nuta
 nutaguNa
 nusigaLu
-nusuLugaMDi
+nusuLugaNDi
 nuukadu
 nuukadu
 nuukidaru
@@ -6126,171 +6126,171 @@ nuuku
 nuuku
 nuuku
 nuuku
-nuunavakSa
+nuunavaxa
 nuupura
-nuurondu kula
-nuulaharige
+nuurOMdu kula
+nuulaharigE
 nuulu
 nRkesari
 nRtya
-nRtyatkabandha
+nRtyatkabaMdha
 nRpajana
 nRpajanavarya
 nRpanaariyaru
 nRpaniLaya
 nRpapada kamala
-nRpamaMDaLi
+nRpamaNDaLi
 nRpamaaniniyaru
 nRpavadhuujana
-nRpavaniteyaru
+nRpavanitEyaru
 nRpahaara
-negahi
-negahidanu
-negahidavu
-negahu
-negaLidaru
-negaLidaru
-negaLu
-negaLu
-negaLu
-negaLuva
-negaLdudu
-neggi
-neggida
-neggida
-neggu
-neggu
-neggu
-neggu
-neggottu
-neggottu
-neNa
-neNa
-neNagobbu
-neNananu
-neNapase
-neNavase
-neNavase
-nettaraguDihi
-nettarugaaNada
-nettaruguuLu
-nettiya mele kaLevanu
-nenahu
-nene
-nene
-neneda
-nemmitu
-nemmu
-neyda neygegaLu
-neravaNige
-neravaNige
-neravaNige
-neravaNige
-neravaNige
-neravaNige
-neravi
-neravi
-neravi
-neravidoLasu
-neravu
-neravu
-nerahida
-nerahu
-nerahu
-nerahu
-neruvaNige
-nere
-nere
-nere
-nere
-nere balidu
-nereda
-nereda indhanadali
-nereda neravi
-neredaralliya nRparu
-neredu
-neredu
-neredu
-neredudu
-neredudu
-nereyadu
-nereyadu
-nerevaNige
-nelada beTa
-neladaavaNi
-nelana tiNNana tidduva
-nelanakoTTanu
-nelanadire
-nelanalobhiya buddhi
-nelamoLagidante
-nele
-nele
-nelekaTTu
-nelegaaballi
-nelegoLisu
-nelegoLe
-nelemane
-neleya maaDide
-neleyupparige
+nEgahi
+nEgahidanu
+nEgahidavu
+nEgahu
+nEgaLidaru
+nEgaLidaru
+nEgaLu
+nEgaLu
+nEgaLu
+nEgaLuva
+nEgaLdudu
+nEggi
+nEggida
+nEggida
+nEggu
+nEggu
+nEggu
+nEggu
+nEggOttu
+nEggOttu
+nENa
+nENa
+nENagObbu
+nENananu
+nENapasE
+nENavasE
+nENavasE
+nEttaraguDihi
+nEttarugaaNada
+nEttaruguuLu
+nEttiya melE kaLEvanu
+nEnahu
+nEnE
+nEnE
+nEnEda
+nEmmitu
+nEmmu
+nEyda nEygEgaLu
+nEravaNigE
+nEravaNigE
+nEravaNigE
+nEravaNigE
+nEravaNigE
+nEravaNigE
+nEravi
+nEravi
+nEravi
+nEravidOLasu
+nEravu
+nEravu
+nErahida
+nErahu
+nErahu
+nErahu
+nEruvaNigE
+nErE
+nErE
+nErE
+nErE
+nErE balidu
+nErEda
+nErEda iMdhanadali
+nErEda nEravi
+nErEdaralliya nRparu
+nErEdu
+nErEdu
+nErEdu
+nErEdudu
+nErEdudu
+nErEyadu
+nErEyadu
+nErEvaNigE
+nElada beTa
+nEladaavaNi
+nElana tiNNana tidduva
+nElanakOTTanu
+nElanadirE
+nElanalobhiya buddhi
+nElamOLagidaMtE
+nElE
+nElE
+nElEkaTTu
+nElEgaaballi
+nElEgOLisu
+nElEgOLE
+nElEmanE
+nElEya maaDidE
+nElEyupparigE
 neN
 neNu
 netraavaLi
 nema
 nema
-nemadali negaLu
+nemadali nEgaLu
 nemisida
 nemisu
 nemisu
 nemisu
 nevura
 nevura
-noppita
-noppita
-noppitu
-noraju
-noraju
-noraju
-noraju
-noraju
-nosala
-nosalanoDDu
-nosalinali kaNNuLLa devanu
-nosalinoL
-nosalu
-nontaro
-nontaLo
+nOppita
+nOppita
+nOppitu
+nOraju
+nOraju
+nOraju
+nOraju
+nOraju
+nOsala
+nOsalanODDu
+nOsalinali kaNNuLLa devanu
+nOsalinOL
+nOsalu
+noMtarO
+noMtaLO
 noTa
 noTakaru
 noDiko
 notudu
 nonu
-noLpaDe
+noLpaDE
 panka
 pankila
 panguLa
 panchaka
 panchaka
-panchate
+panchatE
 panchadraupadeyaru
 panchadraupadeyaru
 panchadhaaraa prauDha vaajigaLu
-panchaputrike
+panchaputrikE
 panju
-paMTisu
-panti
-pantha
-pantha
-pantha
-pantha
-panthada jaaNa
+paNTisu
+paMti
+paMtha
+paMtha
+paMtha
+paMtha
+paMthada jaaNa
 pakka
-pakkale
-pakkale
-pakSa
-pakSapaata
-pakSabhrame
-pakSaantara
-pakSaavezi
+pakkalE
+pakkalE
+paxa
+paxapaata
+paxabhramE
+paxaaMtara
+paxaaveshi
 pachaarisu
 paTaha
 paTaha
@@ -6301,11 +6301,11 @@ paTubhaTaru
 paTTa
 paTTa
 paTTakarmada
-paTTake
-paTTe
-paTTeya
-paTTeya
-paTTeya
+paTTakE
+paTTE
+paTTEya
+paTTEya
+paTTEya
 paDa
 paDapu
 paDapu
@@ -6315,16 +6315,16 @@ paDi
 paDiga
 paDiga
 paDiga
-paDighaTTaNe
+paDighaTTaNE
 paDitaLa
 paDitaLa
 paDitaLisi
 paDitaLisu
 paDitaLisu
 paDitaaLa
-paDitoDe
+paDitODE
 paDidharaNi
-paDinela
+paDinEla
 paDipuchcha
 paDibala
 paDibala
@@ -6336,28 +6336,28 @@ paDimukha
 paDimukha
 paDisaNa
 paDisaNa
-paDisuuryamaMDala
+paDisuuryamaNDala
 paDisuuLu
 paDihaara
 paDihaara (pratiihaari)
-paDihaarike
+paDihaarikE
 paDuvaNavaru
 paDuvalu
-paDegaDalu
-paDevaLaru
+paDEgaDalu
+paDEvaLaru
 paNa
 paNa
 paNa
 paNada
 paNaha
-paNyaangane
+paNyaanganE
 paNyaajiivi
 patatraavaLi
-pataakaadaMDa
+pataakaadaNDa
 pataakaabhanga
 pataakaavaLi
-patikaraNe
-patikaraNe
+patikaraNE
+patikaraNE
 patikarisi
 patikarisi
 patikarisi
@@ -6376,10 +6376,10 @@ patti
 patra
 patra
 pathya
-pada ghaTTaNege
+pada ghaTTaNEgE
 padaka
-padaghaTTane
-padathaTTaNe
+padaghaTTanE
+padathaTTaNE
 padada
 padapavanaja
 padayuga
@@ -6403,26 +6403,26 @@ payagati
 payapaaDu
 payapaaDu
 payapaaDu
-payasanne
+payasannE
 payodhara
 payodhi
-payobindu
+payobiMdu
 para
 paranjyoti
-parakebaahira
+parakEbaahira
 paragati
 paraghaayavanu
 paratattva
 paratatva
-paratatvajJa
+paratatvaGYa
 parabala
-parabalaantaka
+parabalaaMtaka
 parama
 parama pada
-paramaMDala
-paramaMDala
-paramaMDaLika
-paramaMDaLikaru
+paramaNDala
+paramaNDala
+paramaNDaLika
+paramaNDaLikaru
 paramajiivavidu
 paramatatva
 paramadharma
@@ -6432,20 +6432,20 @@ paramarma
 paramahaMsa
 paramaaNupunja
 paramaartha
-parameSThi
+parameShThi
 paravitta
-parazu
-parazu
-parazvadha
-parasene
+parashu
+parashu
+parashvadha
+parasenE
 parasevaa laghusthitaru
 parasvaruupa
 parahastadali
 paraa
 paraakrama taLitudu
 paraaga
-paraajaya roSa paavaka visphulingita
-paraananda
+paraajaya roSha paavaka visphulingita
+paraanaMda
 paraartha
 paraartha
 paraartha
@@ -6455,7 +6455,7 @@ parikara
 parikara
 parikara
 parikara
-parikaraNe
+parikaraNE
 parikalita
 parikrama
 parikhinnaru
@@ -6477,18 +6477,18 @@ parijana
 pariNata
 pariNata
 pariNataru
-pariNate
-pariNate
+pariNatE
+pariNatE
 pariNamisu
 pariNaama
-paritoSa
-paritoSadali
+paritoSha
+paritoShadali
 paritraayasva
 paridaLita
 paridaLita
 paridhaana
 paridhaavana
-paridhaavane
+paridhaavanE
 paridhauta
 paripakva
 paripari
@@ -6496,30 +6496,30 @@ paripaaThi
 paripuuta
 paribaddha
 paribhava
-paribhavaNe
+paribhavaNE
 paribhavamaya
 paribhaavisu
-parimaMDalita
+parimaNDalita
 parimaLa
 parimaLava kaddu oDuva
-parimaLava kombandadale
+parimaLava kOMbaMdadalE
 parimita
 parimita
-parimitake
+parimitakE
 parimitada jana
 pariyanka
 pariyanka
-pariyanta
-pariyantave
+pariyaMta
+pariyaMtavE
 pariyaTaNa
 pariyaTaNa
 pariyasta
-parirambha
+pariraMbha
 parirachita
 pariluLita
 pariluLita
 pariluuna
-parivartane
+parivartanE
 parivaada
 parivaada
 parivaara
@@ -6528,26 +6528,26 @@ pariviDiya
 parivRta
 parivRta
 parivRtaru
-pariveSa
-pariveSa
-pariveSTisu
-pariziSTaru
-parizeSa
-parizrama
+pariveSha
+pariveSha
+pariveShTisu
+parishiShTaru
+parisheSha
+parishrama
 parisaMskaara
 parisara
 pariharisu
 pariharisu
 parihaasa
-parihRtazrama
-pariiklezaanu santaapa
-pariikSita tanaya
+parihRtashrama
+pariikleshaanu saMtaapa
+pariixita tanaya
 paruTavisu
 paruThava
 paruThava
 paruThava
-paruThavaNe
-paruThavaNe
+paruThavaNE
+paruThavaNE
 paruThavisi
 paruThavisidaru
 paruThavisu
@@ -6556,17 +6556,17 @@ paruThavisu
 paruThavisu
 paruThavisu
 paruThavisu
-paruSa
-paruSa
-paruSamaNii
+paruSha
+paruSha
+paruShamaNii
 pareta
 pareta kRtya
-parokSa
-parokSa
+paroxa
+paroxa
 parNa
-parNada chaukige
+parNada chaukigE
 palaayana
-palaayanapaMDita
+palaayanapaNDita
 pallaTa
 pallaTisidanu
 pallaTisu
@@ -6577,7 +6577,7 @@ pallava
 pallava
 pallava
 pallava
-pallavike
+pallavikE
 pallaisu
 pavaDisida
 pavaNa
@@ -6588,13 +6588,13 @@ pavamaanasuta
 pavaaDa
 pavaaDiga
 pavitra
-pazugeDahi
-pazujaala
-pazupaalaka puLindaru
-pazubandhura
-pazuvraja
-pazchimajaladhi
-pazchimaanga
+pashugEDahi
+pashujaala
+pashupaalaka puLiMdaru
+pashubaMdhura
+pashuvraja
+pashchimajaladhi
+pashchimaanga
 pasara
 pasara
 pasarisu
@@ -6616,16 +6616,16 @@ paLi
 paLiya
 paLiya paTTi
 paLLi
-paanchaalasute
+paanchaalasutE
 paanchaali
-paanchaale
-paaMDava jiiva
-paaMDavamamapraaNaahi
-paaMDavaatmajaru
-paaMDu
+paanchaalE
+paaNDava jiiva
+paaNDavamamapraaNaahi
+paaNDavaatmajaru
+paaNDu
 paaka
-paakazaasana
-paakazeSa
+paakashaasana
+paakasheSha
 paagaara
 paaTachchara
 paaThaka
@@ -6634,15 +6634,15 @@ paaDarida
 paaDaLidu
 paaDi
 paaDu
-paaDaÀu
-paaDe
+paaDaÀು
+paaDE
 paaNi
 paaNigrahaNa
 paatakaru
 paataaLi
 paativratya
 paadapa
-paadaambuja
+paadaaMbuja
 paadaati
 paadya
 paapakarmavikaara
@@ -6655,47 +6655,47 @@ paayiku
 paaydaLa
 paara
 paara
-paarampare
+paaraMparE
 paaraga
 paaralaukika
-paaravazya
+paaravashya
 paaraavaara
-paaraazaravrati
-paaraazaraatmaja
-paaraazarivratipa
-paarikaankSi
+paaraasharavrati
+paaraasharaatmaja
+paaraasharivratipa
+paarikaanxi
 paariya
 paariva
 paariva
-paarizeSaka
-paarukhaaNeÉ
+paarisheShaka
+paarukhaaNEÉ
 paarthaja
 paarthiya
 paarthiva
 paarthivaru
 paarvaru
 paalaka
-paalisadaDe
+paalisadaDE
 paalisu
 paavakaastra
 paavamaani
 paavuDa
 paavuDa
-paaza
-paaza
-paaSaaNa
+paasha
+paasha
+paaShaaNa
 paaLaya
 paaLaya
 paaLaya
 paaLayavu
 paaLi
 paaLisu
-paaLeya
+paaLEya
 pinga
 pingaLa
 pingaLa
-piMDivaaLa
-piMDivaaLa
+piNDivaaLa
+piNDivaaLa
 pika
 pitaamaha
 pitaamaha
@@ -6704,56 +6704,56 @@ pitRdina
 pinaakadhara
 pinaaki
 pinaaki
-pipiilike
+pipiilikE
 pippala
 pisaNu
-piiLige
+piiLigE
 punkha
 punkhaanupunkha
 pungava
-puMDariika
-puTanege
+puNDariika
+puTanEgE
 puNyada haani
 puNyapravara
 puNyaaha
 putra kaamyaadhvara
 putrakaamya
-pudumane
+pudumanE
 punnaaga
 pura
-purandhri
+puraMdhri
 purajana
 purajanaavaLi
-puraantara
+puraaMtara
 puraari
-puruSaartha
+puruShaartha
 puruhuuta
-puroDaaza
+puroDaasha
 purohita
 purvottarada
-pullige
-puSkalaavarta
-puSpavati
+pulligE
+puShkalaavarta
+puShpavati
 pusi
-puLakaambu
-puLakaazru puuradali
-puLakite
-puLinda
-puLindi
+puLakaaMbu
+puLakaashru puuradali
+puLakitE
+puLiMda
+puLiMdi
 puuga
 puuga
 puutani
 puutaninikara
-puutanivRnda
+puutanivRMda
 puutu
 puutu
 puutu
 puutu
 puutu
 puutu paayaku
-puutu majhure
-puuture
-puuture majhare
+puutu majhurE
+puuturE
+puuture majharE
 puura
 puurada
 puuravisu
@@ -6765,7 +6765,7 @@ puuraaya
 puurNakaama
 puurva pRthviipaalaru
 puurvajanmopachita
-puurvapuruSa
+puurvapuruSha
 puurvayugadavaru
 puurvaru
 puurvavedi
@@ -6775,10 +6775,10 @@ puurvaasana
 puurvottara
 puusu
 pRthuLa
-pRthe
-peMDeya
-peMDeya
-peraru
+pRthE
+pENDEya
+pENDEya
+pEraru
 pechaka
 pechaka
 pechaka
@@ -6797,42 +6797,42 @@ paisarisu
 paisarisu
 paisarisu
 paisarisu
-poDavi
-poDavi
-poDavipati
-ponna
-poravaara
-poreya
+pODavi
+pODavi
+pODavipati
+pOnna
+pOravaara
+pOrEya
 pota
-paurandara
+pauraMdara
 paurajana
 pauraaNajanma
 paurohitya
 prakaTa
 prakara
-prachaMDa
+prachaNDa
 prachaya
 prachaya
-prajJaayataakSa
+praGYaayataaxa
 prajvalisu
 praNata
 praNava
 praNava
 pratikuula
 pratigraha
-pratijJaasthaapane
-pratijJe maaDisu hoLLisu
+pratiGYaasthaapanE
+pratiGYE maaDisu hOLLisu
 pratipanna
 pratipanna
 pratipanna
 pratipanna
-pratipannate
+pratipannatE
 pratibhaTa
 pratibhaTa
 pratimaana
 pratiruupa
-prativindyakananu appaLisi
-pratiSThita
+prativiMdyakananu appaLisi
+pratiShThita
 prathita
 prapancha
 prapanchita
@@ -6851,16 +6851,16 @@ prastaava
 praLaya paTu
 praLaapa
 praLaapa
-praantya
+praaMtya
 praakRta
-praajJaru
-praayopaveza
+praaGYaru
+praayopavesha
 praarabdha karmaphala
 praavaraNa
 priya
 priiti masuLitu
 pretaangaLa
-proddaama
+prOddaama
 prauDha
 prauDha
 prauDhi
@@ -6870,62 +6870,62 @@ phaDa
 phaDa
 phaNaa
 phaNi
-phaNi bandhana
+phaNi baMdhana
 phaNivadana
 phala
 phalabhoga
 phalita
-phalisali bandhuvadhe
-phuuture
+phalisali baMdhuvadhE
+phuuturE
 phuutkaøti
 phenonnati
-banje
-banjenuDi
-banjevaatu
-baMDina rahaNi
-baMDisi
-bandi
-bandi
-bandi
-bandige
-banduge
-bandha
-bandha
-bandhada
-bandhikaara
-bandhisu
-bandhu
-bandhukRtya
-bandhukRtya
-bandhura
-bandhura
-bandhura
-bandhura
-bandhuvraata
-bandhuhanana
-bambal karuLa
-bambalu
-bambalu karuLu
-bakaviDambana
+banjE
+banjEnuDi
+banjEvaatu
+baNDina rahaNi
+baNDisi
+baMdi
+baMdi
+baMdi
+baMdigE
+baMdugE
+baMdha
+baMdha
+baMdhada
+baMdhikaara
+baMdhisu
+baMdhu
+baMdhukRtya
+baMdhukRtya
+baMdhura
+baMdhura
+baMdhura
+baMdhura
+baMdhuvraata
+baMdhuhanana
+baMbal karuLa
+baMbalu
+baMbalu karuLu
+bakaviDaMbana
 bakavairi
 bakaari
 bakuLa
-bakkuDiya beLamba
-bagarageÉ
+bakkuDiya beLaMba
+bagaragEÉ
 bagidu
-bagegoL
-bagedoDe
+bagEgOL
+bagEdODE
 bachchata
-bachchatagoLLu
+bachchatagOLLu
 bachchisu
-baTTeya
+baTTEya
 baDagalavaradu
 baDagalu
 badagi
 baDagu
 baDabavahni
 baDava
-baDi tuSTisu
+baDi tuShTisu
 baDihori
 baDihori
 baDihori
@@ -6934,38 +6934,38 @@ baNagu
 baNagu
 baNagu
 baNagu
-baNabe
+baNabE
 baNNisu
 baNNisu
-battaLike
-badaraavaLii mandira
+battaLikE
+badaraavaLii maMdira
 badi
 baddara
 baddara
 baddara
-baddarada baMDi
-baddugedaara
+baddarada baNDi
+baddugEdaara
 baddha vighaati
 baddhara
 badhira
 badhiratva
 banada raajakumaara
-bannaNeya maatu
-bayala viDamba
-bayalaDombu
-bayalaaDambara
+bannaNEya maatu
+bayala viDaMba
+bayalaDOMbu
+bayalaaDaMbara
 bayalaaytu
-bayalina aaDambara
+bayalina aaDaMbara
 bayalu
 bayalu
 bayalu
 bayalu
-bayasike
+bayasikE
 bayasu
 barata
 baratudu
 barabara
-barava koTTa
+barava kOTTa
 baravi
 baravu
 baraha
@@ -6975,22 +6975,22 @@ barikai
 barikaidu
 barikaidu
 baride
-baridore
+baridOrE
 barisu
-baredanu
-barebare
-bareharigaaLega
+barEdanu
+barEbarE
+barEharigaaLEga
 barhimukha
 barhirmukharu
 balana
 balavanka
-balavandu
+balavaMdu
 balavana
 balavaru
-balavenderagi
-balavoraje
+balavEMdEragi
+balavOrajE
 balahu
-balahoraLi
+balahOraLi
 balaari chaapa
 bali
 balida
@@ -7000,7 +7000,7 @@ balidu
 balidu
 balidudu
 balidudu
-balidusuraÀu
+balidusuraÀು
 balimathana
 baliyire
 balivudu
@@ -7008,7 +7008,7 @@ balisu
 balukaNi
 balugaDiya
 balugaDiya
-balugattale
+balugattalE
 balugiDi
 baluguLa
 balugai
@@ -7017,24 +7017,24 @@ balugai
 balugolu
 balujava
 balubhujaru
-balume
+balumE
 baluvaasi
 baluhaadanai
 baluhu
 baluhu
 baluhu
 baluhu
-baluhore
-ballandadali
-ballane
+baluhOrE
+ballaMdadali
+ballanE
 ballaha
 ballaaLadaDDi
 ballida
 ballidaru
 ballidaru
 ballu
-balleha
-bavaNe
+ballEha
+bavaNE
 bavara
 bavara
 bavari
@@ -7054,29 +7054,29 @@ basiru
 basiva
 basiva
 basuruchchu
-base
-base
+basE
+basE
 aarta
-bahaLaakSohiNiibhaTara
+bahaLaaxohiNiibhaTara
 bahaLaagni
 bahaLotsedha
-bahukaantaakadambaka
-bahubhanga anvayake
+bahukaaMtaakadaMbaka
+bahubhanga anvayakE
 bahumaana
 bahumukha
 bahuruupu
-bahuLate
-bahenu
-baLake
-baLake
-baLakeya horeya hesaru
+bahuLatE
+bahEnu
+baLakE
+baLakE
+baLakEya hOrEya hEsaru
 baLachu
 baLachu
 baLachu
 baLalu
-baLalugachChe
-baLaluDige
-baLavige
+baLalugachChE
+baLaluDigE
+baLavigE
 baLasi
 baLasi
 baLasinali
@@ -7087,26 +7087,26 @@ baLasu
 baLaaka
 baLi
 baLi
-baLikinoLu
+baLikinOLu
 baLidu
 baLiyanaTTu
 baLiyahattu
 baLiviDi
-baLisandu
-baLisanduvu
+baLisaMdu
+baLisaMduvu
 baLuvaLi
 baLLa
 baachisidu
-baajisu sanne
+baajisu sannE
 baaDisu
-baaNa pathikarige
+baaNa pathikarigE
 baaNatraya
 baaNadhaaraatiirtha
 baaNava tuugu
 baaNavraata
-baaNazayana
+baaNashayana
 baaNasa
-baaNasavidye
+baaNasavidyE
 baaNasi
 baaNasiga
 baaNasu
@@ -7116,24 +7116,24 @@ baaNotkara
 baaNaugha
 baadaNa
 baadaNa
-baadaNagoreda
+baadaNagOrEda
 baadhaka
 baadhisu
-baayatambula
+baayataMbula
 baayigeLu
-baayidhaare
-baayeNike
-baay‍hoy
+baayidhaarE
+baayENikE
+baayhOy
 baarangi
 baaraduu hattigaLa
-baarasankale
+baarasankalE
 baaruguttu
 baala himakara kiraNa
 baalakeLii
-baalabhaaSege
-baalazazimauLi
+baalabhaaShEgE
+baalashashimauLi
 baavuli
-baaSkaLa geDe
+baaShkaLa gEDE
 baasaNisu
 baasara
 baasara
@@ -7148,27 +7148,27 @@ baahira
 baahira
 baahira magadha
 baahumuula
-baahurake
-baahurake
-baahuspuraNazakti
-baahe
-baahe
+baahurakE
+baahurakE
+baahuspuraNashakti
+baahE
+baahE
 binka
 binka
 binka
 binka
 binka biiyadu
-bindu
-bindu
-bimpu
-bimbaadhara
+biMdu
+biMdu
+biMpu
+biMbaadhara
 bikku
 bigi
 bigida
 bigida
 bigida
 bigidu
-bigiye
+bigiyE
 biguDu
 biguvu sahita
 biguhaDagi
@@ -7180,29 +7180,29 @@ bichchugangaLu
 bijayangai
 bijayangaiy
 bijayamaaDuvudu
-biTTamaMDe
+biTTamaNDE
 biTTaru
 biTTudu
 biTTeru
 biDayadali
 biDavaridu
 biDuguritanava
-biDutale
+biDutalE
 biDumiduLa
 biDumuDi
 biDuvaniya
-biDe
-biDenoDi
-biDeya
-biDeya
-biDeya
-biDeya
-biDeya
-biDeyaridu
+biDE
+biDEnoDi
+biDEya
+biDEya
+biDEya
+biDEya
+biDEya
+biDEyaridu
 bittarisu
 bittarisu
 bitti
-bidiridelugaLu
+bidiridElugaLu
 bidiru
 bidiru
 bidu
@@ -7235,7 +7235,7 @@ biridu
 birimuguLa
 birukolu
 birugolu
-biruda kedaru
+biruda kEdaru
 birudankaru
 birudara
 birudara
@@ -7249,9 +7249,9 @@ birubimminali
 birubu
 birubu
 biruvari
-biruvoyla
+biruvOyla
 bilu
-bilu seLeye kaidugaLu kaiyiM chalisalu
+bilu sELEyE kaidugaLu kaiyiM chalisalu
 biludiru
 biludiruvu
 biluduDuki
@@ -7267,7 +7267,7 @@ bisusuyyutta
 bisusuylu
 biikalina
 biigu
-biijamantra
+biijamaMtra
 biiDaaDi
 biiDaara
 biiDiP
@@ -7291,7 +7291,7 @@ biidivari
 biidivari
 biidivari
 biidivarivariva
-biidivisaTambariva
+biidivisaTaMbariva
 biiya
 biiya
 biiya
@@ -7301,20 +7301,20 @@ biiyu
 biiridanu
 biisara
 biisara
-biisugoLLi
-biisuvale
+biisugOLLi
+biisuvalE
 biiLakuttuvudu
-biiLageDahisi
+biiLagEDahisi
 biiLalu
-biiLukoL
-biiLuDeÉ
-biiLkoMDu
-biiLkoMDudu
-biiLkoDisu
+biiLukOL
+biiLuDEÉ
+biiLkONDu
+biiLkONDudu
+biiLkODisu
 biiLvanna bara
 budubuda
 budubudisi
-buddhi kalisuvenu
+buddhi kalisuvEnu
 budbuda
 budhajana
 budharu
@@ -7322,94 +7322,94 @@ buutaaTa
 buutu
 buutu
 buutugaLu
-buutugeDevanoLu
+buutugEDEvanOLu
 buutubala
 buuri
-bRhantakana
-bengoDali
-bengoDu
-beMDu
-beMDeLu
-beMDeLe
-benduda bedaki noyisabeDa
-bendoDala
-bendoDala horuviri
-bembattaLike
-bembattu
-bembaLi
-bembaLi
-bembaLiyali
-bembaLiviDi
-bembiDu
-begaDu
-begaDu
-begaDu
-begaDu
-begaDugoLisu
-bechchante
-bechchavaLu
-bechchavu
-bechchide
-bechchu
-beTTitu
-beTTitu
-beTTitu
-beTTidanu
-beDagu
-bedaki
-bedaru
-benaka
-bennali
-bennaleva
-bebbaLe
-bebbaLe
-beragu
-beragu
-beragu
-beragu balidudu
-beragubali
-beratu
-berasidudu
-berasu
-berasu
-beraLa muuginalli
-beraLugaLa baayali
-bere
-belemaaDu
-besakai
-besakaiva
-besakaiva
-besagaidapavidaarige
-besagaidu
-besagoMDa
-besagoLLi
-besada
-besalaagali
-besalu
-besasu
-besuge
-beLagu
-beLavige
-beLavige
-beLugavate
-beLugavite
-beLunage
-beLesiri
-beLLaaLa habbuge
-begaDe
-begaDe
-begaDe
-begaDe
+bRhaMtakana
+bEngODali
+bEngODu
+bENDu
+bENDeLu
+bENDeLE
+bEMduda bEdaki noyisabeDa
+bEMdODala
+bEMdODala hOruviri
+bEMbattaLikE
+bEMbattu
+bEMbaLi
+bEMbaLi
+bEMbaLiyali
+bEMbaLiviDi
+bEMbiDu
+bEgaDu
+bEgaDu
+bEgaDu
+bEgaDu
+bEgaDugOLisu
+bEchchaMtE
+bEchchavaLu
+bEchchavu
+bEchchidE
+bEchchu
+bETTitu
+bETTitu
+bETTitu
+bETTidanu
+bEDagu
+bEdaki
+bEdaru
+bEnaka
+bEnnali
+bEnnalEva
+bEbbaLE
+bEbbaLE
+bEragu
+bEragu
+bEragu
+bEragu balidudu
+bEragubali
+bEratu
+bErasidudu
+bErasu
+bErasu
+bEraLa muuginalli
+bEraLugaLa baayali
+bErE
+bElEmaaDu
+bEsakai
+bEsakaiva
+bEsakaiva
+bEsagaidapavidaarigE
+bEsagaidu
+bEsagONDa
+bEsagOLLi
+bEsada
+bEsalaagali
+bEsalu
+bEsasu
+bEsugE
+bELagu
+bELavigE
+bELavigE
+bELugavatE
+bELugavitE
+bELunagE
+bELEsiri
+bELLaaLa habbugE
+begaDE
+begaDE
+begaDE
+begaDE
 begudi
 begudi
-bege
-bege
-bege
+begE
+begE
+begE
 beTa
-beTegaarara baLagavuLLavanahe
+beTEgaarara baLagavuLLavanahE
 bervari beru+pari
-besarade
-besarina begeyali
+besaradE
+besarina begEyali
 besaru
 beha
 beha
@@ -7424,51 +7424,51 @@ behinavaru
 behu
 behu
 behugaararu
-beLamba
-beLamba
+beLaMba
+beLaMba
 beLaagu
 beLida
 beLidudu
 beLu
 beLu
 beLuvanu
-beLuve
-beLuve
-beLuve
-beLuve
+beLuvE
+beLuvE
+beLuvE
+beLuvE
 baichiDu
-baisike
-baisike
-baisigedege
-bombaaLa diipa
-bombaaLa diivige
-bombaaLa diivige
-bombuLi
-boggu
-boggu
-boDDi
-boDDi
-boppanabhaava
-bobbaLike
-bobbaaTa
-bobbuli
-bobbuLike
-bommachariya
-bommana sati
+baisikE
+baisikE
+baisigEdEgE
+bOMbaaLa diipa
+bOMbaaLa diivigE
+bOMbaaLa diivigE
+bOMbuLi
+bOggu
+bOggu
+bODDi
+bODDi
+bOppanabhaava
+bObbaLikE
+bObbaaTa
+bObbuli
+bObbuLikE
+bOmmachariya
+bOmmana sati
 bodhisida
 boLa
 boLayisi
 boLayisidanu
 boLavisu
-boLe
-boLeyambu
-boLeyambu
-boLeyambugaLu
+boLE
+boLEyaMbu
+boLEyaMbu
+boLEyaMbugaLu
 boLaisi
 boLaisu
 boLaisu
 boLaisu
-brahmaaMDamaMDala
+brahmaaNDamaNDala
 braahma
 braahmaNya
 bhanga
@@ -7480,19 +7480,19 @@ bhangi
 bhangita
 bhangisu
 bhanjana
-bhanjavaNe
-bhanjike
-bhaMDaarisitu
-bhakSisida
+bhanjavaNE
+bhanjikE
+bhaNDaarisitu
+bhaxisida
 bhagaNaratna
 bhagadattaanka
-bhagnotkaruSa haruSita
-bhaNite
+bhagnotkaruSha haruShita
+bhaNitE
 bhadra
 bhadra
 bhadragaja
-bhadraduppara zaale
-bhadramaMTapa
+bhadraduppara shaalE
+bhadramaNTapa
 bhadraakaara
 bhadraasana
 bhadraastaraNa
@@ -7520,14 +7520,14 @@ bhava
 bhava
 bhavajaladhi
 bhavaNi
-bhavaNige
-bhavaNige
+bhavaNigE
+bhavaNigE
 bhavat
 bhavanabhakti
-bhavanike
-bhavavindhya
-bhavasindhu
-bhavaantara
+bhavanikE
+bhavaviMdhya
+bhavasiMdhu
+bhavaaMtara
 bhaagadeya
 bhaagadeya
 bhaagadheya
@@ -7549,23 +7549,23 @@ bhaaranka
 bhaaranka
 bhaaranka
 bhaarankadaaLu
-bhaaraNe
-bhaaraNe
-bhaaraNe
-bhaaraNe
-bhaaraNe
-bhaaraNe
-bhaaraNe
-bhaaraNe
-bhaaraNe biguhu
+bhaaraNE
+bhaaraNE
+bhaaraNE
+bhaaraNE
+bhaaraNE
+bhaaraNE
+bhaaraNE
+bhaaraNE
+bhaaraNE biguhu
 bhaarata
-bhaarada horige
+bhaarada hOrigE
 bhaaradali
 bhaaradvaaja
-bhaaravaNe
-bhaaravaNe
-bhaaravaNe
-bhaaravaNe
+bhaaravaNE
+bhaaravaNE
+bhaaravaNE
+bhaaravaNE
 bhaaraanka
 bhaaraankaNa
 bhaaraankalavuDi
@@ -7580,26 +7580,26 @@ bhaava
 bhaava
 bhaava
 bhaava
-bhaavajJa
-bhaavazuddhi
+bhaavaGYa
+bhaavashuddhi
 bhaavita
 bhaavisu
 bhaavotsava
-bhaaSaacharaNa
-bhaaSe
-bhaaSe (koTTare)
-bhaaSe atibaLaru
-bhaaSegaLuparu
-bhaaSeya baLige
+bhaaShaacharaNa
+bhaaShE
+bhaaShE (kOTTare)
+bhaaShE atibaLaru
+bhaaShEgaLuparu
+bhaaShEya baLigE
 bhaasura
 bhaaLa
 bhaaLadakkara
 bhaaLanetra
 bhaaLanetra
 bhaaLabhuutiya
-bhaaLaakSa
-bhiMDivaaLa
-bhiDe
+bhaaLaaxa
+bhiNDivaaLa
+bhiDE
 bhittiya chitra
 bhinna
 bhinna
@@ -7609,24 +7609,24 @@ bhiita
 bhiitaakuLa
 bhiiti
 bhiiti biitudu
-bhiibhatse
+bhiibhatsE
 bhiima sannibharu
 bhiimatanu
 bhiimana janaka
 bhiimavikrama
-bhiiSaNa
+bhiiShaNa
 bhukta
 bhugil
-bhugil ಎnnu
-bhugilennu
+bhugil Ennu
+bhugilEnnu
 bhujanga prasaradali
 bhujaga
-bhujagezvara
+bhujageshvara
 bhujabalanu
-bhullaNe
-bhullaNeya
+bhullaNE
+bhullaNEya
 bhullayisu
-bhullavaNe
+bhullavaNE
 bhullavisu
 bhullavisu
 bhullaisi
@@ -7643,7 +7643,7 @@ bhuukaamini
 bhuujanajaala
 bhuujaraaji
 bhuuta
-bhuuta kadamba
+bhuuta kadaMba
 bhuutagaLa samuuha
 bhuutanaatha
 bhuutabhaavana
@@ -7657,11 +7657,11 @@ bhuupaalakaru
 bhuubhaara
 bhuubhaarabhanjaka
 bhuubhujara
-bhuumaMDalaadhipa
+bhuumaNDalaadhipa
 bhuumaana
 bhuumipati
-bhuumilamba
-bhuuyantra
+bhuumilaMba
+bhuuyaMtra
 bhuuri
 bhuuri
 bhuuri
@@ -7675,7 +7675,7 @@ bhuusuraagraNi
 bhRgusuta
 bhRtya
 bheka
-bhedagoLada
+bhedagOLada
 bhedisidaru
 bhaitra
 bhoktavya
@@ -7684,56 +7684,56 @@ bhogavatii
 bhogisu
 bhoja
 bhojya
-bhorane
+bhoranE
 bhauma
 bhauma
 bhramaNa
 bhramaNa
 bhramita
-bhrame
+bhramE
 bhrukaTi
 bhrukuTi
-bhruulate
-bhruulate
+bhruulatE
+bhruulatE
 mangaLa paaThakara
-manjiDike
-maMDalisi
-maMDavige
-maMDavige
-maMDavige
-maMDaLika
-maMDaLika
-maMDaLika
-maMDaLika
-maMDaLika manneyaru
-maMDaLisi
-maMDaLisi
-maMDaLisi
-maMDaLisida
-maMDaLisidudu
-maMDaLisu
-maMDisu
-maMDisu
-mantra
-mantra
-mantrada satyave
-mantrava
-mantravillada
-mantravuLLavanu
-mantrazakti
-mantraastra
-mantraastra
-mantri
-manda
-mandabhaagya
-mandivaaLa
-mandivaaLave
-mandegeLasida
+manjiDikE
+maNDalisi
+maNDavigE
+maNDavigE
+maNDavigE
+maNDaLika
+maNDaLika
+maNDaLika
+maNDaLika
+maNDaLika mannEyaru
+maNDaLisi
+maNDaLisi
+maNDaLisi
+maNDaLisida
+maNDaLisidudu
+maNDaLisu
+maNDisu
+maNDisu
+maMtra
+maMtra
+maMtrada satyave
+maMtrava
+maMtravillada
+maMtravuLLavanu
+maMtrashakti
+maMtraastra
+maMtraastra
+maMtri
+maMda
+maMdabhaagya
+maMdivaaLa
+maMdivaaLavE
+maMdEgELasida
 makara
-makaranda
-makaranda
-makarandha
-makarakuMDala
+makaraMda
+makaraMda
+makaraMdha
+makarakuNDala
 makaratoraNa
 makaradhvaja
 makaravyuuha
@@ -7744,27 +7744,27 @@ makuTa
 makuTa
 makuTavardhanaru
 makuTaagra
-makkaLaaTike
+makkaLaaTikE
 makhadhvaMsi
-makhasamudbave
-magadhana toDaki
+makhasamudbavE
+magadhana tODaki
 maguvutana
 maguLadiru
 maguLichu
-maguLeragidanu
+maguLEragidanu
 maggitu
 maggidaru
 maggidaru
 maggidaru
 maggu
 maggulu
-maggulu mahige biddudu
+maggulu mahigE biddudu
 machcha
 majaDa
 majaDa
 majha
 maDa
-maDamba
+maDaMba
 maDamuri
 maDamuri
 maDamuridu
@@ -7774,43 +7774,43 @@ maDahi
 maDi
 maDigaalu
 maDivarga
-maDiveraLu
-maDaÀuvu
+maDivEraLu
+maDaÀುvu
 maDuhidaatana
-maDaÀuhu
+maDaÀುhu
 maDDu
 maDDu
 maNi
 maNi
-maNi mauLimaMDita
+maNi mauLimaNDita
 maNikevaNada
-maNikhachita rachanegaLa
+maNikhachita rachanEgaLa
 maNigaNa
 maNidu
 maNimukuTa
 maNiyada
 maNiruchi
-maNiveLagu
+maNivELagu
 maNisu
 mata
 mata
 mata
 mataguDa
 mati
-matimuridare
+matimuridarE
 matiya bhrama
-matiya habbugeyinda
+matiya habbugEyiMda
 mativikaLa
 mativikaLatana
 mativikaLaru
-mattakaazini
-mattakaazini
-mattagajaghaTe
-mattadanti
+mattakaashini
+mattakaashini
+mattagajaghaTE
+mattadaMti
 mattavaaraNa
 mattavaaraNa
 mattavaaraNa
-mattu aidu kaalaaLugaLinda kuuDida ಒndu sainyada tukaDi
+mattu aidu kaalaaLugaLiMda kuuDida OMdu sainyada tukaDi
 matsara
 matsara
 matsara
@@ -7819,27 +7819,27 @@ matsya
 matsyana suunu (matsyana
 matsyaadhipa
 matsyaadhipati
-matsyeza
+matsyesha
 mada
 mada
-madantaHkaraNa
+madaMtaHkaraNa
 madakari
 madagaja
 madagichchinuriyali
 madada nigurina
-madadaane
-madadhaare
-madananambu
+madadaanE
+madadhaarE
+madananaMbu
 madanahara
 madanaari
 madanaarta
-madanaalase
+madanaalasE
 madamukha
 madamukha
 madamukharu
-madavaLige
+madavaLigE
 madavaaraNa
-madavoguva
+madavOguva
 madavyaakula
 madiraa
 maddu
@@ -7847,7 +7847,7 @@ madyapa
 madhu
 madhu
 madhu suudanu
-madhukarane balludu
+madhukaranE balludu
 madhupa
 madhuparka
 madhuparka
@@ -7859,76 +7859,76 @@ madhura vachana
 madhurokti
 madhuuka
 madhyasthitaru
-manaHkSobhe
+manaHxobhE
 manakata
 manakata
 manakalitana
 manakaahu
-manake munchuva
-managelava
+manakE munchuva
+managElava
 manabaraDa
 manabaraDaru
 manamuri
 manamurida
-manamechchu
-manavaare
+manamEchchu
+manavaarE
 manavegaayla
-manasandu
-manivachanazara
-manuje
+manasaMdu
+manivachanashara
+manujE
 manumathana
-mane) jangaLa
-manevaarate
+manE) jangaLa
+manEvaaratE
 manojavigraha
 manoratha
 manohara
-mannaNe
-mannisikoMDu
+mannaNE
+mannisikONDu
 mannisida
 mannisu
-manneya
-manneya
-manneya
-manneya kulada
-manneya gaMDa
-manneya ginneya
-manneyaru
-manneyaru
-mamate
+mannEya
+mannEya
+mannEya
+mannEya kulada
+mannEya gaNDa
+mannEya ginnEya
+mannEyaru
+mannEyaru
+mamatE
 mammala marugu
 maya
 mayaNaama
 mayuukhaaLi
-maragattale
+maragattalE
 maragoDu
-marave
-marave
-marave garigaTTitu
+maravE
+maravE
+maravE garigaTTitu
 marahu
 marahu
 maraLichu
 maraLichu
 maraLidu
 maraLidu
-maraLidu biDuvaDe
+maraLidu biDuvaDE
 maraLu
-maraLudale
-maraLudale
-maraaThiyinda bandaddu. kRpaNamati
+maraLudalE
+maraLudalE
+maraaThiyiMda baMdaddu. kRpaNamati
 maraaLa
 maricha
-marijinke
-mariyaane
+marijinkE
+mariyaanE
 mariichi
 marugu
 marugu
 marugu
 marugu
 maruchu
-marudale
-marumone
-marumone
-maruvalage
+marudalE
+marumOnE
+marumOnE
+maruvalagE
 maruLa
 maruLaagadiri
 maruLaaDu
@@ -7941,43 +7941,43 @@ maruLu
 maruLu
 maruLutana
 maruLutana
-mare
-mare
-maregoMDa
-maregoMDu
-maregoraLugoykanu
-maredu
-mareyirigaara
-mareyisi
-marehogu
+marE
+marE
+marEgONDa
+marEgONDu
+marEgOraLugOykanu
+marEdu
+marEyirigaara
+marEyisi
+marEhOgu
 matryaru
 mardini
 marmi
-maryaade
+maryaadE
 malaka
 malagisu
 malagisu
 malagu
 malayaja
-male
-maleta
-maleta
-maleta
-maleta
-maletaDe
-maletavanu
-maletavara
-maletu
-maletu
-maletu kaadida
-maletudo
-maleva
-malevavara gaMDanu
+malE
+malEta
+malEta
+malEta
+malEta
+malEtaDE
+malEtavanu
+malEtavara
+malEtu
+malEtu
+malEtu kaadida
+malEtudO
+malEva
+malEvavara gaNDanu
 malla
 masaka
 masaka
 masaka
-masakakke
+masakakkE
 masakadali
 masagada
 masagi
@@ -7990,8 +7990,8 @@ masagu
 masagu
 masagu
 masagu
-masage
-masage
+masagE
+masagE
 masaLisu
 masaLu
 masuLa
@@ -7999,29 +7999,29 @@ masuLisu
 masuLisu
 masuLu
 masuLda
-mase
-mase
-mase
-mase
-mase
-mase
-masegaMDanu
-masegaaN
-masegaaNisu
-masedaru
-masediha
-masedudu
-masedoru
+masE
+masE
+masE
+masE
+masE
+masE
+masEgaNDanu
+masEgaaN
+masEgaaNisu
+masEdaru
+masEdiha
+masEdudu
+masEdoru
 mastaka
 mahadapavaada
 mahanavami
 mahaLa
 mahaa aahava
-mahaambudhi
-mahaambudhi
+mahaaMbudhi
+mahaaMbudhi
 mahaakratu
 mahaatma
-mahaamahiizvararu
+mahaamahiishvararu
 mahaayatada
 mahaaghrya
 mahaarNava
@@ -8030,24 +8030,24 @@ mahaasati
 mahi
 mahi
 mahimaa
-mahiSadvaya
+mahiShadvaya
 mahiijana
 mahiitaLa
 mahiitaLaadhipa
 mahiipaala
 mahiipaalaka
-mahiizara
-mahendravara dig baalaki
+mahiishara
+maheMdravara dig baalaki
 mahodadhi
 mahoraga
-maLave
+maLavE
 maangalika
 maangalya majjana
-maantrika
-maakanda
-maakanda
+maaMtrika
+maakaMda
+maakaMda
 maagadha
-maagadhane
+maagadhanE
 maaTa
 maaN
 maaNadu
@@ -8059,9 +8059,9 @@ maaNisu
 maaNisu
 maaNu
 maatinalaggidanu
-hoLLu vaatu
-maatRkaakSara
-maatRke
+hOLLu vaatu
+maatRkaaxara
+maatRkE
 maadu
 maadu
 maadu
@@ -8077,7 +8077,7 @@ maanini
 maanini
 maaniniyaru
 maanisaru
-maanuSe
+maanuShE
 maanya
 maanya
 maanyavRtti
@@ -8086,20 +8086,20 @@ maayagaati
 maayada manujaru
 maayaru
 maayaatimira
-maayaapaazabaddharu
-maayaarachane
+maayaapaashabaddharu
+maayaarachanE
 maayaavi
 maayaavi
 maayaasiddha
-maaye
+maayE
 maaranka
 maaranka
 maaraNaadhvara
 maaraNaadhvara
 maaraanka
-maaraanta
-maaraanta
-maaraantu
+maaraaMta
+maaraaMta
+maaraaMtu
 maaraata
 maaraanu
 maari
@@ -8110,25 +8110,25 @@ maaruti
 maaruti
 maaruddi
 maaruddu
-maaroDDu
-maaroledudu
+maarODDu
+maarOlEdudu
 maarko¯
 maargaNa
 maargaNa
-maargaNe
+maargaNE
 maartirupu
 maarbala
 maavuta
 maasaaLu
-maahiSika
+maahiShika
 maaLavada
-maaLigege
+maaLigEgE
 minchu
 minchu buLu
 minchubuLu
 minchubuLu
-miMTe
-mige
+miNTE
+migE
 miDi
 miDidu
 miDiva
@@ -8138,8 +8138,8 @@ miDukalu
 miDuku
 miDuku
 miDuku
-miNNane
-miNNane
+miNNanE
+miNNanE
 mittu
 mittuvahare
 mithya
@@ -8149,60 +8149,60 @@ mirumirupa
 misuku
 misuni
 misupa
-misupamoLe
+misupamOLE
 misuva
-mihirabimba
+mihirabiMba
 mihirasuta
 mihirasuta
 miLi
 miLi
 miiTaada
-miiTaadarige kaTTida toDaru
+miiTaadarigE kaTTida tODaru
 miiTu
 miinbuga
 miiri
 munkuDi
 munkuDi
 munkuDiya
-munkoMDu
-munkoMDu
-munkoMDu
-munkoMDu
-munkoMDu
-munkoMDu
-munkoLisi
-munkoLisikoLLade
-munkoLisu
-munkoLisu
+munkONDu
+munkONDu
+munkONDu
+munkONDu
+munkONDu
+munkONDu
+munkOLisi
+munkOLisikOLLadE
+munkOLisu
+munkOLisu
 mungalitana
-mungaaLega
+mungaaLEga
 munguDi
 munguDi
 munguDi
 munguDiya
-mungeDe
+mungEDE
 munchitu
 munchu
 munchu
 munchu
-munjeragu
-munjeragu
-munjeragu
-munjeragu
-muMDa
-muMDaaDidaru
-muMDaaDu
-muMDaaDu
-muMDaasana
-muMDaasana
-mundariyade
-mundarenele
-mundugaaNade
-mundugeDu
-mumbani
-mumbaarekaara
-mumbiga
-mumbigaru
+munjEragu
+munjEragu
+munjEragu
+munjEragu
+muNDa
+muNDaaDidaru
+muNDaaDu
+muNDaaDu
+muNDaasana
+muNDaasana
+muMdariyadE
+muMdarEnElE
+muMdugaaNadE
+muMdugEDu
+muMbani
+muMbaarEkaara
+muMbiga
+muMbigaru
 muMmaari
 mukuTa
 mukuTa
@@ -8215,27 +8215,27 @@ mukkuriki
 mukkurikida
 mukkuriku
 mukkuriku
-mukkurike
-mukkurike
-mukkurike
+mukkurikE
+mukkurikE
+mukkurikE
 mukkuruki
 mukkuruku
 mukkuLi
 mukkuLisi
 mukkuLisu
-mukta kezi
-muktaa prabhe
+mukta keshi
+muktaa prabhE
 muktaaphala
 muktaavaLi
 mukha
 mukha
 mukha pankaruhavana
-mukhagoDu
+mukhagODu
 mukhara
 muguda
-muguLambu
-muguLunage
-hoDegeDe
+muguLaMbu
+muguLunagE
+hODEgEDE
 muggidavu
 muggu
 muggu
@@ -8246,10 +8246,10 @@ muggu
 muggu
 muchchidanu
 muTTade
-muTTige
+muTTigE
 muTTu
 muDi
-muDige
+muDigE
 muDiyaraLu
 muDuhu
 muttaya
@@ -8261,24 +8261,24 @@ mudgara
 mudrisu
 muni
 munidu
-munibhaaSita
-muniyenu
+munibhaaShita
+muniyEnu
 munna
 munna
 munnoTavikkitu
 muppina muguda
 mummaLiyodudu
 mummaaru
-mummaaru hogu<mummaa¾uvogu
+mummaaru hogu<mummaa¾ುvOgu
 mummaaruvogu
-mummuLigoMDu
+mummuLigONDu
 mummuLita
 mummuLita
 mummuLita vaaytu
-mummone
-mummoneya
+mummOnE
+mummOnEya
 muyimuTTu
-muyyaantu
+muyyaaMtu
 muyyaanu
 muyyi
 muyvunu aanuvudu
@@ -8287,7 +8287,7 @@ muramathananu
 muravu
 muravairi
 muravairi
-muraantaka
+muraaMtaka
 muraari
 muri
 muri
@@ -8299,10 +8299,10 @@ muri
 muri
 muri
 muri muridu
-murikoLisi
+murikOLisi
 murida
 murida
-muridandadali
+muridaMdadali
 muridanu
 muridanu
 muridaru
@@ -8310,37 +8310,37 @@ muridiri
 muridudu
 muridubaha
 muriduvu
-muridevu
+muridEvu
 muridoDu
-muriye
-muriyechchu
-muriyeseta
+muriyE
+muriyEchchu
+muriyEsEta
 murivaDi
-murivaDe
-murivaDe
-murivaDe
+murivaDE
+murivaDE
+murivaDE
 murivu
 murivugaLa
-murivude
+murivudE
 muruka
 muruka
 muruka
 murukisu
 murukisu
-muruchiko
+muruchikO
 muruchu
 muruDisu
 muruvu
 muruhidavu
 muruhu
 muvvattaaru tatva
-muSTige
+muShTigE
 musala
 musala
 musala
 musaladhara
 musalahati
-musuMDi
+musuNDi
 musukida
 musukida
 musuku
@@ -8350,64 +8350,64 @@ muhuLi
 muhuurta
 muLi
 muLi
-muLidu heLikeyaada
+muLidu heLikEyaada
 muLiyisu
 muLisinali
 muLugitu
 muLumutta
-muLuvelige
+muLuveligE
 muukadanuja
 muugumaari
 muugurchi
 muuDaNarasugaLu
 muuDalu
-muuDalu kempere
+muuDalu kEMperE
 muuDu
 muuDha
 muudalisi
 muudalisu
-muuruzakti
-muurChite
+muurushakti
+muurChitE
 muurtitraya
-muurdhaabhiSechana
-muurdhaabhiSechana
+muurdhaabhiShechana
+muurdhaabhiShechana
 muula
-muuleyavadiru
-muuhoraDa
-muuhoraDu
-mRkaMDusuta
+muulEyavadiru
+muuhOraDa
+muuhOraDu
+mRkaNDusuta
 mRga
 mRgagaNa
-mRgatRSNaa
+mRgatRShNaa
 mRgapota
 mRgayaavyasana
-mRgaveMTekaara
+mRgaveNTEkaara
 mRgaavana
 mRta jaata
-mRSTa bhojana
-mRSTaanna
-mekke
-mechchisu
-mechchu
-meTTakki
-meTTu
-meTTuva
-mettige vase
-medaku
-meymaari
-meyyikku
-meyyikku
-mere
-mere
-mere
-melnuDi
-meLe
-meLe
-meLe
-meLe marangaLa
-meLesandaNi
-mekhale
-megare
+mRShTa bhojana
+mRShTaanna
+mEkkE
+mEchchisu
+mEchchu
+mETTakki
+mETTu
+mETTuva
+mEttigE vasE
+mEdaku
+mEymaari
+mEyyikku
+mEyyikku
+mErE
+mErE
+mErE
+mElnuDi
+mELE
+mELE
+mELE
+mELE marangaLa
+mELEsaMdaNi
+mekhalE
+megarE
 megaaLi
 megivara
 meghataru
@@ -8419,8 +8419,8 @@ medini
 medinii jana
 mediniitala
 medhassu
-meredappuva
-melankaNada bhaaraNe
+merEdappuva
+melankaNada bhaaraNE
 melaNa
 melaNa amararu
 melaNankaNa
@@ -8428,12 +8428,12 @@ melappudu
 melaayi
 melaaLu
 melaaLu
-melu zakuna
+melu shakuna
 melukaTTu
 melugaTTu
 melugaaNanu
 melugaaLagada
-melugudure
+melugudurE
 melugaidu
 meludaagina
 meludaaya
@@ -8441,13 +8441,13 @@ meludaaya
 meludaaya
 meludu
 meluduguDada
-melunelana
+melunElana
 melupogina
 melupogu
 melumachchu
 melumada
 meluvaasi
-mele
+melE
 melkaTTu
 kharpara
 mehugaaDu
@@ -8457,10 +8457,10 @@ meLa
 meLa
 meLa
 meLada aivaru
-meLadali maMDaLisida
+meLadali maNDaLisida
 meLava
-meLavaNige
-meLavaNe
+meLavaNigE
+meLavaNE
 meLavaatinali
 meLavisu
 meLavisu
@@ -8468,18 +8468,18 @@ meLave phaDa !
 meLaapa
 meLaapa
 meLaisu
-maigaMDi
+maigaNDi
 maigaahu
 maiguruhu
-maigoDadiro
-maigoDuva
+maigODadirO
+maigODuva
 maidaDavu
 maiduna
-maidege
-maidegedu
-maidegedu
-maidegedu
-maidegevante
+maidEgE
+maidEgEdu
+maidEgEdu
+maidEgEdu
+maidEgEvaMtE
 maidorabeku
 maidoritu
 maidoru
@@ -8487,11 +8487,11 @@ mainoTa
 mainoTa
 maibidiridavu
 maimaNidu
-maimaredavu
-maimaresi
-maimase
+maimarEdavu
+maimarEsi
+maimasE
 maimaarigaLu
-maiyakoTTu
+maiyakOTTu
 maiyarihisi
 maiyikkidanu
 maiyikku
@@ -8503,68 +8503,68 @@ maivaLi
 maisiri
 maisiri
 maisuLivu
-mogadiruhadiha
-mogadiruhu
-mogaramba
-mogaramba
-mogaramba
-mogavaDedu
-mogavarige
-mogavale
-mogasalu
-mogasu
-mogasu
-mogasu
-mogasuvaDe
-moge
-moge
-moge
-moge
-moge
-mogedavu
-mogedu
-mogedu
-moggegai
-mone
-mone
-mone
-mone
-mone munjeragu
-monegaNe
-monegaLa tekke
-moneguttu
-monegoL
-monedori
-monedoru
-monedoru
-monedoru
-moneyalagu
-mobbu
-mommandirugaLu
-mommanu
-moraDi
-morahu
-more
-more
-more
-more
-moregeDi
-moreva
-moreva
-moreva
-morevudu
-moreveNa
-moLagitu
-moLagu
-moLagu
-moLagu
-moLagu
-moLagu
-moLagu
-moLe
-moLe hommuvare
-moLenage
-moLeye
+mOgadiruhadiha
+mOgadiruhu
+mOgaraMba
+mOgaraMba
+mOgaraMba
+mOgavaDEdu
+mOgavarigE
+mOgavalE
+mOgasalu
+mOgasu
+mOgasu
+mOgasu
+mOgasuvaDE
+mOgE
+mOgE
+mOgE
+mOgE
+mOgE
+mOgEdavu
+mOgEdu
+mOgEdu
+mOggEgai
+mOnE
+mOnE
+mOnE
+mOnE
+mOnE munjEragu
+mOnEgaNE
+mOnEgaLa tEkkE
+mOnEguttu
+mOnEgOL
+mOnEdori
+mOnEdoru
+mOnEdoru
+mOnEdoru
+mOnEyalagu
+mObbu
+mOmmaMdirugaLu
+mOmmanu
+mOraDi
+mOrahu
+mOrE
+mOrE
+mOrE
+mOrE
+mOrEgeDi
+mOrEva
+mOrEva
+mOrEva
+mOrEvudu
+mOrEvENa
+mOLagitu
+mOLagu
+mOLagu
+mOLagu
+mOLagu
+mOLagu
+mOLagu
+mOLE
+mOLE hOmmuvarE
+mOLEnagE
+mOLEyE
 moDaamoDi
 moDaamoDi
 moditu
@@ -8572,11 +8572,11 @@ modidanu
 modisu
 modu
 mona
-moreya joDu
-moreyanu ಒledu
+morEya joDu
+morEyanu OlEdu
 moha
-mohabandhasthagita chitta
-mohamige
+mohabaMdhasthagita chitta
+mohamigE
 mohara
 mohara
 moharada
@@ -8603,42 +8603,42 @@ maulya
 maulya
 mauLi
 mauLi
-yantraruupugaLu
-yantri
-yakSakardama
-yakSakardama
+yaMtraruupugaLu
+yaMtri
+yaxakardama
+yaxakardama
 yajamaana
 yatipati
 yamaja
-yamanandana
+yamanaMdana
 yamasuta
 yamasuunu
 yamasuunu
 yamaLa
-yavanezvara
-yavasaambu
-yave
+yavaneshvara
+yavasaaMbu
+yavE
 yaachaka
-yaajJika
+yaaGYika
 yaatudhaana
 yaana
 yaana
 yuga
 yugaLa
 yuddhodyuktaru
-yuvatinikurumba
+yuvatinikuruMba
 yojana
 yodha
 yoni
-yoSijjana
-ranche
+yoShijjana
+ranchE
 ranjakaru
-ranjaNige
+ranjaNigE
 ranjisitu
 ranjisu
 ranjisu
 rakkasa
-rachane
+rachanE
 rachita
 rachisidanu
 rachisu
@@ -8661,7 +8661,7 @@ raNabaahira
 raNabinnaaNa
 raNabhayankara
 raNamahi
-raNamahiisantamasa zaantekSaNaru
+raNamahiisaMtamasa shaaMtexaNaru
 raNamailaararaadaru
 raNarasa
 raNavaaji
@@ -8669,7 +8669,7 @@ raNavaada siddhi
 raNavijayanidhi
 raNavidhaana
 raNaheDi
-raNaadhyakSadali
+raNaadhyaxadali
 raNita
 ratunaraaji
 ratnaakarapariita
@@ -8703,8 +8703,8 @@ rasa
 rasa
 rasabhaajana
 rasaataLa
-rasume
-rasume
+rasumE
+rasumE
 raha
 rahaNi
 rahi
@@ -8718,12 +8718,12 @@ raaga
 raaga
 raagasamudaya
 raagahara
-raaghe
+raaghE
 raaja
-raajaRSi
+raajaRShi
 raajaka
 raajabruva
-raajamantra
+raajamaMtra
 raajaravi
 raajasa taamasa
 raajasavikaara
@@ -8731,16 +8731,16 @@ raajaanvaya
 raajaavaLi
 raajiiva mukhi
 raajyapaalana
-raajyavibhraMza
-raajyazrii
+raajyavibhraMsha
+raajyashrii
 raaNika
 raaNika
 raaNiivaasa
 raaNiivaasa
 raadhaatanaya
 raadhaatanuja
-raadhaanandana
-raadheyaatmaja
+raadhaanaMdana
+raadhEyaatmaja
 raama kaTaka
 raamaNiiyaka
 raamabhRtya
@@ -8762,7 +8762,7 @@ raayara
 raayavanadaavaanaLa
 raayasa
 raayasa
-raavaNaantaka
+raavaNaaMtaka
 raavu
 raavuThi
 raavuta
@@ -8780,7 +8780,7 @@ ripukuladavaanaLa
 ripujanapa
 ripujaala
 ripunivaha
-ripubala dizaapaTa
+ripubala dishaapaTa
 ripubalajaladhi
 ripubhanjana
 ripuraaya
@@ -8790,19 +8790,19 @@ ruchi
 ruchira
 rujaanga
 ruNa
-rudrana aggada kaNNa zikhi
+rudrana aggada kaNNa shikhi
 rudhira
-rudhirabandhugaLa
+rudhirabaMdhugaLa
 ruuDhi
-ruuDhiyalli chappegoDali ಎmbarthadallide aadare illi katti ಎmbartha baLaside. kaDugi
+ruuDhiyalli chappEgODali EMbarthadallidE aadarE illi katti EMbartha baLasidE. kaDugi
 ruuDhisida
-ruupa sereviDida
+ruupa sErEviDida
 ruupu
-ruuvaarige
+ruuvaarigE
 ruuhu
-renche
-renche
-renche
+rEnchE
+rEnchE
+rEnchE
 reNu
 reNu janana
 rodanasarada
@@ -8811,45 +8811,45 @@ roma
 romaancha
 romaaLi
 romaaLi
-roSa prakaTa paavaka visphulingaru
-roSaka
-roSavahni
-roSazikhisphulinga
-roSazvaasa
-roSaagni
-roSotkara
+roSha prakaTa paavaka visphulingaru
+roShaka
+roShavahni
+roShashikhisphulinga
+roShashvaasa
+roShaagni
+roShotkara
 raukuLa
 raudra
 raudra
-raudraranjane
+raudraranjanE
 raurava
-rauravasindhu
+rauravasiMdhu
 rauhiNeya
 langhisitu
-lampaTa
-lampaTaru
-lambaLa
-lambisu
+laMpaTa
+laMpaTaru
+laMbaLa
+laMbisu
 lakuTa
 lakka
 lakka
-lakSaNa
-lakSaNa
-lakSmiya naaDu
-lakSya
-lakSya
-lakSya
-lagge
-lagge
-lagge
-lagge
-lagge masagitu
-laggepare
-laggeyali
-laggevare
-laggevare
-laggevare
-lagnadoLire
+laxaNa
+laxaNa
+laxmiya naaDu
+laxya
+laxya
+laxya
+laggE
+laggE
+laggE
+laggE
+laggE masagitu
+laggEparE
+laggEyali
+laggEvarE
+laggEvarE
+laggEvarE
+lagnadOLirE
 laghu
 laghu
 lajjisu
@@ -8864,19 +8864,19 @@ laTakaTisu
 lataangi
 lataaLi
 laya
-layakRtaanta
-layakRtaanta
-layakRtaanta
-lalane
+layakRtaaMta
+layakRtaaMta
+layakRtaaMta
+lalanE
 lalaama
 lalita
-lalitakaMTha
+lalitakaNTha
 lalitastaraNa
 lava
 lavaNi
 lavaNisu
-lavaNe
-lavalavike
+lavaNE
+lavalavikE
 lavuDi
 lasadaachaara
 lahari
@@ -8886,7 +8886,7 @@ laLi
 laLi
 laLimasagi
 laLiya lahari
-laakSaa bhaüvana
+laaxaa bhaüvana
 laaganu
 laagisu
 laagisu
@@ -8905,25 +8905,25 @@ laaguvegada
 laaghava
 laaghava
 laaja
-laajaavaruSa
-laaje
+laajaavaruSha
+laajE
 laabha
 laamacha
 laaya
 laavakaru
 laavakaru
-laavaNige
-laavaNige
-laavaNige
-laavaNige
-laavaNige
-laavaNigegoLLu
-laavaNyaambu
-laavuge
+laavaNigE
+laavaNigE
+laavaNigE
+laavaNigE
+laavaNigE
+laavaNigEgOLLu
+laavaNyaaMbu
+laavugE
 laaLaraavuta
-laaLaviMDige
-lipijJa
-liile
+laaLaviNDigE
+lipiGYa
+liilE
 luLi
 luLi
 luLi
@@ -8935,57 +8935,57 @@ luLita
 luLita
 luLita
 luLiya
-luLiyambu
-luLivaDeda
-luLisaaratara lambisitu
+luLiyaMbu
+luLivaDEda
+luLisaaratara laMbisitu
 luuna
-lekkisu
-leppada bala
-leppaduraga
+lEkkisu
+lEppada bala
+lEppaduraga
 lekha
 lesaaytu
 lesu
-lesu holleha
-loTTaaloTTi
+lesu hOllEha
+lOTTaalOTTi
 lokatraya
 lokatritaya
-lokavaarte
-lokaantara
+lokavaartE
+lokaaMtara
 lokaayata
 lokaaloka parvata
 lokottara
-logane
+loganE
 logara
-logaraninde
+logaraniMdE
 logaru
 logaru
 lochana
-lochanavaaridhaare
+lochanavaaridhaarE
 lochu
 lobha
 lola
 lolanaaparikarmataru
-lolalochane
+lolalochanE
 lolupa
 lolupa
 lolupa
-lolupate
-lolupate
-love
-love
-love
-loha gadaabhihatige
+lolupatE
+lolupatE
+lovE
+lovE
+lovE
+loha gadaabhihatigE
 loha siisaka
-lohadabimba
-loLe
+lohadabiMba
+loLE
 lauDi
 lauDi
 lauDi
 lauDi
 lauDi
 lauDi
-lauDe
-laulyate
+lauDE
+laulyatE
 vanka
 vanki
 vangaDa
@@ -8993,14 +8993,14 @@ vangaDa
 vangaDa
 vangara muridu
 vanchisu
-vandi
-vandi
-vandi
-vandijana jaladhi
-vandya
+vaMdi
+vaMdi
+vaMdi
+vaMdijana jaladhi
+vaMdya
 vakta
 vaktr
-vakSasthaLa
+vaxasthaLa
 vachanavinyaasa
 vachanaviraaga
 vachanaanuraaga
@@ -9023,10 +9023,10 @@ vaTapatra
 vaTTi
 vaDaba
 vaDaba
-vaDabage
+vaDabagE
 vaDabaanala
 vaDamukha
-vaDDanti
+vaDDaMti
 vaNija
 vadana
 vadanaanjaLipuTada taaDana
@@ -9042,41 +9042,41 @@ vanavaLaya
 vanavaasaayata
 vanasankula
 vanasiri
-vanaantara
+vanaaMtara
 vanaalaya
-vanite
+vanitE
 vara
 varaNa
 varamahiisuravarga
-varale
-varaangane
-varaardha tanuyute
+varalE
+varaanganE
+varaardha tanuyutE
 varaasana
 varisu
 varisu
 varuNa
-varuSatati
+varuShatati
 varuutha
 varjisu
 varjisu
 vartisitu
 vardhana
 marma
-varSaakaala
+varShaakaala
 valaya
 valaya
 valmiika
 vallabha
 vallabharu
-vallabhe
-vazya
+vallabhE
+vashya
 vasati
-vasudhaangane
-vasudhe
-vasudhe
-vasumatiivadhuge
+vasudhaanganE
+vasudhE
+vasudhE
+vasumatiivadhugE
 vastuutkara
-vastraakaruSaNa
+vastraakaruShaNa
 vahi
 vahila
 vahiladalli
@@ -9089,14 +9089,14 @@ vaLita
 vaLita
 vaLita
 vaanChita
-vaagvanite
-vaaghe
-vaaghe
-vaaghe
+vaagvanitE
+vaaghE
+vaaghE
+vaaghE
 vaachaaTa
 vaachaaTa
 vaachaalaka
-vaachisade
+vaachisadE
 vaachisitu
 vaajanika
 vaajapeyi
@@ -9111,11 +9111,11 @@ vaataayanita
 vaadottara
 vaadyavitaana
 vaanaayuja
-vaamaduDike
+vaamaduDikE
 vaamana
 vaamapaada
-vaamabhujaakSi
-vaamalochane
+vaamabhujaaxi
+vaamalochanE
 vaamahasta
 vaamaanka
 vaamaanga
@@ -9128,19 +9128,19 @@ vaaraka
 vaaraNada mohara
 vaaraNapratati
 vaaraNaakhyaana
-vaarate
+vaaratE
 vaarastrii
-vaarijaanane
+vaarijaananE
 vaariDuva
 vaaridataru
 vaaridhi
 vaaruva
-vaaruvada mandira
-vaarte
+vaaruvada maMdira
+vaartE
 vaardhika rachita nuDiyanu
-vaar‍dhuSika
+vaardhuShika
 vaaladhi
-vaasane
+vaasanE
 vaasara
 vaasavasuta
 vaasi
@@ -9159,11 +9159,11 @@ vaastuvidheya
 vaahini
 vi
 vikaTa
-vikaTate
+vikaTatE
 vikarma
 vikaLa
 vikaLa
-vikaLate
+vikaLatE
 vikaLar
 vikaara
 vikaara
@@ -9175,7 +9175,7 @@ vikrama
 vikrama
 vikrama vahni
 vikrama hiinaru
-vikramada vivaraNa vidye phalisuvude
+vikramada vivaraNa vidyE phalisuvudE
 vikramadaridra
 vikramadudadhi
 vikramaanala
@@ -9201,15 +9201,15 @@ vigaDisu
 vigaDisu
 vigatalochana
 vigatavaira
-vigataananda
+vigataanaMda
 vigaahana
-vigurvaNe
+vigurvaNE
 vigraha
 vigraha
 vigraha
 vigraha
 vigraha
-vighaLige
+vighaLigE
 vighaata
 vighaataka
 vighaatadali
@@ -9221,36 +9221,36 @@ vighaati
 vighaati
 vighaatisi
 vighaaya
-vighnazata
+vighnashata
 vijaya
-vijayaanganopakSiiNa maanasaru
+vijayaanganopaxiiNa maanasaru
 vijayaatmaka
 vijita
 viTa
 viTapa
 viTaaLa
 viTaaLa
-viTaaLavillade
+viTaaLavilladE
 viTaaLisu
-viDamba
-viDambada
-viDambana
-viDambane
-viDambisuva
+viDaMba
+viDaMbada
+viDaMbana
+viDaMbanE
+viDaMbisuva
 viDaayi
 viDaayi
-viDaayigeTTanu
+viDaayigETTanu
 viDaaylatana
 viDaaLa
 vitata
-vitarje
+vitarjE
 vitaLa
 vitaLa
 vitaLa
 vitaana
 vitaana
 vitaaLa
-vitaaLavaagade
+vitaaLavaagadE
 vitaaLisi
 vitaaLisu
 vitaaLisu
@@ -9258,28 +9258,28 @@ vitta
 vitpanna
 vida
 vidagdha
-vidagdhe
+vidagdhE
 vidaaraNa
 vidaarisu
 vidita
 vidita
 vidita
 viduura
-videza
+videsha
 vidyaa
 vidyaadhara
 vidraavaNa
 vidraavaNa
 vidruma
 vidhaayaka
-vidhaavanta
-vidhaavantanali
+vidhaavaMta
+vidhaavaMtanali
 vidhi
 vidhi
 vidhi
 vidhi
 vidhivihita
-vidhuntuda
+vidhuMtuda
 vidhuuta
 vidhuuta
 vidhuuta
@@ -9299,18 +9299,18 @@ vinyaasa
 vipattu
 vipattu
 vipattu
-vipatsarampare
+vipatsaraMparE
 vipanna
 vipariita
-vipaakadoLu
-vipinaantara
-vipinaantara
-vipinaantara parikrama
-vipinopakaMTha
+vipaakadOLu
+vipinaaMtara
+vipinaaMtara
+vipinaaMtara parikrama
+vipinopakaNTha
 vipuLa
-vipraveSachChanna
+vipraveShachChanna
 vipraavaLi
-vibandha
+vibaMdha
 vibudharu
 vibhaagisu
 vibhaaDisi
@@ -9348,23 +9348,23 @@ viraaga
 viraaTaja
 viraama
 viraama
-viraamavaagade
-virinchasRSTi
+viraamavaagadE
+virinchasRShTi
 virinchiprabhava
 viruupana
 virodha
-virodhisantati
-vilamba
-vilambita
+virodhisaMtati
+vilaMba
+vilaMbita
 vilaga
 vilaga
 vilaga
 vilagiga
-vilaya kRtaanta
+vilaya kRtaaMta
 vilaya mahogra sannibha
-vilayakRtaanta
-vilayada maLe
-vilayaziva
+vilayakRtaaMta
+vilayada maLE
+vilayashiva
 vilayahara
 vilasa
 vilasa
@@ -9383,51 +9383,51 @@ vilokana
 viloma
 vivaraNa
 vividhavibhava
-vivekazuunya
-vizaapa
-vizikha
-vizikhavraata
-viziSTa
-vizuddhe
-vizrama
-vizrama
-vizramavilla nimiSadali
-vizramisu
-vizvambhara
-vizvakarma
-vizvaruupi
-vizvavikarNa
-vizvaamara
-viSakannike
-viSadruma
-viSadharapati
-viSama
-viSama
-viSama
-viSama
-viSama
-viSamaavagraha
-viSayastoma
-viSaadabhara
-viSaadavahni
-viSThe
+vivekashuunya
+vishaapa
+vishikha
+vishikhavraata
+vishiShTa
+vishuddhE
+vishrama
+vishrama
+vishramavilla nimiShadali
+vishramisu
+vishvaMbhara
+vishvakarma
+vishvaruupi
+vishvavikarNa
+vishvaamara
+viShakannikE
+viShadruma
+viShadharapati
+viShama
+viShama
+viShama
+viShama
+viShama
+viShamaavagraha
+viShayastoma
+viShaadabhara
+viShaadavahni
+viShThE
 visanchisi
 visanchisu
 visanchisu
 visanchisu
 visanchisu
-visandhi
+visaMdhi
 visaMsthula
-visaTambariva
-visaTambaridu
-visaTambariyanu
+visaTaMbariva
+visaTaMbaridu
+visaTaMbariyanu
 visaTavari
 vistaraNa
 vistarada
 visphulinga
 visphulinga
 vihangatati
-vihagasantati
+vihagasaMtati
 viharaNa
 viharaNa
 vihita
@@ -9437,13 +9437,13 @@ vihRti
 vihvala
 vihvilita
 viLayarudra
-viLayavaartaavyaaLaviSa
-viLasite
-viLaasavaLidide
+viLayavaartaavyaaLaviSha
+viLasitE
+viLaasavaLididE
 viLaasiniijana
-viikSisu
-viichugeDuvaru
-viitaraagadveóSa
+viixisu
+viichugEDuvaru
+viitaraagadveóSha
 viira puutu
 viirapaNa
 viiraranga
@@ -9451,13 +9451,13 @@ viirarasaabdhi
 viirasiri
 viisabaDDi
 viiLaya
-viiLeya
-viiLeya
-viiLeyava
+viiLEya
+viiLEya
+viiLEyava
 vuli
-vRnda
-vRnda
-vRndaaraka vadhuuvarga
+vRMda
+vRMda
+vRMdaaraka vadhuuvarga
 vRka
 vRkodara
 vRkodara
@@ -9465,74 +9465,74 @@ vRkodarasuunu
 vRtti
 vRtti
 vRddhi
-vRSasena
-vRSaLu
-vRSTi
-vRSTibindu
-veMThaNisi
-veMThaNisi
-veMThaNisu
-veMThaNisu
-veggaLa
-veggaLa
-veggaLisu
-veggaLisu
-veggaLe
-veggaLeya
-veggaLeya
-veggaLeya
-veggaLeyavu
+vRShasena
+vRShaLu
+vRShTi
+vRShTibiMdu
+vENThaNisi
+vENThaNisi
+vENThaNisu
+vENThaNisu
+vEggaLa
+vEggaLa
+vEggaLisu
+vEggaLisu
+vEggaLE
+vEggaLEya
+vEggaLEya
+vEggaLEya
+vEggaLEyavu
 vegaayla
 vegaayla
-vegaayla rekhe
+vegaayla rekhE
 vegaaylatana
-veDe
-veDeyava
+veDE
+veDEyava
 veDaisi
-veDhe
-veDhe
-veDhe
-veDheya
+veDhE
+veDhE
+veDhE
+veDhEya
 veDhaisu
-vedazira
+vedashira
 vedahiinaru
 vedi
 vedi
 vedi
-vedhe
+vedhE
 velaayatara
-vele
-vele
-vezye
+velE
+velE
+veshyE
 vesi
 vesiya
-vaikakSaka
-vaikuMTha
+vaikaxaka
+vaikuNTha
 vaiDuuriya
 vaitaaLika
 vaitaaLika
 vaidika
-vaidikakriye
+vaidikakriyE
 vaidikadharma
 vaidikavidhaana
 vaidikokti
-vaidezigaru
+vaideshigaru
 vaidhavyavidhi
 vainateya
 vaimanassu
 vaira
-vairabandha
-vairabandha
-vairabandha
+vairabaMdha
+vairabaMdha
+vairabaMdha
 vairaaTa
 vairidallaNa
 vairibhaTa saMvarta
-vairimadavetaMDa
+vairimadavetaNDa
 vairivraata
 vairotkaravisaMsthuLa
 vaivarNa
 vaivaaha
-vaiSNava
+vaiShNava
 vaihaaLi
 vaihaaLi
 vaihaaLi
@@ -9546,7 +9546,7 @@ vyavasita
 vyavahRti
 vyasana
 vyaakaraNa
-vyaakaraNa paaMDitya
+vyaakaraNa paaNDitya
 vyaaja
 vyaadhita
 vyaapaka
@@ -9559,158 +9559,158 @@ vyuuha
 vraja
 vraNa
 vrati
-zambararu
-zakra
-zakranandana
-zaThaagamika
-zatakhaMDa
-zatamakha
-zatamanyu
-zatamanyu
-zatasaavira
-zaphari
-zami
-zara
-zarajaala
-zaratimira
-zaralavaNe
-zaravahni
-zaravaLe
-zaravisara
-zarazayana
-zarasandhaana
-zarasanyaasa
-zarastambha
-zarahati
-zaraanugata zarajaala
-zaraavaLi
-zaraavaLiya koneÉ
-zaraasana
-zaraaLi
-zaraugha
-zaraughada
-zaraughaanala
-zala
-zazikaanta
-zazikaanta
-zazikiraNa piiyuuSa
-zazikula
-zazikula mattavaaraNa
-zazimauLi
-zaziruchi
-zazivadane
-zastrachyuti
-zastrajvaale
-zastraavaLi
-zastraughadali
-zaakaavaLi
-zaakini
-zaakini
-zaakini
-zaakini
-zaakiniyaru
-zaakinii nivaha
-zaatakumbhaasana
-zaapaaruha
-zaabara
-zaabara
-zaalivana
-zaalii
-zaale
-zaasana
-zaastraugha
-zaaLivana
-zaaLiivana
-ziMzumaara
-zikSaa
-zikhaMDi
-zithila
-zithila
-zira
-zirava ಒleda
-zirovakuMThana
-zilaaLiyali
-zilochChaya
-zilpajana
-ziva (dakSana yajJavannu ziva naazamaaDida) samajoLi
-ziva. baahira
-zivaÀmaya
-zizutana
-ziSTa
-ziSTaru
-ziLiimukha
-ziitaLa
-zuMDaalaghaTe
-zuka
-zukachaya
-zuddha
-zubhagrahadRSTi
-zubhaugha
-zuzruuSe
-zuudratege
-zuunya zibira
-zuura
-zuula
-zuula marumonegoL
-zRnkhaLita
-zRnga
-zRngaara
-zRngi
-zeSa
-zeSa
-zeSa
-zeSakriya
-zeSaanna
-zaitya puura
-zailaagradali
-zoka pannaga ghora viSa
-zokakrodhadupaTaLa
-zokajaladhi
-zokavahni
-zokavahni
-zokazikhi
-zokaagni
-zokaaDaÀmbara
-zokaanaLa
-zokaartarava
-zokottara
-zokodadhi
-zokodreka
-zoNa salila
-zoNita
-zoNitada saagaradi
-zoNitadhaare
-zodhisu
-zobhaa
-zobhita
-zaucha
-zauchaachamana
-zauri
-zaurya
-zauryapaNa
-zrama
-zrama
-zrama
-zrama
-zriinija
-zriimuurti
-zriilataangi
-zrutazaastraru
-zrutikoTi
-zrutipatra
+shaMbararu
+shakra
+shakranaMdana
+shaThaagamika
+shatakhaNDa
+shatamakha
+shatamanyu
+shatamanyu
+shatasaavira
+shaphari
+shami
+shara
+sharajaala
+sharatimira
+sharalavaNE
+sharavahni
+sharavaLE
+sharavisara
+sharashayana
+sharasaMdhaana
+sharasanyaasa
+sharastaMbha
+sharahati
+sharaanugata sharajaala
+sharaavaLi
+sharaavaLiya kOnEÉ
+sharaasana
+sharaaLi
+sharaugha
+sharaughada
+sharaughaanala
+shala
+shashikaaMta
+shashikaaMta
+shashikiraNa piiyuuSha
+shashikula
+shashikula mattavaaraNa
+shashimauLi
+shashiruchi
+shashivadanE
+shastrachyuti
+shastrajvaalE
+shastraavaLi
+shastraughadali
+shaakaavaLi
+shaakini
+shaakini
+shaakini
+shaakini
+shaakiniyaru
+shaakinii nivaha
+shaatakuMbhaasana
+shaapaaruha
+shaabara
+shaabara
+shaalivana
+shaalii
+shaalE
+shaasana
+shaastraugha
+shaaLivana
+shaaLiivana
+shiMshumaara
+shixaa
+shikhaNDi
+shithila
+shithila
+shira
+shirava OlEda
+shirovakuNThana
+shilaaLiyali
+shilochChaya
+shilpajana
+shiva (daxana yaGYavannu shiva naashamaaDida) samajoLi
+shiva. baahira
+shivaÀmaya
+shishutana
+shiShTa
+shiShTaru
+shiLiimukha
+shiitaLa
+shuNDaalaghaTE
+shuka
+shukachaya
+shuddha
+shubhagrahadRShTi
+shubhaugha
+shushruuShE
+shuudratEgE
+shuunya shibira
+shuura
+shuula
+shuula marumOnEgOL
+shRnkhaLita
+shRnga
+shRngaara
+shRngi
+sheSha
+sheSha
+sheSha
+sheShakriya
+sheShaanna
+shaitya puura
+shailaagradali
+shoka pannaga ghora viSha
+shokakrodhadupaTaLa
+shokajaladhi
+shokavahni
+shokavahni
+shokashikhi
+shokaagni
+shokaaDaÀMbara
+shokaanaLa
+shokaartarava
+shokottara
+shokodadhi
+shokodreka
+shoNa salila
+shoNita
+shoNitada saagaradi
+shoNitadhaarE
+shodhisu
+shobhaa
+shobhita
+shaucha
+shauchaachamana
+shauri
+shaurya
+shauryapaNa
+shrama
+shrama
+shrama
+shrama
+shriinija
+shriimuurti
+shriilataangi
+shrutashaastraru
+shrutikoTi
+shrutipatra
 khechara
-zrotriya
-zrauta
-zvaana
-zvaasa
-zvetahaya
-SaT‍tarka
-SaDurasa
+shrotriya
+shrauta
+shvaana
+shvaasa
+shvetahaya
+ShaTtarka
+ShaDurasa
 DhavaNisu
-sankaruSaNa
+sankaruShaNa
 sankala
-sankale
-sankalevane
+sankalE
+sankalEvanE
 sankula
 sanketa
 sankramisu
@@ -9722,12 +9722,12 @@ sangati
 sangara
 sangaata
 sangi
-sanghaTanege
+sanghaTanEgE
 sanghaTisi
 sanghaTisu
 sanchakaara
 sanchada
-sancharaNe
+sancharaNE
 sancharisi
 sanchala
 sanchita
@@ -9741,71 +9741,71 @@ sanjanisu
 sanjanisu
 sanjaata
 sanjiivani
-santati
-santamasa
-santarpaNa
-santaviDi
-santaviDu
-santavisi
-santavisu
-santavisu
-santaana
-santaisi
-santaisu
-santaisu
-sanda
-sanda
-sanda
-sandaNi
-sandaNi
-sandaNisi
-sandaNisidudu
-sandaNisu
-sandanu
-sandanu
-sandavu
-sandaSTa
-sandigdha
-sandugaTTu
-sandudu
-sandudu
-sandude
-sandeya
-sandhivigraha
-sandhisenu
-sandhyaabhivandana
-sandhyaavandane
-sandhyopaasthe
+saMtati
+saMtamasa
+saMtarpaNa
+saMtaviDi
+saMtaviDu
+saMtavisi
+saMtavisu
+saMtavisu
+saMtaana
+saMtaisi
+saMtaisu
+saMtaisu
+saMda
+saMda
+saMda
+saMdaNi
+saMdaNi
+saMdaNisi
+saMdaNisidudu
+saMdaNisu
+saMdanu
+saMdanu
+saMdavu
+saMdaShTa
+saMdigdha
+saMdugaTTu
+saMdudu
+saMdudu
+saMdude
+saMdEya
+saMdhivigraha
+saMdhisEnu
+saMdhyaabhivaMdana
+saMdhyaavaMdanE
+saMdhyopaasthE
 saMnidhi
-sampada
-sampanna
-sampanna zaTha
-samprati
-samprati
-sampratitha
-samprathita
-sambhaava
-sambhaavakaru
-sambhaavana
-sambhaavaniiya
-sambhaavaniiyaru
-sambhaavane
-sambhaavane
-sambhaavaneyali
-sambhaavitaru
-sambhaavisida
-sambhaavisu
-sambhaavisu
-sambhaavisuta
-sambhaavisuvudu
-sambhaaLisu
-sambhaaLisu
-sambhinna roSa
-sambhraantachetana
+saMpada
+saMpanna
+saMpanna shaTha
+saMprati
+saMprati
+saMpratitha
+saMprathita
+saMbhaava
+saMbhaavakaru
+saMbhaavana
+saMbhaavaniiya
+saMbhaavaniiyaru
+saMbhaavanE
+saMbhaavanE
+saMbhaavanEyali
+saMbhaavitaru
+saMbhaavisida
+saMbhaavisu
+saMbhaavisu
+saMbhaavisuta
+saMbhaavisuvudu
+saMbhaaLisu
+saMbhaaLisu
+saMbhinna roSha
+saMbhraaMtachetana
 saMmukha
 saMmeLa
-saMvaraNe
-saMvaraNe
+saMvaraNE
+saMvaraNE
 saMvarisi
 saMvarisi
 saMvarisi
@@ -9817,7 +9817,7 @@ saMvarisu
 saMvarisu
 saMvarisuvudu
 saMvartaka
-saMzaya
+saMshaya
 saMsarga
 saMsaaraanugati
 saMsRti
@@ -9825,7 +9825,7 @@ saMsRti
 saMsRti
 saMskaøti
 saMstaraNa
-saMsparuzana
+saMsparushana
 saMhana
 saMharaNa
 saMharaNa
@@ -9837,50 +9837,50 @@ saMhRdaya
 sagarvita
 sagaaDha
 sagaaDha
-sagaaDhadoLu
-saggaLe
+sagaaDhadOLu
+saggaLE
 saghaaTada
-saghaaTike
+saghaaTikE
 saghaaDa
 saghaaDanu
-saghaaDike
+saghaaDikE
 saghaaDisitu
 saghaanatana
-saghaanate
+saghaanatE
 saghaanaru
 sachara achara
 sachchidaatmaka
 sajjanaru
 sajjarasa
-sajje
-sajjeyovari
+sajjE
+sajjEyovari
 sajjoDu
 satinivaha
 satRNaasi
 satkarma
 satkarmabaahira
 satkaara
-sattige
-sattige
-sattige
-sattvotkaruSavantaru
+sattigE
+sattigE
+sattigE
+sattvotkaruShavaMtaru
 satya bhujabalaguuDi
 satyamaari
-satyavuLLare
+satyavuLLarE
 satyavyapagata
 satraaNa
-satva saveyadu
+satva savEyadu
 satvadasaara
 satvanidhi
 satvahiinanannaagisu. jaruhu
 satvaikanidhi
 sadara
 sadara
-sade
-sadega
-sadedu
-sadedu
-sadedudu
+sadE
+sadEga
+sadEdu
+sadEdu
+sadEdudu
 saddharma
 sadhaaratana
 saanaka
@@ -9891,9 +9891,9 @@ sannibha
 sannibha
 sannihita
 sannuta
-sanne
-sannegaaLegaLu
-sanneyali
+sannE
+sannEgaaLEgaLu
+sannEyali
 sanmohana
 saptavasyana
 saptavyasana
@@ -9917,22 +9917,22 @@ samataLisu
 samataLisu
 samataLisu
 samataLisu
-samadaMDi
-samadaMDi
+samadaNDi
+samadaNDi
 samanisu
 samapaaLi
 samapaaLi
-samabesa
+samabEsa
 samaya
 samaya vikaara bhedi
 samayakRta
 samara bhuutagaLu
 samaratha
 samastaprakRtijana
-samahantigaararu
+samahaMtigaararu
 samaakhyaa
 samaagataru
-samaadhaanadinda (saama
+samaadhaanadiMda (saama
 samaadhi
 samaadhi
 samaarchananu
@@ -9943,19 +9943,19 @@ samaahita
 samaahita
 samaahita
 samittu
-samidhe
-samidhe
+samidhE
+samidhE
 samiira
 samiirajananuja
 samiirana suunu
 samiiraÀsuta
 samiiraatmaja
 samudbhava
-samudraghoSa
+samudraghoSha
 samudravibhava
 samudrasenana
 samuuha upparaguDi
-samuuha sade
+samuuha sadE
 hallaNisu
 sameLada maatu
 sammada
@@ -9965,8 +9965,8 @@ sammukhada aLavi
 sammukhanaadanu
 sammohana
 sammohanaastra
-samyag jJaana
-samyajJaani
+samyag GYaana
+samyaGYaani
 sarakaTisi
 sarakaTisu
 saraku
@@ -9979,14 +9979,14 @@ saravi
 sarasa
 sarasa
 sarasi
-sarasijaakSi
-sarasijaanane
+sarasijaaxi
+sarasijaananE
 sarasijaayata
 saraLa saara
 saraLa saara
-saraLa sokku
-saraLakangaisuvare
-saraLina haasike
+saraLa sOkku
+saraLakangaisuvarE
+saraLina haasikE
 saraLisi
 saraLisu
 saraLu
@@ -9996,25 +9996,25 @@ sari
 sari
 sariga
 sarigaDidu
-sarigaLe
-sarigaLe
+sarigaLE
+sarigaLE
 sarida
-saridare
+saridarE
 sarinuDi
-sarimaLe
+sarimaLE
 sarimigilu
-sariyorege
-sarivaLe
-sarivaLe
-sarivaLe
+sariyOrEgE
+sarivaLE
+sarivaLE
+sarivaLE
 sarivu
 sarisa
 sarisa
 sarisa
 sarisa
-sarisa mattu viSama
-sarisakke
-sarisaguMDu
+sarisa mattu viShama
+sarisakkE
+sarisaguNDu
 sarisadali
 sarisadali
 sarisadali
@@ -10025,36 +10025,36 @@ sarga
 sarbadaLa
 sarvagata
 sarvagata
-sarvagavateyali
+sarvagavatEyali
 sarvathaa
-sarvaangayajJa
+sarvaangayaGYa
 sarvaaparaadhigaLu
 sarvaapahaara
 sarvaartha
 sarvaavayava
-sarSapa
+sarShapa
 salaga
 salahu
 salahuvanu
-salaake
+salaakE
 salila
 salila baaNadali
 salilavaasa
-salilastambha
-salilastambhavidye
+salilastaMbha
+salilastaMbhavidyE
 salilaanjali
 salisu
 salisu
 salisu
-sale
-sale
+salE
+salE
 salladu
 savaga
 savaDi
 savaDi
 savaDi
-savaDi mandara
-savaDigattale
+savaDi maMdara
+savaDigattalE
 savaDigolu
 savana
 savaridanu
@@ -10065,23 +10065,23 @@ savartuLa
 savaLa
 savi
 savidu
-save
-save
-save
-savedanu
-savedaru
-savedudu
-saveye
-savesu
-savesu
+savE
+savE
+savE
+savEdanu
+savEdaru
+savEdudu
+savEyE
+savEsu
+savEsu
 savya
 savyakuta
-savyathe
+savyathE
 savyaakula
-sasideraLe
+sasidEraLE
 sasiniru
-sasine
-sahajake
+sasinE
+sahajakE
 sahadevaanka
 sahabhava
 sahabhava
@@ -10091,12 +10091,12 @@ saangopaanga
 saangopaanga
 saakaara
 saakaari
-saakikoMDai
-saakSaatarjunaru
-saagaravele
-saaNe
-saaNe
-saaNeviDi
+saakikONDai
+saaxaatarjunaru
+saagaravelE
+saaNE
+saaNE
+saaNEviDi
 saadu
 saadu
 saadhisu
@@ -10105,10 +10105,10 @@ saadhurava
 saadhuvaada
 saanuraaga
 saapatnaru
-saapekSa
+saapexa
 saama
 saama
-saamantaru
+saamaMtaru
 saamadali
 saamava
 saamraajyakavu
@@ -10116,8 +10116,8 @@ saayujya
 saara
 saara
 saara
-saaraNe
-saaraNe
+saaraNE
+saaraNE
 saarathivraata
 saaramaNi
 saarasangati
@@ -10131,13 +10131,13 @@ saarisu
 saaru
 saaru
 saarugu
-saarenuta
+saarEnuta
 saaroddhaara
 saargu
 saala
 saalakuridarihi
-saalakoLache
-saalabhanjike
+saalakOLachE
+saalabhanjikE
 saalu
 saahasa iDidudu
 saahasamalla
@@ -10145,7 +10145,7 @@ saahaayya
 saahaayya
 saahitya
 saahitya
-saahityarekhe
+saahityarekhE
 saaLaga
 saaLaga
 saaLaga
@@ -10153,32 +10153,32 @@ saaLuva
 saaLuva
 saaLva
 singi
-sindha
-sindha
-sindha mattu seLe
-sindhada
-sindhuura
-simpisida
+siMdha
+siMdha
+siMdha mattu sELE
+siMdhada
+siMdhuura
+siMpisida
 siMhanaadadali
 sikkida
 siguru
 siguru
 siDi
-siDileLige
+siDileLigE
 sita
 sitagatana
 sitagaru
 sitagaru
 sitaturaga
 sitaturaga
-sitapataake
+sitapataakE
 sitahaya
-sitaakSataavaLi
-sitaazva
-sitaazva
-sitaazva
+sitaaxataavaLi
+sitaashva
+sitaashva
+sitaashva
 siddha
-siddhaanta
+siddhaaMta
 siddhi
 siri
 siri
@@ -10187,31 +10187,31 @@ sirinaama
 sirimuDi
 sirilola
 sirilola
-silukidaDe
+silukidaDE
 silukidanu
 silukidanu
 siluku
-sivaDu suMTige
+sivaDu suNTigE
 siikari
 siikarivogu
 siiguri
-siitaaLa maLige
+siitaaLa maLigE
 siidu
-siimantamaNi
-siimaa sanniveza
-siime
-siime
-siime
-siire
-siire
+siimaMtamaNi
+siimaa sannivesha
+siimE
+siimE
+siimE
+siirE
+siirE
 siivaTa
 siivarisada
-siivarisade
+siivarisadE
 siivarisu
 siivarisu
 siivarisu
 siivavu
-siivutive
+siivutivE
 siisaka
 siisaka
 siisakaÀ
@@ -10221,11 +10221,11 @@ siihada
 siiLabaDi
 siiLidu
 siiLu kaTaaha
-suMTage
-suMTige
+suNTagE
+suNTigE
 sukara
 sukara
-sukarmaduSkarma
+sukarmaduShkarma
 sukRta
 sukRta
 sukRta
@@ -10239,8 +10239,8 @@ sukkitu
 sukkitu
 sukkisi
 sukhaaya
-sugandha
-sugandhaanila
+sugaMdha
+sugaMdhaanila
 sugati
 sugamagaani
 suguDatana
@@ -10249,13 +10249,13 @@ sucharita
 sujanaranu
 sujanaru
 sujanaru
-sujanavraatakaazraya
+sujanavraatakaashraya
 suDugaaDali
 sutanidhi
-sutazoka
+sutashoka
 suti
-sutta baLasevu
-suttuvalage
+sutta baLasEvu
+suttuvalagE
 sutraama
 sutraama ripugaLu
 sudati
@@ -10266,14 +10266,14 @@ sudatiyaru
 sudhaakaruNaavadhaana
 sudhaatri
 sudhaadiidhiti
-sunaasaalambita
-supaikadoLu
+sunaasaalaMbita
+supaikadOLu
 supraNitaagni
 supremanu
 subala
-subalaje
-subalanandana
-subalanandane
+subalajE
+subalanaMdana
+subalanaMdanE
 subraahmya
 subhaTa jiivanada aLavuLiga
 subhaTa nidhaanaru
@@ -10295,12 +10295,12 @@ suyva
 suyvavana
 sura
 surangada
-surambha
-suragange
+suraMbha
+suragangE
 suragi
 suragi
 suragi
-suragiya baseya beLasuta
+suragiya basEya bELasuta
 suragiyatibalaru
 surataruNiyaru
 suratavirahi
@@ -10313,21 +10313,21 @@ surapanarasi
 surabhi
 surabhitana
 suraraajasuta
-suralate
+suralatE
 suravraja
 surasannibha
 surastoma
 suraari
 suridu
 suridudu
-surivenu
+surivEnu
 surekharu
-sureza
-surezvara
+suresha
+sureshvara
 suli
 suli
 sulipallu
-sulisiireyali
+sulisiirEyali
 sulisu
 sulochana
 suvarNa
@@ -10335,14 +10335,14 @@ suvarNaapaLi
 suvaasini
 suvivekagati
 suvihvalakaraNaru
-suvRSTi
-suzarma
-suSupti
-suSumnaanaaDi
+suvRShTi
+susharma
+suShupti
+suShumnaanaaDi
 susangata
 susancha
 susvara
-suhRtsantati
+suhRtsaMtati
 suLi
 suLi
 suLinaabhi
@@ -10368,35 +10368,35 @@ suuta kunnigaLu
 suutaka
 suutaja
 suutatana
-suutara ojegaLu
-suutaazraya
-suutradhaare
+suutara ojEgaLu
+suutaashraya
+suutradhaarE
 suutrisi
 suunagi
-suunage
-suunage
-suunage
-suunige
-suunige
-suunige
-suunige
+suunagE
+suunagE
+suunagE
+suunigE
+suunigE
+suunigE
+suunigE
 suunu
 suupa
 suupa
 suupakaara
-suupazaasta
-suuri sandoha
+suupashaasta
+suuri saMdoha
 suuruL
 suuruLisu
-suure
-suuregaLa
-suuregeLasu
-suuregoMDu
-suureya kaitavakigaLu
-suurevogu
+suurE
+suurEgaLa
+suurEgELasu
+suurEgONDu
+suurEya kaitavakigaLu
+suurEvogu
 suuryana turaga
-suulige
-suuvaara vidye
+suuligE
+suuvaara vidyE
 suusaka
 suusi
 suusitu
@@ -10406,7 +10406,7 @@ suusu
 suusu
 suuL
 suuLaDisi
-suuLabaMTike
+suuLabaNTikE
 suuLavisi
 suuLavisu
 suuLavisu
@@ -10416,116 +10416,116 @@ suuLavisu
 suuLavisu
 suuLavisu
 suuLaayitara
-saÀuuLu
+saÀೂLu
 suuLu
 suuLu
 suuLu
 suuLu À
-suuLu baMTaru
+suuLu baNTaru
 suuLunagu
-suuLedda
+suuLEdda
 suuLaisu
 suuLaisu
 sRkva
-sRjisidevu
+sRjisidEvu
 sRNi
-seMDu
-sekku
-sekku
-segaLi
-segaLike
-segaLikeya
-segaLikeya sasi
-segaLige
-sejje
-sejje
-sejje
-seDedu
-seDeyade
-seNasu
-seraga
-seragabiDi
-seragu
-sere
-sere
-sere
-sere
-serega beLedudu
-serenara
-serenara
-sellaha
-sellisu
-selleha
-selleha
-selleha
-seLe
-seLe
-seLe
-seLe
-seLeva sindha
-seLLuguru
-seDugoLLu
-setubandhana
+sENDu
+sEkku
+sEkku
+sEgaLi
+sEgaLikE
+sEgaLikEya
+sEgaLikEya sasi
+sEgaLigE
+sEjjE
+sEjjE
+sEjjE
+sEDEdu
+sEDEyadE
+sENasu
+sEraga
+sEragabiDi
+sEragu
+sErE
+sErE
+sErE
+sErE
+sErEga bELEdudu
+sErEnara
+sErEnara
+sEllaha
+sEllisu
+sEllEha
+sEllEha
+sEllEha
+sELE
+sELE
+sELE
+sELE
+sELEva siMdha
+sELLuguru
+seDugOLLu
+setubaMdhana
 sedihodavu
 sedu
 sedu
 senaanikara
 senaavraata
-senaastambha zara
-sene
+senaastaMbha shara
+senE
 serisu
-seruve
-seruve
-sere
+seruvE
+seruvE
+serE
 sevya
-sese
-sese
-sese
-sesedaLi
-sesedaLi
+sesE
+sesE
+sesE
+sesEdaLi
+sesEdaLi
 sai
 saikata
-saigare
-saigare
-saigare
-saigare
-saigeDeda
-saigerevudai
-sairandhri
-sairaNe
+saigarE
+saigarE
+saigarE
+saigarE
+saigEDEda
+saigErEvudai
+sairaMdhri
+sairaNE
 sairisu
 sairisu
 saivari
-saiveragu
-saiveragu
-saiveragu
-saivoLe
-sompina
-sompu
-sompugeTTudu
-sogaDu
-sogasi
-sogasu
-sogasu
-sogasu
-sogasu
-sogasuvudu
-soDaru
-sode
-soppaadudu
-somminavaru
-sommu
-sommu
-sovaDinaane
+saivEragu
+saivEragu
+saivEragu
+saivOLE
+sOMpina
+sOMpu
+sOMpugETTudu
+sOgaDu
+sOgasi
+sOgasu
+sOgasu
+sOgasu
+sOgasu
+sOgasuvudu
+sODaru
+sOdE
+sOppaadudu
+sOmminavaru
+sOmmu
+sOmmu
+sOvaDinaanE
 sokinali
 soku
-soge
-sogenavilu
+sogE
+sogEnavilu
 sodara bhaavanu
 sodisi
 sodisu
-sone
-sone
+sonE
+sonE
 sopaana
 somadhara
 sola
@@ -10534,7 +10534,7 @@ sohinali
 sohu
 sohu
 sohu
-sohe
+sohE
 saukhyasthiti
 saubala
 saubala
@@ -10545,27 +10545,27 @@ saubhaagya
 saubhaagya
 saumanasya
 saumanasya
-saurambha
-saurambha
-saurambha
+sauraMbha
+sauraMbha
+sauraMbha
 sauri
 sauhaarda
 sauhaarda
 sauhaarda
 sauhRda vaagvivaada
-skanda
+skaMda
 skhalana
 skhalita
-stambha
+staMbha
 stanita
 stoma
 strii
 straiNa
-aDegalasu
-sthuulavakSa
+aDEgalasu
+sthuulavaxa
 snaataka
 snaatakavrati
-spanda
+spaMda
 spaadhyaaya
 sphuTa
 sphuraNa
@@ -10578,13 +10578,13 @@ sphuritarava
 smaarta
 smaartamaarga
 smaøti
-syandana
+syaMdana
 sruva
-svakiiya kSaNana
+svakiiya xaNana
 svasti
 svasti
 svasthaana
-svaamisampattu
+svaamisaMpattu
 svaartha
 sveda
 svedaja
@@ -10597,47 +10597,47 @@ hangigaru
 hangina
 hangu
 hanjarakuuLi
-hanti
-hantikaara
-hantiya kuuLu
-hambalisu
-haMsa Dibikara pauMDrakara
+haMti
+haMtikaara
+haMtiya kuuLu
+haMbalisu
+haMsa Dibikara pauNDrakara
 haMsagaLa tuuLa
 haMsatuuLa
 haMsatva
-hakkarike
-hakkarike
-hakkarike
-hakkarike
-hakkarike
-hakkarike
+hakkarikE
+hakkarikE
+hakkarikE
+hakkarikE
+hakkarikE
+hakkarikE
 hakkalaagu
 hakkalaadavaru
 hakkalu
 hakkalu
-hakke
+hakkE
 hagaraNa
 hagaru
 hagala huuLidaru
 hagaluLuku
 hagina
-hage
-hage
-hagebeLeda
-hageyaadavaru
-baahe
-hachchikoTTanu
-hajjeyanu ittu tegevag
+hagE
+hagE
+hagEbELEda
+hagEyaadavaru
+baahE
+hachchikOTTanu
+hajjEyanu ittu tEgEvag
 haDapa
 haDapaga
 haDapavaLa
 haDapiga
 haDapiga
 haDapiga
-haDeyiri
+haDEyiri
 haNagi
 haNagidaru
-haNavige
+haNavigE
 haNi
 haNi
 haNigu
@@ -10648,21 +10648,21 @@ haNidu
 haNiyali
 haNugu
 haNugu
-hatamahiizaru
+hatamahiisharu
 hati
-hattarike
+hattarikE
 hattali
 hattaLa
 hattaahatti
-hattige
-hattige
-hattige
+hattigE
+hattigE
+hattigE
 hattidavu
 hattidavu
 hattisu
 hattu
-hattuge
-hatte
+hattugE
+hattE
 hadana
 hadana
 hadana
@@ -10674,13 +10674,13 @@ hadanaaytu
 hadanu
 hadanu
 hadanu
-hadavaLe
+hadavaLE
 hadavillu
 hadira
 hadiru
 haduLa
 haduLa
-haduLaviDaÀu
+haduLaviDaÀು
 haduLisi
 haduLisu
 haduLisu
@@ -10691,32 +10691,32 @@ hanana
 hanana
 hanumisalu
 habbidudu
-habbuge
+habbugE
 hamma
 hammida
 hammiira raavutara
 hammu
-hammuge
+hammugE
 hammaisi
 hammaisu
 hammaisu
 hammaisu
-haya abbaraNe
+haya abbaraNE
 hayaavaLi
 hara
 haragiri
-haracharaNanikSipta
+haracharaNanixipta
 haraDu
-haraDe
-haraDe
-haraDe
+haraDE
+haraDE
+haraDE
 haraNa
-haraNa bharaNa kSame
+haraNa bharaNa xamE
 haraNadavaaNi
 haratanija
 harada maatu
 haradaru
-haraderake
+haradErakE
 harana kaNgichchu
 harana holuva subhaTa
 haravari
@@ -10725,15 +10725,15 @@ haravi
 haravi
 harasi
 harahi
-harahiko
-harahikoLLu
+harahikO
+harahikOLLu
 harahina
 harahinali
 harahu
 harahugaLa puura
-harahugeDu
+harahugEDu
 haraLu
-haraLutekke
+haraLutEkkE
 hari
 hari
 hari
@@ -10743,17 +10743,17 @@ hari
 hari
 hari
 harikuNi
-harige
-harige
-harige
-harige
-harige
-harige
-harigeya
+harigE
+harigE
+harigE
+harigE
+harigE
+harigE
+harigEya
 harigolu
-hariNapakSa
-haritanda
-haritandu
+hariNapaxa
+haritaMda
+haritaMdu
 haritanuuja
 haritaru
 haritaha
@@ -10771,9 +10771,9 @@ haridudu
 haridudu
 hariduura
 haridera
-haridorevedda
-harinandana
-harinandana
+haridOrEvEdda
+harinaMdana
+harinaMdana
 harinibha
 hariba
 hariba
@@ -10791,12 +10791,12 @@ hariyadu
 hariyadu
 hariyabiDu
 hariyudayisidanu
-hariyechchaDe
+hariyEchchaDE
 hariva
 hariva
 hariva
 hariva
-hariva hejjeya
+hariva hEjjEya
 harivaagu
 harivaaNa
 harivaaytu
@@ -10813,34 +10813,34 @@ harugolu
 haruvu
 haruvu
 haruvu
-haruSajaladhi ukkisalubeku
-haruSalate
-haregaDi
-haregaDi
-haregaDi
-haregaDi
-haregaDi
-haregaDi
-hareda bala
-haredaru
-haredare
-haredavu
-haredu
-haredudu
-haredudu
-haredudu
-haredudu
+haruShajaladhi ukkisalubeku
+haruShalatE
+harEgaDi
+harEgaDi
+harEgaDi
+harEgaDi
+harEgaDi
+harEgaDi
+harEda bala
+harEdaru
+harEdarE
+harEdavu
+harEdu
+harEdudu
+harEdudu
+harEdudu
+harEdudu
 hala
-halage
-halage
+halagE
+halagE
 haladhara
 haladhara
 haladhara
-haladharanuLaye
+haladharanuLayE
 halabaru
 halaayudha
 halubidanu
-halumore
+halumOrE
 hallaNa
 hallaNisi
 hallaNisidavu
@@ -10849,7 +10849,7 @@ hallaNisu
 hallaNisu
 hallaNisu
 hallaNisu
-hallaNe
+hallaNE
 hallaLa
 hallaLa
 havaNa
@@ -10860,7 +10860,7 @@ havaNilla
 havaNisu
 havaNu
 havaNu
-havaLada halagegaLa maaLigeya
+havaLada halagEgaLa maaLigEya
 havissu
 havyakavya
 havyavaahana
@@ -10871,8 +10871,8 @@ hasaada
 hasaada
 hasaada
 hasaadava haayki
-hasuge
-hasuge
+hasugE
+hasugE
 hasuba
 hasuba
 hasuba
@@ -10885,7 +10885,7 @@ haLachi
 haLachidanu
 haLachidaru
 haLachidudu
-haLachidoDe
+haLachidODE
 haLachu
 haLachu
 haLachu
@@ -10893,11 +10893,11 @@ haLachu
 haLachu
 haLachu
 haLadiya paari
-haLavige
-haLahaLike
-haLahaLike
-haLahaLike
-haLahaLike
+haLavigE
+haLahaLikE
+haLahaLikE
+haLahaLikE
+haLahaLikE
 haLivu
 haLivu
 haLivu
@@ -10912,32 +10912,32 @@ haayi
 haayidaru
 haayidaru
 haayidu
-haaykide
+haaykidE
 haaydanu
 haaydanu
-haayvevu
+haayvEvu
 haara
 haarachaya
-haaraleke
+haaralekE
 haaridavu
 haaruvati
-haa¾u
+haa¾ು
 haalaahala
-haavase
-haavina haLavige
-haavumekke
+haavasE
+haavina haLavigE
+haavumEkkE
 haasa
 haasangi
 haasangi
-haasare
-haasare
-haasare
+haasarE
+haasarE
+haasarE
 haasugaLu
 haahaaviraava
-haahe
-haahe
+haahE
+haahE
 haaLi
-haaLu horu
+haaLu hOru
 hingidanu
 hingidanu
 hingidavu
@@ -10945,23 +10945,23 @@ hingu
 hinguva
 hinchitu
 hinchu
-hiMDaakaLu
-hiMDeya
-hindaNa korateya
-hindikki kombare
-hindugaLe
-hindugaLeyade
-hinde hattade
-himbeLe
+hiNDaakaLu
+hiNDEya
+hiMdaNa kOratEya
+hiMdikki kOMbarE
+hiMdugaLE
+hiMdugaLEyadE
+hiMdE hattadE
+hiMbELE
 hiMsaagama
 hikkaLisu
 hikku
 hikku
 hiTTuguTTu
-hiDimbakanemba asurapati
+hiDiMbakanEMba asurapati
 hiDiki
 hiDiyaaLu
-hiDihinge
+hiDihingE
 hiDihu
 hiDuhu
 hiNila
@@ -10973,19 +10973,19 @@ hiNilu
 hiNilu
 hiNilu
 hiNilukaruLu
-hinnele
-hippegara
+hinnElE
+hippEgara
 hima
 himakara
 himakarakulalalaama
 himaalayavaagaparajaladhi
-himmaDigoguva kuntaLa
-himmeTTu
+himmaDigOguva kuMtaLa
+himmETTu
 hiyyaaLi
 hiridu
 hiriyubbaNa
 hisuNa
-hisuNike
+hisuNikE
 hiLi
 hiLi
 hiLi
@@ -10993,17 +10993,17 @@ hiLi
 hiLi
 hiLida
 hiLidu
-hiLidu hiMDu
-hiLidevu
+hiLidu hiNDu
+hiLidEvu
 hiLiyali
-hiLiye
+hiLiyE
 hiLuku
 hiLuku
 hiLuku
 hiLuku
 hiLuku
 hiLukugaLu
-hiina indu
+hiina iMdu
 hiinagati
 hiiraavaLi
 hiiraavaLi
@@ -11029,36 +11029,36 @@ hudugu
 hudugu
 hudugu
 hudugu
-hudunela
-huduvina gaMDatana
+hudunEla
+huduvina gaNDatana
 huyyalu
 huyyalugaara
 huri
 huri huri
 huriguuDi
-hurigoMDudu
-hurigoL
-huribiDade
+hurigONDudu
+hurigOL
+huribiDadE
 huriyeru
 huriyeru
-huriyoDedu
-huriyoDedu
+huriyODEdu
+huriyODEdu
 huruDiga
 huruDisu
 huruDe
-huruLugeTTudu
-huruLugeDisu
-huruLenipa
+huruLugETTudu
+huruLugEDisu
+huruLEnipa
 hulisaaytu
 hulu
 hulu
 hulu
 hulu
 hulu
-huludaLadoLage
+huludaLadOLagE
 hulumRga
-huluvaTTe
-hulusaayte
+huluvaTTE
+hulusaaytE
 hullukai
 husi
 husika
@@ -11080,71 +11080,71 @@ huuNiga
 huuNigatana
 huuNu
 huuNu
-huuNe
-huuNe
-huuNe
-huuNehogu
-huuNehogu
+huuNE
+huuNE
+huuNE
+huuNEhOgu
+huuNEhOgu
 huuta
 huutudu
 huutudu
-huurige
+huurigE
 huuli
 huuvali
-huuvaLe
+huuvaLE
 huusaka
 huusaka
 huusi
 huusika
 huusu
 huusuka
-huuhe
-huuhe
-huuhe
-huuhe
+huuhE
+huuhE
+huuhE
+huuhE
 huuLida
 huuLida
 huuLida
 huuLidavu
 huuLu
-huuLe biisida guLa
+huuLE biisida guLa
 hRtkamala
 hRtsaMvaada
 hRdayasanchita
-hekkaLa
-hekkaLa
-hekkaLa
-hekkaLavikkida
-hekkaLisu
-heggahaLegaLu
-heÉggaaLe
-heggombe
-hechchaaLu
-hechchaaLutana
-hechchi
-hechchu
-heDage
-heDagai
-heDatale
-heDatale
-heDetale
-heNagu
-heNadinihi
-hedaredeya
-hebbaTTe
-hebbala
-hebbidiru
-hebbeLasu
-hemmakkaLu
-hemmaLe
-heratege
-heradege
-herasaaru
-here
+hEkkaLa
+hEkkaLa
+hEkkaLa
+hEkkaLavikkida
+hEkkaLisu
+hEggahaLEgaLu
+hEÉggaaLE
+hEggOMbE
+hEchchaaLu
+hEchchaaLutana
+hEchchi
+hEchchu
+hEDagE
+hEDagai
+hEDatalE
+hEDatalE
+hEDEtalE
+hENagu
+hENadinihi
+hEdarEdEya
+hEbbaTTE
+hEbbala
+hEbbidiru
+hEbbELasu
+hEmmakkaLu
+hEmmaLE
+hEratEgE
+hEradEgE
+hErasaaru
+hErE
 hemagiri
-heramba
+heraMba
 heraDavi
-heraane
+heraanE
 heraasi
 heraaLa
 heraaLa
@@ -11152,233 +11152,233 @@ heritu
 herugaLu
 herura
 heva
-hevageDisidavaru
+hevagEDisidavaru
 hevamaari
 hevarisu
-heSaaninada
-heSaarava
-heSitarava
-heLike aaytu
-heLike aaytu
-heLige
-heLige
-haiDimba
-hongari
-hongida
-hongu
-hongu
-hongu
-hongu
-hongu
-hongoDa
-hontakaari
-hontakaari
-hondaMDige
-hondaaLa
-hondike birubu
-hompuLi
-hompuLiyodanu
-hompuLivogi
-hombaraha
-hombaLi
-hombaaLe
-hombeLe
-hokkaru
-hokkavaru
-hokku
-hokkudu
-hogariDutta
-hogarina
-hogarutiiDu
-hogareritu
-hogareLu
-hogarogu
-hogali
-hogaLu
-hogaLu<pugaL haLegannaDadalli pugaL
-hogisu
-hogu
-hoguvatta
-hogedanu
-hogedudambara
-hogedudu
-hogedudu
-hogedegeda
-hogevandu
-hogeverasi
-hoTTanuuki
-hoTTuga
-hoTTugara
-hoTTuguTTu
-hoTTe horeka
-hoDakarisi
-hoDakarisu
-hoDamaraLi
-hoDavaMTu
-hoDavaMDisu
-hoDe
-hoDe maraLida
-hoDe maraLe
-hoDegeDe
-hoDegeDedavu
-hoDegoLisalu
-hoDemaguL
-hoDemaraLu
-hoDeseMDu
-hoNakigaru
-hoNake
-hoNake
-hoNakeyinda
-hoNe
-hoNegaara
-hotta asu
-hottu
-hottugaLe
-hodakuLi
-hodara
-hodaraDisi
-hodarahoyilinalli
-hodarina horaLi
-hodarina horaLi
-hodaru
-hodaru
-hodarudege
-hodareddu mugida
-hodareLu
-hodasu
-hode
-hode
-hode
-hode
-hodegaLa kedari
-hodegedari
-hodegedaru
-hodesidavu
-hoddade
-hoddi
-hoddiga
-hodditake
-hoddidanu
-hoddidaru
-hoddisu
-hoddu
-hoddu
-honalugiDi
-honna saari
-honnaayuga
-hommiNi
-hoy
-hoyi
-hoyidaaDidaru
-hoyilina
-hoyilu
-hoykambi
-hoy‍key
-hoykaiy
-hoygaLu
-hoydaaDi
-hoydaaDi
-hoydu
-hoydu
-hoyyu
-hoyla
-hoyla
-hoyla hodareddavu
-hoyla horaTe
-hoylali
-hoylina
-horagundidaru
-horagugaNe
-horabaahe
-horabaahe
-horabiga
-horabinoLu
-horabiisi
-horabiiLu
-horavaMTa
-horavaMDisu
-horavaDisu
-horaLi
-horaLi hodaru
-horaLigaTTu
-horaLichu
-horaLitu
-horaLiya narava
-horaLisu
-horige
-horige
-horige
-horige
-horigevaaLa
-horisu
-horuvenu
-hore
-hore
-hore
-hore
-horege
-horeda
-horedavana
-horedu
-horedegedu
-horeyalu
-horeyeri
-horeyeru
-horeyeru
-horeyoLage
-horeva
-horevavaru
-horehogade
-horehogade
-holage
-holabu
-holabugeDisu
-holabuhoddada
-hole
-holeya
-holleha
-holleha
-holleha
-hollehavu
-hollehave
-hoLaku
-hoLaku
-hoLakegaLo
-hoLala parivaara
-hoLalu
-hoLahu
-hoLahu duuvaaLi
-hoLahumige
-hoLe
-hoLLaagadu
-hoLLisabahude
-hoLLisi
-hoLLisu
-hoLLisuttide
-hoLLise
-hoLLu
-hoLLu
-hoLLu
-hoLLuga
-hoLLugaranu
-hoLLugaLe
-hoLLugaLe
-hoLLuvaaru
+heShaaninada
+heShaarava
+heShitarava
+heLikE aaytu
+heLikE aaytu
+heLigE
+heLigE
+haiDiMba
+hOngari
+hOngida
+hOngu
+hOngu
+hOngu
+hOngu
+hOngu
+hOngODa
+hOMtakaari
+hOMtakaari
+hOMdaNDigE
+hOMdaaLa
+hOMdikE birubu
+hOMpuLi
+hOMpuLiyodanu
+hOMpuLivogi
+hOMbaraha
+hOMbaLi
+hOMbaaLE
+hOMbELE
+hOkkaru
+hOkkavaru
+hOkku
+hOkkudu
+hOgariDutta
+hOgarina
+hOgarutiiDu
+hOgareritu
+hOgareLu
+hOgarOgu
+hOgali
+hOgaLu
+hOgaLu<pugaL haLEgannaDadalli pugaL
+hOgisu
+hOgu
+hOguvatta
+hOgEdanu
+hOgEdudaMbara
+hOgEdudu
+hOgEdudu
+hOgEdEgEda
+hOgEvaMdu
+hOgEvErasi
+hOTTanuuki
+hOTTuga
+hOTTugara
+hOTTuguTTu
+hOTTE hOrEka
+hODakarisi
+hODakarisu
+hODamaraLi
+hODavaNTu
+hODavaNDisu
+hODE
+hODE maraLida
+hODE maraLE
+hODEgEDE
+hODEgEDEdavu
+hODEgOLisalu
+hODEmaguL
+hODEmaraLu
+hODEsENDu
+hONakigaru
+hONakE
+hONakE
+hONakEyiMda
+hONE
+hONEgaara
+hOtta asu
+hOttu
+hOttugaLE
+hOdakuLi
+hOdara
+hOdaraDisi
+hOdarahOyilinalli
+hOdarina hOraLi
+hOdarina hOraLi
+hOdaru
+hOdaru
+hOdarudEgE
+hOdarEddu mugida
+hOdareLu
+hOdasu
+hOdE
+hOdE
+hOdE
+hOdE
+hOdEgaLa kEdari
+hOdEgEdari
+hOdEgEdaru
+hOdEsidavu
+hOddadE
+hOddi
+hOddiga
+hOdditakE
+hOddidanu
+hOddidaru
+hOddisu
+hOddu
+hOddu
+hOnalugiDi
+hOnna saari
+hOnnaayuga
+hOmmiNi
+hOy
+hOyi
+hOyidaaDidaru
+hOyilina
+hOyilu
+hOykaMbi
+hOykEy
+hOykaiy
+hOygaLu
+hOydaaDi
+hOydaaDi
+hOydu
+hOydu
+hOyyu
+hOyla
+hOyla
+hOyla hOdarEddavu
+hOyla horaTE
+hOylali
+hOylina
+hOraguMdidaru
+hOragugaNE
+hOrabaahE
+hOrabaahE
+hOrabiga
+hOrabinOLu
+hOrabiisi
+hOrabiiLu
+hOravaNTa
+hOravaNDisu
+hOravaDisu
+hOraLi
+hOraLi hOdaru
+hOraLigaTTu
+hOraLichu
+hOraLitu
+hOraLiya narava
+hOraLisu
+hOrigE
+hOrigE
+hOrigE
+hOrigE
+hOrigEvaaLa
+hOrisu
+hOruvEnu
+hOrE
+hOrE
+hOrE
+hOrE
+hOrEgE
+hOrEda
+hOrEdavana
+hOrEdu
+hOrEdEgEdu
+hOrEyalu
+hOrEyeri
+hOrEyeru
+hOrEyeru
+hOrEyOLagE
+hOrEva
+hOrEvavaru
+hOrEhOgadE
+hOrEhOgadE
+hOlagE
+hOlabu
+hOlabugEDisu
+hOlabuhOddada
+hOlE
+hOlEya
+hOllEha
+hOllEha
+hOllEha
+hOllEhavu
+hOllEhavE
+hOLaku
+hOLaku
+hOLakEgaLO
+hOLala parivaara
+hOLalu
+hOLahu
+hOLahu duuvaaLi
+hOLahumigE
+hOLE
+hOLLaagadu
+hOLLisabahudE
+hOLLisi
+hOLLisu
+hOLLisuttidE
+hOLLisE
+hOLLu
+hOLLu
+hOLLu
+hOLLuga
+hOLLugaranu
+hOLLugaLE
+hOLLugaLE
+hOLLuvaaru
 hotu+tarihigaLu
 hodaru
 horaTi
 horabeke
 hori
-horike
+horikE
 horidu
 horisu
 horu
-horugaLe
-horega
+horugaLE
+horEga
 hola
-holuvikeyimbiDiyalaarade
-hoLugaLeve
-asamasege-
-diSTivaaLa
-haaruvike
+holuvikEyiMbiDiyalaaradE
+hoLugaLEvE
+asamasEgE-
+diShTivaaLa
+haaruvikE
 
