@@ -2,9 +2,9 @@ STARDICT_TOOLS_DIR=~/stardict/tools/src/
 TABFILE=$(STARDICT_TOOLS_DIR)/tabfile
 STARDICT_SANSKRIT_BIN=~/stardict-sanskrit/bin
 
-ifndef dicts
-	dicts=*
-endif
+# make all DICTS=xyz
+DICTS=.*
+
 
 .PHONY: all stardict tars
 
