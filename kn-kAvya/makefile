@@ -14,5 +14,5 @@ stardict:
 
 
 tars:
-	bash $(STARDICT_SANSKRIT_BIN)/make_tarballs.sh https://github.com/sanskrit-coders/stardict-kannada/raw/master/kn-head DICTS=$(DICTS)
+	bash $(STARDICT_SANSKRIT_BIN)/make_tarballs.sh https://github.com/indic-dict/stardict-kannada/raw/master/kn-head DICTS=$(DICTS)
 
