@@ -8,7 +8,7 @@ DICTS=.*
 # make all DICTS=xyz
 DICTS=.*
 
-URL=https://github.com/indic-dict/stardict-kannada/raw/master/kn-head/tars
+URL=https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/tars
 
 .PHONY: all stardict tars
 

@@ -14,5 +14,5 @@ stardict:
 
 
 tars:
-	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh https://github.com/indic-dict/stardict-kannada/raw/master/kn-head DICTS=$(DICTS)
+	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head DICTS=$(DICTS)
 
