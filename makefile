@@ -1,4 +1,4 @@
-SUBDIRS := kn-head/. en-head/. kn-kAvya/.
+SUBDIRS := kn-head/. kn-kAvya/.
 TARGETS := full all tars tarlist  # whatever else, but must not contain '/'
 
 # foo/.all bar/.all foo/.clean bar/.clean
