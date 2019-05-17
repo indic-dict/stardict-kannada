@@ -1,0 +1,10 @@
+/.project
+
+*.dict.dz
+*.syn
+*.idx
+*.ifo
+*.babylon_final
+
+# But not these files...
+!wiktionary_kn/*
