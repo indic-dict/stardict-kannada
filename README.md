@@ -1,6 +1,8 @@
 stardict-kannada
 ================
 
+[![Build Status](https://travis-ci.com/indic-dict/stardict-kannada.svg?branch=master)](https://travis-ci.com/indic-dict/stardict-kannada)
+
 Stardict dictionary files for the Kannada language. (ಕನ್ನಡ ನಿಘಂಟುಗಳು / ಶಬ್ದಕೋಶಗಳು)
 
 Website : <https://sites.google.com/site/sanskritcode/dictionaries>
