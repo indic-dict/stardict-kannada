@@ -5,9 +5,6 @@ DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
 # make all DICTS=xyz
 DICTS=.*
 
-# make all DICTS=xyz
-DICTS=.*
-
 URL=https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/tars
 
 .PHONY: all stardict tars

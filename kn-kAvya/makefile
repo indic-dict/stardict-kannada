@@ -5,6 +5,8 @@ DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
 # make all DICTS=xyz
 DICTS=.*
 
+URL=https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-kAvya/tars
+
 .PHONY: all stardict tars
 
 all:stardict tars
@@ -14,7 +16,12 @@ stardict:
 
 
 tars:
-	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head DICTS=$(DICTS)
+	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh $(URL) DICTS=$(DICTS)
 
 full:
-	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN)
+	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN)
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
+current_dir := $(dir $(mkfile_path))
+# Let the URL not end with /.
+tarlist:
+	bash $(DICT_TOOLS_BIN_BASH)/update_tars_md.sh $(current_dir)tars $(URL)
