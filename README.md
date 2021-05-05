@@ -7,4 +7,4 @@ Stardict dictionary files for the Kannada language. (ಕನ್ನಡ ನಿಘ�
 
 Website : <https://sanskrit-coders.github.io/dictionaries/offline/>
 
-If you have access ​to other digitized Kannada dictionaries - you are welcome to contribute to the stardict-kannada project and help keep Kannada readership and scholarship vitally alive!
+If you have access to other digitized Kannada dictionaries - you are welcome to contribute to the stardict-kannada project and help keep Kannada readership and scholarship vitally alive!
