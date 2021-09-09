@@ -6,4 +6,4 @@ https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/slobs/keshir
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/slobs/kumAravyAsa__2020-09-29_10-45-57Z__1MB.slob  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/slobs/pampana-nuDi-gaNi__2021-09-08_12-44-20Z__2MB.slob  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/slobs/sanxipta-kannaDa-nighaNTu-ka-sa-pa__2021-09-08_12-44-20Z__2MB.slob  
-https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/slobs/wiktionary_kn__2021-09-09_03-46-01__35MB.slob  
+https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/slobs/wiktionary_kn__2021-09-09_03-49-53__35MB.slob  
