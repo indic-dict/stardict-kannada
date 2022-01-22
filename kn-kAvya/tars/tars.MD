@@ -1,1 +1,1 @@
-https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-kAvya/tars/kagga__2022-01-21_04-44-51Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-kAvya/tars/kagga__2022-01-22_15-16-18Z__0MB.tar.gz  
