@@ -1,4 +1,4 @@
-https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/champU-nuDi-gannaDi__2022-05-08_14-05-55Z__2MB.tar.gz  
+https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/champU-nuDi-gannaDi__2022-05-08_15-19-11Z__2MB.tar.gz  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/haLe-gannaDa-pada-sampada__2022-01-22_15-16-18Z__1MB.tar.gz  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/janapada-vastu-kosha__2022-01-22_15-16-18Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/kumAravyAsa__2022-01-22_15-16-18Z__0MB.tar.gz  
