@@ -8,4 +8,4 @@ https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/s
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/slobs/maisUru-vishvakosha_4__2022-03-27_12-23-01Z__0MB.slob  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/slobs/pampana-nuDi-gaNi__2022-01-22_15-16-18Z__2MB.slob  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/slobs/sanxipta-kannaDa-nighaNTu-ka-sa-pa__2022-01-22_15-16-18Z__5MB.slob  
-https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/slobs/shrIvatsa-nighaNTu__2022-05-08_14-41-17Z__0MB.slob  
+https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/slobs/shrIvatsa-nighaNTu__2022-05-09_00-33-27Z__0MB.slob  

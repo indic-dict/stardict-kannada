@@ -8,4 +8,4 @@ https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/t
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/maisUru-vishvakosha_4__2022-03-27_12-23-01Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/pampana-nuDi-gaNi__2022-01-22_15-16-18Z__1MB.tar.gz  
 https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/sanxipta-kannaDa-nighaNTu-ka-sa-pa__2022-01-22_15-16-18Z__1MB.tar.gz  
-https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/shrIvatsa-nighaNTu__2022-05-08_14-41-17Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-kannada/raw/gh-pages/kn-head/kn-entries/tars/shrIvatsa-nighaNTu__2022-05-09_00-33-27Z__0MB.tar.gz  
